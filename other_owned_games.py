@@ -1,6 +1,5 @@
 import os
 import time
-import json
 from datetime import datetime
 from dotenv import load_dotenv, find_dotenv
 import requests
@@ -13,7 +12,7 @@ END_DATE_STR = "2025-05-20"
 LANGUAGE = "english"
 MARKET = "us"
 SAMPLE_SIZE = 1000
-CACHE_FILE = "metadata_cache.json"  # Persistent cache for genres & tags
+OUTPUT_FOLDER = "game_data"
 
 # === Helper Functions ===
 
@@ -103,26 +102,19 @@ def get_owned_games(api_key, steam_id):
     return resp.json().get('response', {}).get('games', [])
 
 
-def fetch_spy_tags(appid):
-    """Fetch community tags from SteamSpy"""
+def fetch_kpis_spy(appid):
+    """Fetch KPI metrics from SteamSpy for a given appid"""
     url = f"https://steamspy.com/api.php?request=appdetails&appid={appid}"
     resp = requests.get(url)
     if not resp.ok:
-        return []
+        return {}
     data = resp.json()
-    tags = data.get('tags', {})
-    return list(tags.keys()) if isinstance(tags, dict) else []
-
-
-def fetch_spy_genres(appid):
-    """Fetch genres from SteamSpy response"""
-    url = f"https://steamspy.com/api.php?request=appdetails&appid={appid}"
-    resp = requests.get(url)
-    if not resp.ok:
-        return []
-    data = resp.json()
-    genres = data.get('genre', [])
-    return genres if isinstance(genres, list) else []
+    # select relevant KPIs
+    keys = ['appid', 'name', 'developer', 'publisher', 'score_rank',
+            'owners', 'average_forever', 'average_2weeks',
+            'median_forever', 'median_2weeks', 'ccu',
+            'price', 'initialprice', 'discount']
+    return {k: data.get(k) for k in keys}
 
 
 def main():
@@ -132,16 +124,12 @@ def main():
     if not api_key:
         raise RuntimeError('STEAM_API_KEY missing in .env')
 
-    # Load App list and persistent cache
-    apps_map = load_app_list()
-    if os.path.exists(CACHE_FILE):
-        with open(CACHE_FILE, 'r') as f:
-            cache = json.load(f)
-    else:
-        cache = {}
+    # Ensure output folder exists
+    os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
+    apps_map = load_app_list()
     start_date = datetime.strptime(START_DATE_STR, '%Y-%m-%d')
-    end_date = datetime.strptime(END_DATE_STR, '%Y-%m-%d')
+    end_date   = datetime.strptime(END_DATE_STR, '%Y-%m-%d')
 
     for game_name in GAME_NAMES:
         print(f"\nProcessing '{game_name}'...")
@@ -149,6 +137,10 @@ def main():
         if not appid:
             print(f"AppID not found for '{game_name}', skipping.")
             continue
+
+        # Fetch KPI for this game
+        print("Fetching KPIs...")
+        kpis = fetch_kpis_spy(appid)
 
         # Sample reviews and public users
         reviews = get_reviews(appid, MARKET, LANGUAGE, 100,
@@ -162,57 +154,37 @@ def main():
                 break
         print(f"Found {len(steamids)} public users")
 
-        # Collect needed AppIDs from user libraries
+        # Collect unique 'other games'
         needed = set()
         user_games = {}
         for sid in steamids:
             glist = get_owned_games(api_key, sid)
             user_games[sid] = glist
             for g in glist:
-                needed.add(str(g.get('appid')))
-
+                needed.add(g.get('name'))
         print(f"Total unique 'other games' encountered: {len(needed)}")
 
-        # Fetch missing metadata and update cache
-        for aid in needed:
-            if aid not in cache:
-                cache[aid] = {
-                    'genres': fetch_spy_genres(aid),
-                    'tags': fetch_spy_tags(aid)
-                }
-        # Persist cache
-        with open(CACHE_FILE, 'w') as f:
-            json.dump(cache, f)
-
-        # Build DataFrames
-        rows, genre_rows, tag_rows = [], [], []
+        # Build DataFrame for other games
+        rows = []
         for sid, glist in user_games.items():
             row = {'steamid': sid}
-            gsum, tsum = {}, {}
             for g in glist:
                 name = g.get('name')
                 hrs = g.get('playtime_forever', 0) / 60
                 row[name] = hrs
-                meta = cache.get(str(g.get('appid')), {})
-                for gen in meta.get('genres', []):
-                    gsum[gen] = gsum.get(gen, 0) + hrs
-                for tg in meta.get('tags', []):
-                    tsum[tg] = tsum.get(tg, 0) + hrs
             rows.append(row)
-            genre_rows.append({'steamid': sid, **gsum})
-            tag_rows.append({'steamid': sid, **tsum})
-
         df_games = pd.DataFrame(rows).fillna(0)
-        df_gen = pd.DataFrame(genre_rows).fillna(0)
-        df_tag = pd.DataFrame(tag_rows).fillna(0)
 
-        # Export to Excel
-        outfile = f"{game_name.replace(' ', '_')}_analysis.xlsx"
+        # Build KPI DataFrame (one row)
+        kpis['sample_size'] = len(steamids)
+        df_kpi = pd.DataFrame([kpis])
+
+        # Export to Excel in game_data folder with two sheets
+        outfile = os.path.join(OUTPUT_FOLDER, f"{game_name.replace(' ', '_')}_analysis.xlsx")
         with pd.ExcelWriter(outfile) as writer:
             df_games.to_excel(writer, sheet_name='Other Games', index=False)
-            df_gen.to_excel(writer, sheet_name='Other Genres', index=False)
-            df_tag.to_excel(writer, sheet_name='Other Tags', index=False)
-        print(f"Exported to {outfile}")
+            df_kpi.to_excel(writer, sheet_name='KPIs', index=False)
+        print(f"Exported other games and KPIs to {outfile}")
 
 if __name__ == '__main__':
     main()
