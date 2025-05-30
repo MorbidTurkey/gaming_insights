@@ -7,3 +7,5 @@ owned_games.xlsx
 Slay_the_Spire_other_games_played.xlsx
 support.ipynb
 steamandsteamspy.py
+*.xlsx
+game_data/Slay_the_Spire_analysis.xlsx
