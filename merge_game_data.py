@@ -57,6 +57,14 @@ def main():
     with pd.ExcelWriter(OUTPUT_FILE) as writer:
         kpi_df.to_excel(writer, sheet_name='All KPIs', index=False)
         other_df.to_excel(writer, sheet_name='Top Other Games', index=False)
+
+    # Export txt versions (tab-separated)
+    kpi_txt = OUTPUT_FILE.replace('.xlsx', '_all_kpis.txt')
+    other_txt = OUTPUT_FILE.replace('.xlsx', '_top_other_games.txt')
+    kpi_df.to_csv(kpi_txt, sep='\t', index=False)
+    other_df.to_csv(other_txt, sep='\t', index=False)
+    print(f"Also wrote {kpi_txt} and {other_txt}")
+
     print("Done.")
 
 

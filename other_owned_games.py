@@ -7,7 +7,7 @@ import pandas as pd
 import difflib
 
 # === Configuration Parameters ===
-GAME_NAMES = ["Thea The Awakening"]  # List of target game names to sample
+GAME_NAMES = ["The Warlock of Firetop Mountain", "Deathtrap Dungeon Trilogy", "Curious Expedition", "Frostpunk 1886", "This War of Mine", "Rogue Hex"  ]  # List of target game names to sample
 # Start with last 6 months
 LANGUAGE = "english"
 MARKET = "us"
@@ -48,36 +48,50 @@ def get_reviews(app_id, country, language, per_page, start_date, end_date, max_r
     end_ts = int(end_date.timestamp())
     reviews, cursor = [], "*"
     headers = {"User-Agent": "Mozilla/5.0"}
-    while len(reviews) < max_reviews:
-        params = {
-            "json": 1,
-            # fetch all reviews to cover full date range
-            "filter": "all",
-            "language": language,
-            "purchase_type": "all",
-            "cc": country,
-            "num_per_page": per_page,
-            "cursor": cursor
-        }
-        resp = requests.get(
-            f"https://store.steampowered.com/appreviews/{app_id}",
-            params=params, headers=headers
-        )
-        resp.raise_for_status()
-        data = resp.json()
-        batch = data.get("reviews", [])
-        if not batch:
-            break
-        for r in batch:
-            ts = r.get('timestamp_created', 0)
-            if ts < start_ts:
-                return reviews
-            if ts <= end_ts:
-                reviews.append(r)
-                if len(reviews) >= max_reviews:
-                    break
-        cursor = data.get('cursor', cursor)
-        time.sleep(0.2)
+    max_retries = 5
+    for attempt in range(max_retries):
+        try:
+            resp = requests.get(
+                f"https://store.steampowered.com/appreviews/{app_id}",
+                params={
+                    "json": 1,
+                    # fetch all reviews to cover full date range
+                    "filter": "all",
+                    "language": language,
+                    "purchase_type": "all",
+                    "cc": country,
+                    "num_per_page": per_page,
+                    "cursor": cursor
+                }, headers=headers
+            )
+            resp.raise_for_status()
+            data = resp.json()
+            batch = data.get("reviews", [])
+            if not batch:
+                break
+            for r in batch:
+                ts = r.get('timestamp_created', 0)
+                if ts < start_ts:
+                    return reviews
+                if ts <= end_ts:
+                    reviews.append(r)
+                    if len(reviews) >= max_reviews:
+                        break
+            cursor = data.get('cursor', cursor)
+            time.sleep(0.2)
+        except requests.exceptions.HTTPError as e:
+            if resp.status_code >= 500 and resp.status_code < 600:
+                if attempt < max_retries - 1:
+                    print(f"Server error {resp.status_code} on attempt {attempt+1}. Retrying in 5 seconds...")
+                    time.sleep(5)
+                    continue
+            raise  # re-raise if not a server error or out of retries
+        except requests.exceptions.RequestException as e:
+            if attempt < max_retries - 1:
+                print(f"Request error on attempt {attempt+1}: {e}. Retrying in 5 seconds...")
+                time.sleep(5)
+                continue
+            raise
     return reviews
 
 
@@ -193,6 +207,10 @@ def main():
 
         # Only keep up to SAMPLE_SIZE public profiles
         steamids = list(steamids_set)[:SAMPLE_SIZE]
+        if not steamids:
+            print(f"No public users found for '{game_display_name}', skipping export.")
+            continue
+
         # Collect unique 'other games'
         needed = set()
         user_games = {}
@@ -213,10 +231,16 @@ def main():
                 hrs = g.get('playtime_hours', g.get('playtime_forever', 0) / 60)
                 row[name] = hrs
             rows.append(row)
+        if not rows or len(needed) == 0:
+            print(f"No 'other games' data for '{game_display_name}', skipping export.")
+            continue
         df_games = pd.DataFrame(rows).fillna(0)
 
         # Remove columns where all values are zero (except 'steamid')
         nonzero_cols = ['steamid'] + [col for col in df_games.columns if col != 'steamid' and df_games[col].sum() > 0]
+        if not set(nonzero_cols).issubset(set(df_games.columns)):
+            print(f"No nonzero columns for '{game_display_name}', skipping export.")
+            continue
         df_games = df_games[nonzero_cols]
 
         # Limit columns to top 1000 by total playtime (excluding 'steamid')

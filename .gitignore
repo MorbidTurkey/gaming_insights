@@ -9,3 +9,5 @@ support.ipynb
 steamandsteamspy.py
 *.xlsx
 game_data/Slay_the_Spire_analysis.xlsx
+merged_game_data_all_kpis.txt
+merged_game_data_top_other_games.txt

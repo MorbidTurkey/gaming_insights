@@ -68,10 +68,18 @@ def parse_kpi_row(df_kpi):
             cards.append(
                 dbc.Card(
                     dbc.CardBody([
-                        html.Div(disp, className='h5 text-center mb-1'),
-                        html.Div(label, className='text-center')
+                        html.Div(
+                            disp,
+                            className='h5 text-center mb-1',
+                            style={'whiteSpace': 'normal', 'wordBreak': 'break-word'}
+                        ),
+                        html.Div(
+                            label,
+                            className='text-center',
+                            style={'whiteSpace': 'normal', 'wordBreak': 'break-word'}
+                        )
                     ]),
-                    style={'width': '8rem', 'height': '6rem'}
+                    style={'width': 'auto', 'minWidth': '8rem', 'height': '6rem', 'flex': '1 0 auto'}
                 )
             )
     return cards
