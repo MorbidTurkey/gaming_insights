@@ -164,7 +164,7 @@ layout = html.Div([
         dbc.Row([
             dbc.Col([
                 html.H4('Review Sentiment Over Time', className='text-center mb-3'),
-                dcc.Graph(id='sentiment-over-time')
+                dcc.Graph(id='sentiment-over-time', style={'height': '400px'})
             ], width=12)
         ]),
         html.Br(), html.Br(),
@@ -188,6 +188,8 @@ layout = html.Div([
                     style_table={
                         'overflowX': 'auto',
                         'border': 'none',
+                        'maxHeight': '500px',
+                        'overflowY': 'auto',
                     },
                     style_cell={
                         'minWidth': '120px',

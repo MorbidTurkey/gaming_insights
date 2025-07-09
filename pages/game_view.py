@@ -218,11 +218,11 @@ layout = html.Div([
         dbc.Row([
             dbc.Col([
                 html.H5('Genres of Other Games', className='text-center'),
-                dcc.Graph(id='pie-genres')
+                dcc.Graph(id='pie-genres', style={'height': '400px'})
             ], width=6),
             dbc.Col([
                 html.H5('Tags of Other Games', className='text-center'),
-                dcc.Graph(id='pie-tags')
+                dcc.Graph(id='pie-tags', style={'height': '400px'})
             ], width=6)
         ], className='mt-4'),
     # Removed filter state stores and clear all filters button
