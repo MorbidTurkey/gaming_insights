@@ -17,8 +17,10 @@ game_data/*
 game_data_cleaned/*
 !game_data_cleaned/Crusader_Kings_III_analysis.parquet
 
+
+# Allow all review parquet files to be committed
 reviews_data/*
-!reviews_data/reviews_1142710.parquet
+!reviews_data/*.parquet
 
 # Main data files (keep these)
 !merged_game_data.xlsx
