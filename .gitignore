@@ -1,13 +1,35 @@
-id_check.py
-key_check.py
+# Byte-compiled / cache / temp files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+*.log
+*.tmp
+
+# Environment files
 .env
-ALT_Slay_the_Spire_other_games_played.xlsx
-OLD_Slay_the_Spire_other_games_played.xlsx
-owned_games.xlsx
-Slay_the_Spire_other_games_played.xlsx
-support.ipynb
-steamandsteamspy.py
-*.xlsx
-game_data/Slay_the_Spire_analysis.xlsx
-merged_game_data_all_kpis.txt
-merged_game_data_top_other_games.txt
+*.env
+
+# Data folders (ignore all except sample files)
+game_data/*
+!game_data/Crusader_Kings_III_analysis.parquet
+!game_data/Crusader_Kings_III_analysis.xlsx
+
+game_data_cleaned/*
+!game_data_cleaned/Crusader_Kings_III_analysis.parquet
+
+reviews_data/*
+!reviews_data/reviews_1142710.parquet
+
+# Main data files (keep these)
+!merged_game_data.xlsx
+!game_tags_and_genres.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/

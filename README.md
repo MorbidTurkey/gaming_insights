@@ -1,66 +1,76 @@
-# gaming_insights
-Find the aslo played data of gamers and other game kpis
+# Steam Game Analytics Dashboard
+
+An interactive dashboard for exploring Steam game KPIs, player overlap, and review sentiment.
 
 ---
 
-## Usage Guide
+## Features
 
-### 1. Collecting Other Owned Games Data (`other_owned_games.py`)
-See `README_other_owned_games.md` for full details. In summary:
-- Edit the `GAME_NAMES` list in `other_owned_games.py` to specify the games you want to analyze.
-- Run:
-  ```powershell
-  python other_owned_games.py
-  ```
-- Output Excel files will be saved in the `game_data/` folder, each with sheets for user-owned games and KPIs.
+- Game View: Explore KPIs and player overlap for each game.
+- Reviews View: Analyze review sentiment over time and see recent reviews.
+- Theme-aware UI with light/dark mode.
+- DataTables and dropdowns styled for accessibility.
+- Navigation between views with persistent game selection.
 
-### 2. Merging Game Data (`merge_game_data.py`)
-- After collecting data for multiple games, run:
-  ```powershell
-  python merge_game_data.py
-  ```
-- This script merges all `*_analysis.xlsx` files in `game_data/` into a single `merged_game_data.xlsx` file with two sheets:
-  - `All KPIs`: KPIs for each base game
-  - `Top Other Games`: Top other games owned/played by users for each base game
+---
 
-### 3. Interactive Dashboard (`dash_app.py`)
-- Launch the dashboard to explore the merged data visually:
-  ```powershell
-  python dash_app.py
-  ```
-- The dashboard allows you to select a game, view KPIs, and see which other games are most commonly owned/played by its audience.
+## Quick Start
 
-### 4. Testing Steam User IDs (`id_check.py`)
-- Use this script to test if a Steam user ID is valid and to export their owned games:
-  ```powershell
-  python id_check.py <steam_id> --output my_games.xlsx
-  ```
-- Requires a valid `STEAM_API_KEY` in your `.env` file.
+1. **Install requirements:**
+   ```powershell
+   pip install -r requirements.txt
+   ```
 
-### 5. Testing Steam API Key (`key_check.py`)
-- Use this script to quickly check if your Steam API key is valid:
-  ```powershell
-  python key_check.py
-  ```
-- Prints the HTTP status and a sample response from the Steam API.
+2. **Prepare your data:**
+   - Place your processed data in the `game_data/`, `game_data_cleaned/`, and `reviews_data/` folders.
+   - Ensure `merged_game_data.xlsx` and `game_tags_and_genres.json` are present in the project root.
+
+3. **Run the dashboard:**
+   ```powershell
+   python dash_app.py
+   ```
+
+4. **(Optional) Data refresh:**
+   - Use your data collection scripts (e.g., `fetch_steamspy_full_db.py`, `fetch_reviews_text.py`) to update your data files as needed.
+
+---
+
+## Deployment
+
+- You can deploy this app for free using [Render.com](https://render.com) or similar services.
+- See the deployment section above for step-by-step instructions.
 
 ---
 
 ## Requirements
+
 - Python 3.7+
-- `requests`, `pandas`, `python-dotenv`, `dash`, `dash-bootstrap-components`, `plotly`, and related dependencies
-- Steam Web API key in a `.env` file:
-  ```
-  STEAM_API_KEY=your_steam_api_key_here
-  ```
+- See `requirements.txt` for all dependencies.
+
+---
 
 ## Folder Structure
-- `game_data/`: Contains per-game Excel analysis files
-- `merged_game_data.xlsx`: Merged summary for dashboard
-- `dash_app.py`: Interactive dashboard
-- `other_owned_games.py`: Collects user/game data
-- `merge_game_data.py`: Merges per-game data
-- `id_check.py`: Test user IDs and export owned games
-- `key_check.py`: Test Steam API key validity
 
-For more details on each script, see comments at the top of each file and `README_other_owned_games.md`.
+- `dash_app.py` — Main dashboard app
+- `pages/` — Dashboard page layouts and callbacks
+- `shared_data.py` — Centralized data loading
+- `game_data/`, `game_data_cleaned/`, `reviews_data/` — Data folders
+- `merged_game_data.xlsx`, `game_tags_and_genres.json` — Main data files
+
+---
+
+## Data Refresh
+
+To update your dashboard with new data:
+- Run your data collection scripts to fetch and process new data.
+- Overwrite the files in `game_data/`, `reviews_data/`, and update `merged_game_data.xlsx` and `game_tags_and_genres.json`.
+- Restart the dashboard.
+
+---
+
+## Steam API Key
+
+Some scripts require a Steam Web API key in a `.env` file:
+```
+STEAM_API_KEY=your_steam_api_key_here
+```

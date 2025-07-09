@@ -1,0 +1,9650 @@
+{
+  "100% Orange Juice": {
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "tags": [
+      "Anime",
+      "Board Game",
+      "Cute",
+      "Multiplayer",
+      "Strategy",
+      "Card Game",
+      "Turn-Based",
+      "Indie",
+      "Casual",
+      "Funny",
+      "Great Soundtrack",
+      "Co-op",
+      "Female Protagonist",
+      "Singleplayer",
+      "2D",
+      "Difficult",
+      "Memes",
+      "Family Friendly",
+      "Comedy",
+      "Survival Horror"
+    ],
+    "appid": 282800
+  },
+  "7 Days to Die": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Survival",
+      "Zombies",
+      "Multiplayer",
+      "Open World",
+      "Open World Survival Craft",
+      "Base-Building",
+      "Post-apocalyptic",
+      "Voxel",
+      "Online Co-Op",
+      "Building",
+      "Exploration",
+      "Sandbox",
+      "FPS",
+      "Simulation",
+      "Tower Defense",
+      "Character Customization",
+      "Action",
+      "Horror",
+      "Strategy",
+      "Procedural Generation"
+    ],
+    "appid": 251570
+  },
+  "A Story About My Uncle": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "tags": [
+      "Adventure",
+      "First-Person",
+      "Parkour",
+      "Singleplayer",
+      "Indie",
+      "Atmospheric",
+      "Platformer",
+      "Story Rich",
+      "3D Platformer",
+      "Puzzle",
+      "Fantasy",
+      "Casual",
+      "Short",
+      "Sci-fi",
+      "Relaxing",
+      "Narration",
+      "Action",
+      "Family Friendly",
+      "Great Soundtrack",
+      "Difficult"
+    ],
+    "appid": 278360
+  },
+  "ACE COMBAT™ ASSAULT HORIZON Enhanced Edition": {
+    "genres": [],
+    "tags": []
+  },
+  "ARK: Survival Ascended": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Early Access"
+    ],
+    "tags": [
+      "Early Access",
+      "Survival",
+      "Open World",
+      "Multiplayer",
+      "Dinosaurs",
+      "Building",
+      "Adventure",
+      "Base-Building",
+      "Crafting",
+      "Action",
+      "Sandbox",
+      "Character Customization",
+      "Singleplayer",
+      "PvE",
+      "PvP",
+      "Massively Multiplayer",
+      "Inventory Management",
+      "RPG",
+      "Fantasy",
+      "Sci-fi"
+    ],
+    "appid": 2399830
+  },
+  "ARK: Survival Evolved": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "tags": [
+      "Open World Survival Craft",
+      "Survival",
+      "Multiplayer",
+      "Open World",
+      "Dinosaurs",
+      "Crafting",
+      "Building",
+      "Adventure",
+      "Base-Building",
+      "Co-op",
+      "Action",
+      "Sandbox",
+      "First-Person",
+      "Massively Multiplayer",
+      "Singleplayer",
+      "Early Access",
+      "RPG",
+      "Dragons",
+      "Sci-fi",
+      "Indie"
+    ],
+    "appid": 346110
+  },
+  "ATOM RPG": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "CRPG",
+      "Open World",
+      "Survival",
+      "RPG",
+      "Post-apocalyptic",
+      "Sandbox",
+      "Turn-Based Combat",
+      "Immersive Sim",
+      "Story Rich",
+      "Isometric",
+      "Replay Value",
+      "Turn-Based",
+      "Exploration",
+      "Singleplayer",
+      "Tactical",
+      "Atmospheric",
+      "Choices Matter",
+      "Turn-Based Strategy",
+      "Adventure",
+      "Dystopian "
+    ],
+    "appid": 1139940
+  },
+  "Across the Obelisk": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Rogue-like",
+      "Strategy",
+      "2D",
+      "Fantasy",
+      "Roguelike Deckbuilder",
+      "Card Game",
+      "Singleplayer",
+      "RPG",
+      "Card Battler",
+      "Multiplayer",
+      "Co-op",
+      "Deckbuilding",
+      "Turn-Based",
+      "Rogue-lite",
+      "Dungeon Crawler",
+      "Replay Value",
+      "Difficult",
+      "Class-Based",
+      "Turn-Based Combat",
+      "Mouse only"
+    ],
+    "appid": 1385380
+  },
+  "AdVenture Capitalist": {
+    "genres": [],
+    "tags": []
+  },
+  "Against the Storm": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "City Builder",
+      "Simulation",
+      "Base-Building",
+      "Colony Sim",
+      "Management",
+      "Building",
+      "Resource Management",
+      "Rogue-like",
+      "Survival",
+      "Dark Fantasy",
+      "Sandbox",
+      "Real-Time with Pause",
+      "Open World",
+      "Singleplayer",
+      "Moddable",
+      "RTS",
+      "Economy",
+      "Replay Value",
+      "Automation"
+    ],
+    "appid": 1336490
+  },
+  "Age of Empires II: Definitive Edition": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "RTS",
+      "City Builder",
+      "Multiplayer",
+      "Base-Building",
+      "Historical",
+      "Singleplayer",
+      "Medieval",
+      "Resource Management",
+      "Classic",
+      "Tactical",
+      "Real-Time",
+      "Co-op",
+      "Remake",
+      "Isometric",
+      "2D",
+      "Replay Value",
+      "Action",
+      "Adventure",
+      "Great Soundtrack"
+    ],
+    "appid": 813780
+  },
+  "Age of Gladiators": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Simulation",
+      "Management",
+      "RPG",
+      "Casual",
+      "Sports",
+      "Indie",
+      "Rome",
+      "Singleplayer",
+      "Turn-Based",
+      "Historical",
+      "Replay Value",
+      "Alternate History",
+      "Text-Based",
+      "Medieval",
+      "Auto Battler",
+      "Strategy RPG",
+      "Turn-Based Strategy",
+      "Grand Strategy",
+      "Adventure"
+    ],
+    "appid": 442500
+  },
+  "Age of Mythology: Extended Edition": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Mythology",
+      "RTS",
+      "Classic",
+      "Multiplayer",
+      "Nostalgia",
+      "Great Soundtrack",
+      "Singleplayer",
+      "Epic",
+      "Fantasy",
+      "Simulation",
+      "Historical",
+      "Real-Time",
+      "Atmospheric",
+      "Tactical",
+      "Co-op",
+      "Adventure",
+      "Story Rich",
+      "Remake",
+      "Action"
+    ],
+    "appid": 266840
+  },
+  "Age of Wonders 4": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "4X",
+      "Character Customization",
+      "Fantasy",
+      "RPG",
+      "Strategy RPG",
+      "Turn-Based Strategy",
+      "Choices Matter",
+      "Moddable",
+      "Dwarf",
+      "Lore-Rich",
+      "Combat",
+      "Grand Strategy",
+      "Magic",
+      "Co-op",
+      "Singleplayer",
+      "Exploration",
+      "Multiplayer",
+      "Top-Down",
+      "Tactical RPG"
+    ],
+    "appid": 1669000
+  },
+  "Age of Wonders III": {
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Turn-Based Strategy",
+      "Fantasy",
+      "RPG",
+      "4X",
+      "Turn-Based",
+      "Multiplayer",
+      "Singleplayer",
+      "Tactical",
+      "Dwarf",
+      "Hex Grid",
+      "Co-op",
+      "Adventure",
+      "Grand Strategy",
+      "Great Soundtrack",
+      "Atmospheric",
+      "Classic",
+      "Moddable",
+      "Female Protagonist",
+      "Action"
+    ],
+    "appid": 226840
+  },
+  "Age of Wonders: Planetfall": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Turn-Based Strategy",
+      "4X",
+      "Sci-fi",
+      "Character Customization",
+      "Turn-Based",
+      "Economy",
+      "Management",
+      "Dinosaurs",
+      "Tactical",
+      "Futuristic",
+      "City Builder",
+      "Space",
+      "Hex Grid",
+      "Singleplayer",
+      "PvP",
+      "Multiplayer",
+      "Perma Death",
+      "Aliens",
+      "War"
+    ],
+    "appid": 718850
+  },
+  "Among Us": {
+    "genres": [
+      "Casual"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Social Deduction",
+      "Online Co-Op",
+      "Space",
+      "Survival",
+      "2D",
+      "Funny",
+      "Psychological",
+      "Party Game",
+      "Co-op",
+      "Cartoony",
+      "Local Multiplayer",
+      "Casual",
+      "Action",
+      "Sci-fi",
+      "PvP",
+      "Top-Down",
+      "Colorful",
+      "Minigames",
+      "Aliens"
+    ],
+    "appid": 945360
+  },
+  "Anno 1800": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "City Builder",
+      "Strategy",
+      "Simulation",
+      "Economy",
+      "Multiplayer",
+      "Resource Management",
+      "Sandbox",
+      "RTS",
+      "Co-op",
+      "Singleplayer",
+      "Exploration",
+      "Management",
+      "Historical",
+      "Building",
+      "Political",
+      "Politics",
+      "Choose Your Own Adventure",
+      "Story Rich",
+      "Choices Matter",
+      "Multiple Endings"
+    ],
+    "appid": 916440
+  },
+  "Anno 2070": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "City Builder",
+      "Simulation",
+      "Futuristic",
+      "RTS",
+      "Resource Management",
+      "Economy",
+      "Multiplayer",
+      "Singleplayer",
+      "Management",
+      "Sci-fi",
+      "Building",
+      "Real-Time",
+      "Sandbox",
+      "Trading",
+      "Co-op",
+      "Great Soundtrack",
+      "Online Co-Op",
+      "4X",
+      "Story Rich"
+    ],
+    "appid": 48240
+  },
+  "Apex Legends": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play"
+    ],
+    "tags": [
+      "Free to Play",
+      "Battle Royale",
+      "Multiplayer",
+      "FPS",
+      "Shooter",
+      "First-Person",
+      "PvP",
+      "Action",
+      "Hero Shooter",
+      "Team-Based",
+      "Tactical",
+      "Sci-fi",
+      "Loot",
+      "Survival",
+      "Co-op",
+      "Character Customization",
+      "Funny",
+      "Lore-Rich",
+      "Cyberpunk",
+      "Cinematic"
+    ],
+    "appid": 1172470
+  },
+  "Arcanum": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Steampunk",
+      "Story Rich",
+      "Isometric",
+      "Classic",
+      "Fantasy",
+      "CRPG",
+      "Open World",
+      "Singleplayer",
+      "Atmospheric",
+      "Magic",
+      "Cult Classic",
+      "Character Customization",
+      "Choices Matter",
+      "Great Soundtrack",
+      "Turn-Based Combat",
+      "Adventure",
+      "Turn-Based",
+      "Real-Time with Pause",
+      "Dwarf"
+    ],
+    "appid": 500810
+  },
+  "Arma 3": {
+    "genres": [
+      "Action",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Military",
+      "Action",
+      "Multiplayer",
+      "Shooter",
+      "Simulation",
+      "Realistic",
+      "First-Person",
+      "Open World",
+      "Tactical",
+      "FPS",
+      "War",
+      "Co-op",
+      "Strategy",
+      "Sandbox",
+      "Singleplayer",
+      "Moddable",
+      "Combat",
+      "Online Co-Op",
+      "Team-Based",
+      "Third-Person Shooter"
+    ],
+    "appid": 107410
+  },
+  "Artifact Classic": {
+    "genres": [],
+    "tags": []
+  },
+  "Aseprite": {
+    "genres": [
+      "Animation & Modeling",
+      "Design & Illustration",
+      "Game Development"
+    ],
+    "tags": [
+      "Pixel Graphics",
+      "Design & Illustration",
+      "Animation & Modeling",
+      "Software",
+      "Game Development",
+      "2D",
+      "Utilities",
+      "Indie",
+      "Retro",
+      "Cute",
+      "Singleplayer",
+      "Survival Horror"
+    ],
+    "appid": 431730
+  },
+  "Assassin's Creed Odyssey": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "tags": [
+      "Open World",
+      "RPG",
+      "Singleplayer",
+      "Historical",
+      "Action",
+      "Assassin",
+      "Third Person",
+      "Adventure",
+      "Mythology",
+      "Stealth",
+      "Multiple Endings",
+      "Story Rich",
+      "Female Protagonist",
+      "Parkour",
+      "Choices Matter",
+      "Exploration",
+      "Action RPG",
+      "Multiplayer",
+      "Action-Adventure",
+      "Choose Your Own Adventure"
+    ],
+    "appid": 812140
+  },
+  "Awesomenauts": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy",
+      "Free To Play"
+    ],
+    "tags": [
+      "MOBA",
+      "Multiplayer",
+      "2D",
+      "Platformer",
+      "Action",
+      "Indie",
+      "Local Co-Op",
+      "Co-op",
+      "Great Soundtrack",
+      "Strategy",
+      "Free to Play",
+      "Controller",
+      "Local Multiplayer",
+      "Sci-fi",
+      "Online Co-Op",
+      "Competitive",
+      "Space",
+      "Side Scroller",
+      "Cartoon",
+      "Funny"
+    ],
+    "appid": 204300
+  },
+  "BATTLETECH": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Strategy"
+    ],
+    "tags": [
+      "Mechs",
+      "Strategy",
+      "Turn-Based Tactics",
+      "Turn-Based",
+      "Sci-fi",
+      "Turn-Based Strategy",
+      "Tactical",
+      "Action",
+      "Robots",
+      "Character Customization",
+      "Singleplayer",
+      "RPG",
+      "Space",
+      "Adventure",
+      "Futuristic",
+      "Management",
+      "Multiplayer",
+      "Story Rich",
+      "Great Soundtrack",
+      "Difficult"
+    ],
+    "appid": 637090
+  },
+  "Balatro": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "tags": [
+      "Card Game",
+      "Roguelike Deckbuilder",
+      "Rogue-like",
+      "Deckbuilding",
+      "Singleplayer",
+      "Strategy",
+      "Pixel Graphics",
+      "Replay Value",
+      "Rogue-lite",
+      "Turn-Based",
+      "Card Battler",
+      "Casual",
+      "Difficult",
+      "Choices Matter",
+      "2D",
+      "Turn-Based Strategy",
+      "Indie",
+      "Relaxing",
+      "Arcade",
+      "Procedural Generation"
+    ],
+    "appid": 2379780
+  },
+  "Baldur's Gate 3": {
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "RPG",
+      "Character Customization",
+      "Choices Matter",
+      "Story Rich",
+      "Turn-Based Combat",
+      "Dungeons & Dragons",
+      "CRPG",
+      "Fantasy",
+      "Adventure",
+      "Sexual Content",
+      "Romance",
+      "Online Co-Op",
+      "Multiplayer",
+      "Strategy",
+      "Singleplayer",
+      "Co-op Campaign",
+      "Nudity",
+      "Class-Based",
+      "Dark Fantasy",
+      "Combat"
+    ],
+    "appid": 1086940
+  },
+  "Balrum": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "RPG",
+      "Adventure",
+      "Crafting",
+      "Strategy",
+      "Isometric",
+      "Open World",
+      "Indie",
+      "Survival",
+      "Sandbox",
+      "Fantasy",
+      "CRPG",
+      "Turn-Based Combat",
+      "Building",
+      "2D",
+      "Singleplayer",
+      "Old School",
+      "Turn-Based",
+      "Exploration",
+      "Retro",
+      "Farming"
+    ],
+    "appid": 424250
+  },
+  "Battle Brothers": {
+    "genres": [
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "RPG",
+      "Medieval",
+      "Open World",
+      "Turn-Based Tactics",
+      "Turn-Based Strategy",
+      "Character Customization",
+      "War",
+      "Sandbox",
+      "Tactical",
+      "Simulation",
+      "Action",
+      "Tactical RPG",
+      "Turn-Based Combat",
+      "Replay Value",
+      "Moddable",
+      "Turn-Based",
+      "Singleplayer",
+      "Historical",
+      "Adventure"
+    ],
+    "appid": 365360
+  },
+  "Battlefield™ V": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "FPS",
+      "Multiplayer",
+      "Singleplayer",
+      "World War II",
+      "Shooter",
+      "War",
+      "Military",
+      "First-Person",
+      "Massively Multiplayer",
+      "PvP",
+      "Combat",
+      "Open World",
+      "Action",
+      "Historical",
+      "Destruction",
+      "Battle Royale",
+      "Atmospheric",
+      "Violent",
+      "Sexual Content",
+      "Female Protagonist"
+    ],
+    "appid": 1238810
+  },
+  "Battlefleet Gothic: Armada 2": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Space",
+      "Strategy",
+      "Warhammer 40K",
+      "RTS",
+      "Real Time Tactics",
+      "Sci-fi",
+      "Singleplayer",
+      "Games Workshop",
+      "Multiplayer",
+      "Co-op",
+      "Violent",
+      "Naval",
+      "Naval Combat",
+      "War",
+      "Atmospheric",
+      "Tactical",
+      "Co-op Campaign"
+    ],
+    "appid": 573100
+  },
+  "Battlerite": {
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "tags": [
+      "Free to Play",
+      "Action",
+      "MOBA",
+      "Multiplayer"
+    ],
+    "appid": 746730
+  },
+  "Black Desert": {
+    "genres": [],
+    "tags": []
+  },
+  "Blender": {
+    "genres": [
+      "Animation & Modeling",
+      "Design & Illustration",
+      "Video Production"
+    ],
+    "tags": [
+      "Animation & Modeling",
+      "Software",
+      "Design & Illustration",
+      "Free to Play",
+      "Game Development",
+      "Video Production",
+      "3D",
+      "Difficult",
+      "GameMaker",
+      "Utilities",
+      "Physics",
+      "Singleplayer",
+      "3D Vision",
+      "Sandbox",
+      "2D",
+      "Moddable",
+      "Building",
+      "Hentai",
+      "Survival Horror",
+      "Story Rich"
+    ],
+    "appid": 365670
+  },
+  "Blood Bowl 2": {
+    "genres": [
+      "Sports",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Multiplayer",
+      "Fantasy",
+      "Board Game",
+      "Singleplayer",
+      "Turn-Based",
+      "Turn-Based Strategy",
+      "Tactical",
+      "RPG",
+      "PvP",
+      "Funny",
+      "Dark Fantasy",
+      "Action",
+      "Turn-Based Tactics",
+      "Gore",
+      "Violent",
+      "Games Workshop",
+      "Sports",
+      "Football (American)",
+      "Dark Humor"
+    ],
+    "appid": 236690
+  },
+  "Bloons TD 6": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Tower Defense",
+      "Strategy",
+      "Multiplayer",
+      "Singleplayer",
+      "Online Co-Op",
+      "Co-op",
+      "Family Friendly",
+      "Casual",
+      "3D",
+      "Cartoony",
+      "Sandbox",
+      "2D",
+      "Great Soundtrack",
+      "Difficult",
+      "Touch-Friendly",
+      "Cute",
+      "Funny",
+      "Addictive",
+      "Survival",
+      "Action"
+    ],
+    "appid": 960090
+  },
+  "Borderlands 2": {
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "Loot",
+      "Shooter",
+      "Action",
+      "Multiplayer",
+      "Co-op",
+      "Looter Shooter",
+      "FPS",
+      "RPG",
+      "First-Person",
+      "Funny",
+      "Comedy",
+      "Open World",
+      "Combat",
+      "Online Co-Op",
+      "Adventure",
+      "Action RPG",
+      "Dark Humor",
+      "Singleplayer",
+      "Memes",
+      "Sci-fi"
+    ],
+    "appid": 49520
+  },
+  "Braid": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "tags": [
+      "Puzzle-Platformer",
+      "2D Platformer",
+      "Puzzle",
+      "Platformer",
+      "Action-Adventure",
+      "2D",
+      "Action",
+      "Time Manipulation",
+      "Narration",
+      "Casual",
+      "Cartoony",
+      "Colorful",
+      "Hand-drawn",
+      "Game Development",
+      "Logic",
+      "Time Travel",
+      "Atmospheric",
+      "Emotional",
+      "Programming",
+      "Adventure"
+    ],
+    "appid": 499180
+  },
+  "Brawlhalla": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Free To Play"
+    ],
+    "tags": [
+      "Free to Play",
+      "Multiplayer",
+      "Fighting",
+      "2D Fighter",
+      "2D Platformer",
+      "Casual",
+      "Local Multiplayer",
+      "Co-op",
+      "Controller",
+      "Platformer",
+      "Action",
+      "Online Co-Op",
+      "Local Co-Op",
+      "Fantasy",
+      "4 Player Local",
+      "Family Friendly",
+      "e-sports",
+      "Cartoony",
+      "Singleplayer",
+      "Indie"
+    ],
+    "appid": 291550
+  },
+  "Breach Wanderers": {
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Roguelike Deckbuilder",
+      "Deckbuilding",
+      "Card Battler",
+      "Rogue-lite",
+      "Card Game",
+      "Rogue-like",
+      "Turn-Based Tactics",
+      "Character Customization",
+      "Perma Death",
+      "RPG",
+      "Strategy",
+      "Turn-Based Combat",
+      "2D",
+      "Cartoony",
+      "Colorful",
+      "Fantasy",
+      "Sci-fi",
+      "Indie",
+      "Replay Value",
+      "Singleplayer"
+    ],
+    "appid": 1394130
+  },
+  "Bronzebeard's Tavern": {
+    "genres": [],
+    "tags": [],
+    "appid": 2422870
+  },
+  "CPUCores :: Maximize Your FPS": {
+    "genres": [
+      "Design & Illustration",
+      "Utilities"
+    ],
+    "tags": [
+      "Utilities",
+      "Software",
+      "Gaming",
+      "Hardware",
+      "FPS",
+      "Mod",
+      "Singleplayer",
+      "Design & Illustration",
+      "Indie",
+      "Mouse only",
+      "Action"
+    ],
+    "appid": 384300
+  },
+  "Call of Duty: Black Ops III": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Zombies",
+      "FPS",
+      "Shooter",
+      "Action",
+      "First-Person",
+      "Singleplayer",
+      "Co-op",
+      "Futuristic",
+      "Illuminati",
+      "Hero Shooter",
+      "Robots",
+      "Sci-fi",
+      "Gore",
+      "Great Soundtrack",
+      "Story Rich",
+      "Atmospheric",
+      "Parkour",
+      "Quick-Time Events",
+      "Split Screen"
+    ],
+    "appid": 311210
+  },
+  "Call of Duty®": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "FPS",
+      "Multiplayer",
+      "Shooter",
+      "Singleplayer",
+      "Action",
+      "Military",
+      "First-Person",
+      "War",
+      "Modern",
+      "Tactical",
+      "Violent",
+      "Co-op",
+      "Realistic",
+      "Story Rich",
+      "Atmospheric",
+      "Mature",
+      "Online Co-Op",
+      "Gore",
+      "Third-Person Shooter",
+      "Third Person"
+    ],
+    "appid": 1938090
+  },
+  "Cards and Castles": {
+    "genres": [
+      "Indie",
+      "Massively Multiplayer",
+      "Strategy",
+      "Free To Play"
+    ],
+    "tags": [
+      "Free to Play",
+      "Card Game",
+      "Card Battler",
+      "Tabletop",
+      "Deckbuilding",
+      "Strategy",
+      "Indie",
+      "Massively Multiplayer",
+      "Trading Card Game",
+      "Multiplayer"
+    ],
+    "appid": 360730
+  },
+  "Cards and Castles 2": {
+    "genres": [
+      "Indie",
+      "Strategy",
+      "Free To Play"
+    ],
+    "tags": [
+      "Strategy",
+      "Turn-Based Tactics",
+      "Card Game",
+      "Card Battler",
+      "PvP",
+      "Vikings",
+      "Funny",
+      "Deckbuilding",
+      "Fantasy",
+      "Multiplayer",
+      "Turn-Based Combat",
+      "Grid-Based Movement",
+      "Medieval",
+      "Indie",
+      "Singleplayer",
+      "Early Access",
+      "Colorful",
+      "Cartoony",
+      "Cute",
+      "Dragons"
+    ],
+    "appid": 1719390
+  },
+  "Chernobylite Complete Edition": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "tags": [
+      "Post-apocalyptic",
+      "Survival",
+      "Horror",
+      "RPG",
+      "Singleplayer",
+      "Atmospheric",
+      "Adventure",
+      "First-Person",
+      "Exploration",
+      "Survival Horror",
+      "Base-Building",
+      "Sci-fi",
+      "Simulation",
+      "Stealth",
+      "Crafting",
+      "Action-Adventure",
+      "Realistic",
+      "Supernatural",
+      "Nonlinear",
+      "Indie"
+    ],
+    "appid": 1016800
+  },
+  "Chivalry: Medieval Warfare": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "tags": [
+      "Medieval",
+      "Multiplayer",
+      "Action",
+      "Gore",
+      "First-Person",
+      "Swordplay",
+      "Violent",
+      "PvP",
+      "Indie",
+      "Third Person",
+      "Competitive",
+      "Team-Based",
+      "Hack and Slash",
+      "Co-op",
+      "Historical",
+      "FPS",
+      "Class-Based",
+      "Atmospheric",
+      "Simulation",
+      "Difficult"
+    ],
+    "appid": 219640
+  },
+  "Circadian Dice": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Roguelike Deckbuilder",
+      "Deckbuilding",
+      "Singleplayer",
+      "Turn-Based Tactics",
+      "Strategy",
+      "Card Game",
+      "Card Battler",
+      "Turn-Based Combat",
+      "Turn-Based Strategy",
+      "Board Game",
+      "Rogue-lite",
+      "Rogue-like",
+      "Fantasy",
+      "Tactical",
+      "2D",
+      "Dice"
+    ],
+    "appid": 1893620
+  },
+  "Cities: Skylines": {
+    "genres": [
+      "Simulation"
+    ],
+    "tags": [
+      "City Builder",
+      "Simulation",
+      "Building",
+      "Sandbox",
+      "Singleplayer",
+      "Management",
+      "Economy",
+      "Strategy",
+      "Realistic",
+      "Moddable",
+      "Relaxing",
+      "Resource Management",
+      "Transportation",
+      "Casual",
+      "Multiplayer",
+      "Atmospheric",
+      "Early Access",
+      "Open World",
+      "Mod",
+      "Great Soundtrack"
+    ],
+    "appid": 949230
+  },
+  "Clair Obscur: Expedition 33": {
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "Turn-Based Combat",
+      "Story Rich",
+      "Fantasy",
+      "RPG",
+      "Exploration",
+      "JRPG",
+      "Adventure",
+      "Lore-Rich",
+      "Singleplayer",
+      "Action RPG",
+      "Souls-like",
+      "Party-Based RPG",
+      "Dark Fantasy",
+      "Character Customization",
+      "3D",
+      "Post-apocalyptic",
+      "Great Soundtrack",
+      "Narration",
+      "Realistic",
+      "Action"
+    ],
+    "appid": 1903340
+  },
+  "Clicker Heroes": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy",
+      "Free To Play"
+    ],
+    "tags": [
+      "Clicker",
+      "Idler",
+      "Casual",
+      "2D",
+      "Free to Play",
+      "Management",
+      "Indie",
+      "Funny",
+      "Strategy",
+      "Multiplayer",
+      "RPG",
+      "Fantasy",
+      "Family Friendly",
+      "Adventure",
+      "Simulation",
+      "Touch-Friendly",
+      "Singleplayer",
+      "Action",
+      "Addictive",
+      "Illuminati"
+    ],
+    "appid": 363970
+  },
+  "Command & Conquer 3: Kane's Wrath™": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Real Time Tactics",
+      "Action-Adventure",
+      "RTS",
+      "Wargame",
+      "3D",
+      "Isometric",
+      "Realistic",
+      "Top-Down",
+      "Military",
+      "World War II",
+      "Atmospheric",
+      "Stealth",
+      "Historical",
+      "Tactical",
+      "War",
+      "Singleplayer",
+      "Combat"
+    ],
+    "appid": 1479730
+  },
+  "Command & Conquer 3: Tiberium Wars™": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Real Time Tactics",
+      "Action-Adventure",
+      "RTS",
+      "Wargame",
+      "3D",
+      "Isometric",
+      "Realistic",
+      "Top-Down",
+      "Military",
+      "World War II",
+      "Atmospheric",
+      "Stealth",
+      "Historical",
+      "Tactical",
+      "War",
+      "Singleplayer",
+      "Combat"
+    ],
+    "appid": 1479730
+  },
+  "Command & Conquer™ 4 Tiberian Twilight": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Real Time Tactics",
+      "Action-Adventure",
+      "RTS",
+      "Wargame",
+      "3D",
+      "Isometric",
+      "Realistic",
+      "Top-Down",
+      "Military",
+      "World War II",
+      "Atmospheric",
+      "Stealth",
+      "Historical",
+      "Tactical",
+      "War",
+      "Singleplayer",
+      "Combat"
+    ],
+    "appid": 1479730
+  },
+  "Command & Conquer™ Red Alert™ 3": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Real Time Tactics",
+      "Action-Adventure",
+      "RTS",
+      "Wargame",
+      "3D",
+      "Isometric",
+      "Realistic",
+      "Top-Down",
+      "Military",
+      "World War II",
+      "Atmospheric",
+      "Stealth",
+      "Historical",
+      "Tactical",
+      "War",
+      "Singleplayer",
+      "Combat"
+    ],
+    "appid": 1479730
+  },
+  "Command & Conquer™ Red Alert™ 3 - Uprising": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Real Time Tactics",
+      "Action-Adventure",
+      "RTS",
+      "Wargame",
+      "3D",
+      "Isometric",
+      "Realistic",
+      "Top-Down",
+      "Military",
+      "World War II",
+      "Atmospheric",
+      "Stealth",
+      "Historical",
+      "Tactical",
+      "War",
+      "Singleplayer",
+      "Combat"
+    ],
+    "appid": 1479730
+  },
+  "Company of Heroes 2": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "World War II",
+      "RTS",
+      "Multiplayer",
+      "Tactical",
+      "War",
+      "Historical",
+      "Military",
+      "Singleplayer",
+      "Co-op",
+      "Online Co-Op",
+      "Base-Building",
+      "Tanks",
+      "Real-Time",
+      "Action",
+      "Real-Time with Pause",
+      "Atmospheric",
+      "Simulation",
+      "Great Soundtrack",
+      "Adventure"
+    ],
+    "appid": 231430
+  },
+  "Conan Exiles": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Survival",
+      "Open World",
+      "Nudity",
+      "Building",
+      "Open World Survival Craft",
+      "Crafting",
+      "Multiplayer",
+      "Sandbox",
+      "RPG",
+      "Massively Multiplayer",
+      "Adventure",
+      "Action",
+      "Online Co-Op",
+      "Exploration",
+      "Singleplayer",
+      "Violent",
+      "Co-op",
+      "Fantasy",
+      "Gore",
+      "PvP"
+    ],
+    "appid": 440900
+  },
+  "Cookie Clicker": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Clicker",
+      "Idler",
+      "Casual",
+      "Indie",
+      "Pixel Graphics",
+      "Management",
+      "Horror",
+      "Economy",
+      "Collectathon",
+      "Funny",
+      "2D",
+      "Memes",
+      "Resource Management",
+      "Strategy",
+      "Comedy",
+      "Building",
+      "Simulation",
+      "Colorful",
+      "Touch-Friendly",
+      "Singleplayer"
+    ],
+    "appid": 1454400
+  },
+  "Counter-Strike 2": {
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "tags": [
+      "FPS",
+      "Shooter",
+      "Multiplayer",
+      "Competitive",
+      "Action",
+      "Team-Based",
+      "e-sports",
+      "Tactical",
+      "First-Person",
+      "PvP",
+      "Online Co-Op",
+      "Co-op",
+      "Strategy",
+      "Military",
+      "War",
+      "Difficult",
+      "Trading",
+      "Realistic",
+      "Fast-Paced",
+      "Moddable"
+    ],
+    "appid": 730
+  },
+  "Counter-Strike: Source": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Shooter",
+      "FPS",
+      "Action",
+      "Multiplayer",
+      "Team-Based",
+      "First-Person",
+      "Competitive",
+      "Tactical",
+      "PvP",
+      "e-sports",
+      "Military",
+      "War",
+      "Strategy",
+      "Moddable",
+      "Singleplayer",
+      "Difficult",
+      "Atmospheric",
+      "Survival",
+      "Simulation",
+      "Sandbox"
+    ],
+    "appid": 240
+  },
+  "Creativerse": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation"
+    ],
+    "tags": [
+      "Exploration",
+      "Sandbox",
+      "Voxel",
+      "Building",
+      "Crafting",
+      "Survival",
+      "Adventure",
+      "Open World Survival Craft",
+      "First-Person",
+      "Fantasy",
+      "Indie",
+      "Multiplayer",
+      "Family Friendly",
+      "Singleplayer",
+      "Online Co-Op",
+      "RPG",
+      "Action-Adventure",
+      "Open World",
+      "Third Person",
+      "Co-op"
+    ],
+    "appid": 280790
+  },
+  "Crusader Kings II": {
+    "genres": [
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Medieval",
+      "Grand Strategy",
+      "Simulation",
+      "RPG",
+      "Historical",
+      "Management",
+      "Character Customization",
+      "Life Sim",
+      "Sandbox",
+      "RTS",
+      "Choices Matter",
+      "War",
+      "Singleplayer",
+      "Economy",
+      "Political",
+      "4X",
+      "Moddable",
+      "Multiplayer",
+      "Real-Time with Pause"
+    ],
+    "appid": 1158310
+  },
+  "Crusader Kings III": {
+    "genres": [
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Medieval",
+      "Grand Strategy",
+      "Simulation",
+      "RPG",
+      "Historical",
+      "Management",
+      "Character Customization",
+      "Life Sim",
+      "Sandbox",
+      "RTS",
+      "Choices Matter",
+      "War",
+      "Singleplayer",
+      "Economy",
+      "Political",
+      "4X",
+      "Moddable",
+      "Multiplayer",
+      "Real-Time with Pause"
+    ],
+    "appid": 1158310
+  },
+  "Crypt of the NecroDancer": {
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Rhythm",
+      "Female Protagonist",
+      "Difficult",
+      "Rogue-like",
+      "Great Soundtrack",
+      "Pixel Graphics",
+      "Dungeon Crawler",
+      "Indie",
+      "Music",
+      "Local Co-Op",
+      "RPG",
+      "2D",
+      "Action",
+      "Rogue-lite",
+      "Procedural Generation",
+      "Singleplayer",
+      "Co-op",
+      "Fantasy",
+      "Adventure",
+      "Retro"
+    ],
+    "appid": 247080
+  },
+  "Cult of the Lamb": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "tags": [
+      "Base-Building",
+      "Cute",
+      "Action Roguelike",
+      "Singleplayer",
+      "Dungeon Crawler",
+      "Character Customization",
+      "Rogue-lite",
+      "Dark Humor",
+      "Colony Sim",
+      "Building",
+      "2D",
+      "Adventure",
+      "Action",
+      "Faith",
+      "Fantasy",
+      "Funny",
+      "Controller",
+      "Colorful",
+      "Strategy",
+      "Third Person"
+    ],
+    "appid": 1313140
+  },
+  "Curious Expedition": {
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Exploration",
+      "Rogue-like",
+      "Pixel Graphics",
+      "Turn-Based Strategy",
+      "Lovecraftian",
+      "Dinosaurs",
+      "RPG",
+      "Hex Grid",
+      "Board Game",
+      "Tabletop",
+      "Moddable",
+      "Story Rich",
+      "Rogue-lite",
+      "Dynamic Narration",
+      "Procedural Generation",
+      "Mouse only",
+      "Choices Matter",
+      "2D",
+      "Strategy",
+      "Singleplayer"
+    ],
+    "appid": 358130
+  },
+  "Curious Expedition 2": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Adventure",
+      "Simulation",
+      "Dynamic Narration",
+      "Alternate History",
+      "Hex Grid",
+      "Exploration",
+      "Survival",
+      "Rogue-lite",
+      "Dinosaurs",
+      "Turn-Based",
+      "Board Game",
+      "Rogue-like",
+      "Turn-Based Strategy",
+      "RPG",
+      "Strategy",
+      "Lovecraftian",
+      "Comic Book",
+      "Procedural Generation",
+      "Story Rich",
+      "Turn-Based Combat"
+    ],
+    "appid": 1040230
+  },
+  "Cyberpunk 2077": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Cyberpunk",
+      "Open World",
+      "Nudity",
+      "RPG",
+      "Singleplayer",
+      "Sci-fi",
+      "FPS",
+      "Story Rich",
+      "Mature",
+      "Futuristic",
+      "First-Person",
+      "Atmospheric",
+      "Exploration",
+      "Action",
+      "Violent",
+      "Great Soundtrack",
+      "Action RPG",
+      "Adventure",
+      "Character Customization",
+      "Immersive Sim"
+    ],
+    "appid": 1091500
+  },
+  "DARK SOULS™ II: Scholar of the First Sin": {
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "Souls-like",
+      "Dark Fantasy",
+      "RPG",
+      "Difficult",
+      "Action",
+      "Third Person",
+      "Atmospheric",
+      "Action RPG",
+      "Character Customization",
+      "Co-op",
+      "Multiplayer",
+      "Adventure",
+      "Fantasy",
+      "Medieval",
+      "Dark",
+      "Singleplayer",
+      "Lore-Rich",
+      "Story Rich",
+      "PvP",
+      "Remake"
+    ],
+    "appid": 335300
+  },
+  "DARK SOULS™ III": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Souls-like",
+      "Dark Fantasy",
+      "Difficult",
+      "RPG",
+      "Atmospheric",
+      "Lore-Rich",
+      "Third Person",
+      "Exploration",
+      "Story Rich",
+      "Action RPG",
+      "Co-op",
+      "Great Soundtrack",
+      "Adventure",
+      "Action",
+      "Multiplayer",
+      "PvP",
+      "Open World",
+      "Singleplayer",
+      "Character Customization",
+      "Replay Value"
+    ],
+    "appid": 374320
+  },
+  "Darkest Dungeon®": {
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Turn-Based Tactics",
+      "Dungeon Crawler",
+      "Rogue-lite",
+      "Dark Fantasy",
+      "Lovecraftian",
+      "Singleplayer",
+      "Rogue-like",
+      "Perma Death",
+      "Turn-Based",
+      "CRPG",
+      "Story Rich",
+      "Turn-Based Combat",
+      "Party-Based RPG",
+      "2D",
+      "Gothic",
+      "Hand-drawn",
+      "RPG",
+      "Procedural Generation",
+      "Turn-Based Strategy",
+      "Stylized"
+    ],
+    "appid": 1940340
+  },
+  "Day of Defeat: Source": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "FPS",
+      "World War II",
+      "Multiplayer",
+      "Action",
+      "Shooter",
+      "Military",
+      "War",
+      "Team-Based",
+      "First-Person",
+      "Historical",
+      "Class-Based",
+      "Classic",
+      "Tactical",
+      "Realistic",
+      "Online Co-Op",
+      "Gore",
+      "Strategy",
+      "Massively Multiplayer",
+      "Simulation",
+      "Violent"
+    ],
+    "appid": 300
+  },
+  "DayZ": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer"
+    ],
+    "tags": [
+      "Survival",
+      "Open World",
+      "Online Co-Op",
+      "Zombies",
+      "Multiplayer",
+      "Post-apocalyptic",
+      "Shooter",
+      "PvP",
+      "Massively Multiplayer",
+      "Action",
+      "FPS",
+      "Horror",
+      "Sandbox",
+      "Co-op",
+      "Survival Horror",
+      "Adventure",
+      "First-Person",
+      "Simulation",
+      "Atmospheric",
+      "Choose Your Own Adventure"
+    ],
+    "appid": 221100
+  },
+  "Dead Cells": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "tags": [
+      "Adventure",
+      "Action Roguelike",
+      "Metroidvania",
+      "Pixel Graphics",
+      "Rogue-like",
+      "2D",
+      "Souls-like",
+      "Rogue-lite",
+      "Difficult",
+      "Hack and Slash",
+      "Replay Value",
+      "Platformer",
+      "Singleplayer",
+      "Roguevania",
+      "Action",
+      "Dark Fantasy",
+      "Atmospheric",
+      "Procedural Generation",
+      "Funny",
+      "Indie"
+    ],
+    "appid": 588650
+  },
+  "Dead Island": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "tags": [
+      "Co-op",
+      "Zombies",
+      "First-Person",
+      "Gore",
+      "Action-Adventure",
+      "Post-apocalyptic",
+      "Adventure",
+      "Horror",
+      "Dark",
+      "Action RPG",
+      "Crafting",
+      "FPS",
+      "Controller",
+      "Dark Humor",
+      "Action",
+      "PvE",
+      "Character Customization",
+      "Combat",
+      "Hack and Slash",
+      "Survival Horror"
+    ],
+    "appid": 934700
+  },
+  "Dead by Daylight": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Horror",
+      "Multiplayer",
+      "Survival Horror",
+      "Online Co-Op",
+      "Co-op",
+      "Survival",
+      "Gore",
+      "Team-Based",
+      "Blood",
+      "Stealth",
+      "Third Person",
+      "Violent",
+      "First-Person",
+      "Psychological Horror",
+      "Action",
+      "Atmospheric",
+      "Strategy",
+      "Comedy",
+      "Mature",
+      "Difficult"
+    ],
+    "appid": 381210
+  },
+  "Deadlock": {
+    "genres": [],
+    "tags": [],
+    "appid": 1422450
+  },
+  "Deep Rock Galactic": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Dwarf",
+      "Co-op",
+      "PvE",
+      "FPS",
+      "Procedural Generation",
+      "Class-Based",
+      "Shooter",
+      "Exploration",
+      "First-Person",
+      "Loot",
+      "Sci-fi",
+      "Space",
+      "Action",
+      "Atmospheric",
+      "Looter Shooter",
+      "Combat",
+      "Survival",
+      "Horror",
+      "Dark",
+      "Action Roguelike"
+    ],
+    "appid": 548430
+  },
+  "Deep Rock Galactic: Survivor": {
+    "genres": [
+      "Action",
+      "Early Access"
+    ],
+    "tags": [
+      "Dwarf",
+      "Action Roguelike",
+      "Rogue-lite",
+      "Bullet Hell",
+      "Top-Down Shooter",
+      "PvE",
+      "Arena Shooter",
+      "Top-Down",
+      "Procedural Generation",
+      "Action",
+      "Arcade",
+      "Sci-fi",
+      "Singleplayer",
+      "Space",
+      "Score Attack",
+      "Aliens",
+      "Atmospheric",
+      "Combat",
+      "Early Access",
+      "Dark"
+    ],
+    "appid": 2321470
+  },
+  "Destiny 2": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play"
+    ],
+    "tags": [
+      "Free to Play",
+      "Open World",
+      "Multiplayer",
+      "Looter Shooter",
+      "MMORPG",
+      "FPS",
+      "Co-op",
+      "PvE",
+      "PvP",
+      "Shooter",
+      "Massively Multiplayer",
+      "Loot",
+      "First-Person",
+      "Sci-fi",
+      "Action",
+      "Adventure",
+      "Lore-Rich",
+      "Space",
+      "Competitive",
+      "Atmospheric"
+    ],
+    "appid": 1085660
+  },
+  "Deus Ex: Human Revolution": {
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "Cyberpunk",
+      "Stealth",
+      "RPG",
+      "Sci-fi",
+      "FPS",
+      "Action",
+      "Singleplayer",
+      "Story Rich",
+      "Great Soundtrack",
+      "Transhumanism",
+      "Dystopian ",
+      "First-Person",
+      "Atmospheric",
+      "Adventure",
+      "Immersive Sim",
+      "Inventory Management",
+      "Immersive",
+      "Shooter",
+      "Futuristic",
+      "Replay Value"
+    ],
+    "appid": 238010
+  },
+  "Devil May Cry 5": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Action",
+      "Hack and Slash",
+      "Great Soundtrack",
+      "Character Action Game",
+      "Demons",
+      "Spectacle fighter",
+      "Third Person",
+      "Singleplayer",
+      "Sexual Content",
+      "Violent",
+      "Nudity",
+      "Story Rich",
+      "Stylized",
+      "Difficult",
+      "Gore",
+      "Classic",
+      "Multiplayer",
+      "Controller",
+      "Adventure",
+      "Anime"
+    ],
+    "appid": 601150
+  },
+  "Dicey Dungeons": {
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "tags": [
+      "Roguelike Deckbuilder",
+      "Card Battler",
+      "Deckbuilding",
+      "Rogue-lite",
+      "Indie",
+      "Rogue-like",
+      "Strategy",
+      "Turn-Based",
+      "Card Game",
+      "Mouse only",
+      "Singleplayer",
+      "Replay Value",
+      "Cute",
+      "Colorful",
+      "Cartoon",
+      "Great Soundtrack",
+      "Casual",
+      "Dungeon Crawler",
+      "RPG",
+      "Procedural Generation"
+    ],
+    "appid": 861540
+  },
+  "Disco Elysium": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Story Rich",
+      "Choices Matter",
+      "Detective",
+      "Isometric",
+      "Atmospheric",
+      "Singleplayer",
+      "Point & Click",
+      "CRPG",
+      "Noir",
+      "Political",
+      "Surreal",
+      "Visual Novel",
+      "Exploration",
+      "Funny",
+      "Indie",
+      "Adventure",
+      "Open World",
+      "Character Customization",
+      "Sexual Content"
+    ],
+    "appid": 632470
+  },
+  "Disgaea PC": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Strategy RPG",
+      "JRPG",
+      "Anime",
+      "Turn-Based",
+      "RPG",
+      "Comedy",
+      "Turn-Based Strategy",
+      "Turn-Based Tactics",
+      "Tactical RPG",
+      "Funny",
+      "Tactical",
+      "Strategy",
+      "Singleplayer",
+      "Great Soundtrack",
+      "Replay Value",
+      "Demons",
+      "Pixel Graphics",
+      "2D",
+      "Story Rich",
+      "Cute"
+    ],
+    "appid": 405900
+  },
+  "Divinity: Original Sin (Classic)": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "RPG",
+      "Turn-Based",
+      "Co-op",
+      "Fantasy",
+      "Adventure",
+      "Strategy",
+      "Open World",
+      "Isometric",
+      "CRPG",
+      "Story Rich",
+      "Kickstarter",
+      "Singleplayer",
+      "Indie",
+      "Multiplayer",
+      "Turn-Based Strategy",
+      "Magic",
+      "Online Co-Op",
+      "Crowdfunded",
+      "Atmospheric",
+      "Female Protagonist"
+    ],
+    "appid": 230230
+  },
+  "Divinity: Original Sin 2": {
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Tactical RPG",
+      "RPG",
+      "Turn-Based Strategy",
+      "Story Rich",
+      "Fantasy",
+      "Character Customization",
+      "CRPG",
+      "Exploration",
+      "Party-Based RPG",
+      "Strategy RPG",
+      "PvP",
+      "Female Protagonist",
+      "Co-op Campaign",
+      "Local Co-Op",
+      "Choices Matter",
+      "Isometric",
+      "Romance",
+      "Strategy",
+      "Moddable",
+      "Funny"
+    ],
+    "appid": 435150
+  },
+  "Divinity: Original Sin Enhanced Edition": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "RPG",
+      "Turn-Based",
+      "Co-op",
+      "Adventure",
+      "Fantasy",
+      "Party-Based RPG",
+      "Strategy",
+      "Turn-Based Combat",
+      "Story Rich",
+      "Character Customization",
+      "CRPG",
+      "Open World",
+      "Local Co-Op",
+      "Singleplayer",
+      "Isometric",
+      "Multiplayer",
+      "Indie",
+      "Turn-Based Strategy",
+      "Great Soundtrack",
+      "Split Screen"
+    ],
+    "appid": 373420
+  },
+  "Domina": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer"
+    ],
+    "tags": [],
+    "appid": 3604340
+  },
+  "Don't Escape: 4 Days to Survive": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "tags": [
+      "Adventure",
+      "Pixel Graphics",
+      "Point & Click",
+      "Post-apocalyptic",
+      "Indie",
+      "Singleplayer",
+      "Choices Matter",
+      "Story Rich",
+      "2D",
+      "Atmospheric",
+      "Survival",
+      "Sci-fi",
+      "Great Soundtrack",
+      "Mystery",
+      "Puzzle",
+      "Strategy",
+      "Thriller",
+      "Replay Value",
+      "Retro",
+      "Horror"
+    ],
+    "appid": 611760
+  },
+  "Don't Starve": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Survival",
+      "Open World Survival Craft",
+      "Multiplayer",
+      "Co-op",
+      "Open World",
+      "Adventure",
+      "Crafting",
+      "Online Co-Op",
+      "Sandbox",
+      "Difficult",
+      "Indie",
+      "2D",
+      "Atmospheric",
+      "Funny",
+      "Survival Horror",
+      "Strategy",
+      "Horror",
+      "Singleplayer",
+      "Action",
+      "Rogue-like"
+    ],
+    "appid": 322330
+  },
+  "Don't Starve Together": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Survival",
+      "Open World Survival Craft",
+      "Multiplayer",
+      "Co-op",
+      "Open World",
+      "Adventure",
+      "Crafting",
+      "Online Co-Op",
+      "Sandbox",
+      "Difficult",
+      "Indie",
+      "2D",
+      "Atmospheric",
+      "Funny",
+      "Survival Horror",
+      "Strategy",
+      "Horror",
+      "Singleplayer",
+      "Action",
+      "Rogue-like"
+    ],
+    "appid": 322330
+  },
+  "Dota 2": {
+    "genres": [
+      "Action",
+      "Strategy",
+      "Free To Play"
+    ],
+    "tags": [
+      "Free to Play",
+      "MOBA",
+      "Multiplayer",
+      "Strategy",
+      "e-sports",
+      "Team-Based",
+      "Competitive",
+      "Action",
+      "Online Co-Op",
+      "PvP",
+      "Difficult",
+      "Co-op",
+      "RTS",
+      "RPG",
+      "Tower Defense",
+      "Fantasy",
+      "Character Customization",
+      "Replay Value",
+      "Action RPG",
+      "Simulation"
+    ],
+    "appid": 570
+  },
+  "Dragon Age: Origins - Ultimate Edition": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Fantasy",
+      "Story Rich",
+      "Choices Matter",
+      "Singleplayer",
+      "Party-Based RPG",
+      "Real-Time with Pause",
+      "Character Customization",
+      "Mature",
+      "Adventure",
+      "Multiple Endings",
+      "Well-Written",
+      "Dark Fantasy",
+      "Strategy",
+      "Dragons",
+      "Female Protagonist",
+      "Classic",
+      "Open World",
+      "Tactical",
+      "Moddable"
+    ],
+    "appid": 47810
+  },
+  "Dragon's Dogma 2": {
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "Open World",
+      "RPG",
+      "Action RPG",
+      "Fantasy",
+      "Singleplayer",
+      "Action",
+      "Adventure",
+      "Dragons",
+      "Magic",
+      "Action-Adventure",
+      "Medieval",
+      "Character Customization",
+      "Swordplay",
+      "Third Person",
+      "Physics",
+      "Artificial Intelligence",
+      "Lore-Rich",
+      "Multiplayer",
+      "3D",
+      "PvE"
+    ],
+    "appid": 2054970
+  },
+  "Dwarf Fortress": {
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Dwarf",
+      "Colony Sim",
+      "Strategy",
+      "Simulation",
+      "Base-Building",
+      "City Builder",
+      "Sandbox",
+      "Management",
+      "Building",
+      "Survival",
+      "Rogue-like",
+      "Open World",
+      "Procedural Generation",
+      "Resource Management",
+      "Fantasy",
+      "Crafting",
+      "Economy",
+      "Moddable",
+      "Difficult",
+      "Exploration"
+    ],
+    "appid": 975370
+  },
+  "Dying Light": {
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "Zombies",
+      "Survival Horror",
+      "Horror",
+      "Online Co-Op",
+      "Open World",
+      "Parkour",
+      "First-Person",
+      "Survival",
+      "Open World Survival Craft",
+      "Gore",
+      "FPS",
+      "Action",
+      "PvE",
+      "Stealth",
+      "PvP",
+      "Multiplayer",
+      "Post-apocalyptic",
+      "Story Rich",
+      "Action RPG",
+      "Hack and Slash"
+    ],
+    "appid": 239140
+  },
+  "ELDEN RING": {
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "Souls-like",
+      "Online Co-Op",
+      "Rogue-like",
+      "Multiplayer",
+      "Singleplayer",
+      "Co-op",
+      "Action",
+      "Third Person",
+      "PvE",
+      "Rogue-lite",
+      "RPG",
+      "Action RPG",
+      "Open World",
+      "Dark",
+      "3D",
+      "Survival",
+      "Violent",
+      "Sexual Content",
+      "Lore-Rich",
+      "Story Rich"
+    ],
+    "appid": 2622380
+  },
+  "ENDLESS™ Space - Definitive Edition": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "4X",
+      "Space",
+      "Sci-fi",
+      "Turn-Based Strategy",
+      "Turn-Based",
+      "Multiplayer",
+      "Singleplayer",
+      "Indie",
+      "Exploration",
+      "Great Soundtrack",
+      "Futuristic",
+      "Diplomacy",
+      "Grand Strategy",
+      "Aliens",
+      "Simulation",
+      "Atmospheric",
+      "Replay Value",
+      "Management",
+      "Sandbox"
+    ],
+    "appid": 208140
+  },
+  "ENDLESS™ Space 2": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Space",
+      "Sci-fi",
+      "4X",
+      "Turn-Based Strategy",
+      "Multiplayer",
+      "Turn-Based",
+      "Grand Strategy",
+      "Great Soundtrack",
+      "Singleplayer",
+      "Action",
+      "Open World",
+      "War",
+      "Atmospheric",
+      "Co-op",
+      "Moddable",
+      "Sandbox",
+      "RPG",
+      "Indie",
+      "RTS"
+    ],
+    "appid": 392110
+  },
+  "EVE Online": {
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "RPG",
+      "Strategy",
+      "Free To Play"
+    ],
+    "tags": [
+      "Space",
+      "Free to Play",
+      "Massively Multiplayer",
+      "Open World",
+      "Multiplayer",
+      "RPG",
+      "Economy",
+      "Sci-fi",
+      "Sandbox",
+      "PvP",
+      "Strategy",
+      "Action",
+      "Character Customization",
+      "MMORPG",
+      "Spaceships",
+      "Exploration",
+      "War",
+      "PvE",
+      "Politics",
+      "Lore-Rich"
+    ],
+    "appid": 8500
+  },
+  "Elite Dangerous": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Space Sim",
+      "Space",
+      "Open World",
+      "Exploration",
+      "Sci-fi",
+      "Simulation",
+      "Massively Multiplayer",
+      "Multiplayer",
+      "VR",
+      "First-Person",
+      "Action",
+      "Adventure",
+      "Sandbox",
+      "Online Co-Op",
+      "Singleplayer",
+      "Trading",
+      "RPG",
+      "Difficult",
+      "Strategy",
+      "TrackIR"
+    ],
+    "appid": 359320
+  },
+  "Erannorth Chronicles": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Deckbuilding",
+      "RPG",
+      "Character Customization",
+      "Trading Card Game",
+      "Card Game",
+      "Turn-Based Tactics",
+      "Turn-Based Combat",
+      "Sandbox",
+      "Board Game",
+      "Card Battler",
+      "Rogue-lite",
+      "Strategy",
+      "PvE",
+      "Dragons",
+      "Steampunk",
+      "Demons",
+      "Fantasy",
+      "Gothic",
+      "Magic",
+      "Medieval"
+    ],
+    "appid": 1580800
+  },
+  "Erannorth Reborn": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Roguelike Deckbuilder",
+      "Character Customization",
+      "Deckbuilding",
+      "Fantasy",
+      "Card Game",
+      "Card Battler",
+      "RPG",
+      "Indie",
+      "Adventure",
+      "Strategy",
+      "Rogue-lite",
+      "Moddable",
+      "Turn-Based Combat",
+      "Replay Value",
+      "Mouse only",
+      "Supernatural",
+      "Casual",
+      "Difficult",
+      "Dungeon Crawler",
+      "Nudity"
+    ],
+    "appid": 1055990
+  },
+  "Eternal Card Game": {
+    "genres": [
+      "Casual",
+      "Massively Multiplayer",
+      "Strategy",
+      "Free To Play"
+    ],
+    "tags": [
+      "Free to Play",
+      "Card Game",
+      "Card Battler",
+      "Strategy",
+      "Deckbuilding",
+      "Casual",
+      "Massively Multiplayer",
+      "Trading Card Game",
+      "Multiplayer",
+      "Singleplayer",
+      "Early Access",
+      "Turn-Based",
+      "PvP",
+      "Fantasy"
+    ],
+    "appid": 531640
+  },
+  "Europa Universalis IV": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Grand Strategy",
+      "Strategy",
+      "Historical",
+      "Simulation",
+      "4X",
+      "Alternate History",
+      "Military",
+      "Wargame",
+      "Diplomacy",
+      "Economy",
+      "Replay Value",
+      "Sandbox",
+      "Political",
+      "Real-Time with Pause",
+      "Moddable",
+      "Nonlinear",
+      "Co-op",
+      "Singleplayer",
+      "Management",
+      "Multiplayer"
+    ],
+    "appid": 236850
+  },
+  "Expeditions: Rome": {
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "RPG",
+      "Strategy",
+      "Turn-Based Strategy",
+      "Party-Based RPG",
+      "Rome",
+      "CRPG",
+      "Turn-Based Tactics",
+      "Tactical RPG",
+      "3D",
+      "Historical",
+      "Top-Down",
+      "Atmospheric",
+      "Tactical",
+      "Choices Matter",
+      "Story Rich",
+      "Turn-Based Combat",
+      "Singleplayer",
+      "Female Protagonist",
+      "Turn-Based",
+      "Character Customization"
+    ],
+    "appid": 987840
+  },
+  "FANTASY LIFE i: The Girl Who Steals Time": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Action",
+      "Casual",
+      "JRPG",
+      "Action-Adventure",
+      "City Builder",
+      "Exploration",
+      "Party-Based RPG",
+      "3D",
+      "Cute",
+      "Third Person",
+      "Fantasy",
+      "Character Customization",
+      "PvE",
+      "Open World",
+      "Online Co-Op",
+      "Singleplayer",
+      "Multiplayer",
+      "Crafting",
+      "Co-op"
+    ],
+    "appid": 2993780
+  },
+  "FINAL FANTASY XIV Online": {
+    "genres": [
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "tags": [
+      "MMORPG",
+      "RPG",
+      "Massively Multiplayer",
+      "Character Customization",
+      "Fantasy",
+      "JRPG",
+      "Open World",
+      "Story Rich",
+      "Multiplayer",
+      "Magic",
+      "Adventure",
+      "Third Person",
+      "Co-op",
+      "Online Co-Op",
+      "Exploration",
+      "Action",
+      "Atmospheric",
+      "Crafting",
+      "Action RPG",
+      "Female Protagonist"
+    ],
+    "appid": 39210
+  },
+  "FTL: Faster Than Light": {
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Rogue-like",
+      "Space",
+      "Strategy",
+      "Sci-fi",
+      "Indie",
+      "Singleplayer",
+      "Perma Death",
+      "Difficult",
+      "Replay Value",
+      "Real-Time with Pause",
+      "Procedural Generation",
+      "Tactical",
+      "Space Sim",
+      "Top-Down",
+      "2D",
+      "Rogue-lite",
+      "Survival",
+      "Choose Your Own Adventure",
+      "Simulation",
+      "Adventure"
+    ],
+    "appid": 212680
+  },
+  "Factorio": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Automation",
+      "Base-Building",
+      "Resource Management",
+      "Sandbox",
+      "Crafting",
+      "Strategy",
+      "Multiplayer",
+      "Survival",
+      "Management",
+      "Open World",
+      "Building",
+      "Co-op",
+      "2D",
+      "Moddable",
+      "Singleplayer",
+      "Trains",
+      "Simulation",
+      "Pixel Graphics",
+      "City Builder",
+      "Indie"
+    ],
+    "appid": 427520
+  },
+  "Faeria": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Card Game",
+      "Strategy",
+      "Massively Multiplayer",
+      "Multiplayer",
+      "Indie",
+      "Adventure",
+      "RPG",
+      "Board Game",
+      "Turn-Based",
+      "Fantasy",
+      "Hex Grid",
+      "Turn-Based Strategy",
+      "Singleplayer",
+      "Trading Card Game",
+      "Casual",
+      "Action",
+      "Survival",
+      "Relaxing",
+      "Anime",
+      "Early Access"
+    ],
+    "appid": 397060
+  },
+  "Fallout": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Open World",
+      "Multiplayer",
+      "Post-apocalyptic",
+      "Dark Comedy",
+      "RPG",
+      "Capitalism",
+      "Survival",
+      "Base-Building",
+      "Co-op",
+      "Shooter",
+      "Horror",
+      "MMORPG",
+      "Exploration",
+      "FPS",
+      "Singleplayer",
+      "Gore",
+      "Violent",
+      "Atmospheric",
+      "Great Soundtrack",
+      "Early Access"
+    ],
+    "appid": 1151340
+  },
+  "Fallout 2": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Post-apocalyptic",
+      "Classic",
+      "Isometric",
+      "Open World",
+      "Turn-Based Combat",
+      "Turn-Based",
+      "Singleplayer",
+      "Atmospheric",
+      "Story Rich",
+      "Sci-fi",
+      "CRPG",
+      "Retro",
+      "Exploration",
+      "Dark Humor",
+      "Great Soundtrack",
+      "Replay Value",
+      "Adventure",
+      "Sandbox",
+      "2D"
+    ],
+    "appid": 38410
+  },
+  "Fallout 4": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Open World",
+      "Post-apocalyptic",
+      "Singleplayer",
+      "Exploration",
+      "RPG",
+      "Adventure",
+      "Atmospheric",
+      "Shooter",
+      "First-Person",
+      "Story Rich",
+      "Action",
+      "Sci-fi",
+      "FPS",
+      "Action RPG",
+      "Sandbox",
+      "Great Soundtrack",
+      "Survival",
+      "Third Person",
+      "Third-Person Shooter",
+      "Character Customization"
+    ],
+    "appid": 377160
+  },
+  "Fallout 76": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Open World",
+      "Multiplayer",
+      "Post-apocalyptic",
+      "Dark Comedy",
+      "RPG",
+      "Capitalism",
+      "Survival",
+      "Base-Building",
+      "Co-op",
+      "Shooter",
+      "Horror",
+      "MMORPG",
+      "Exploration",
+      "FPS",
+      "Singleplayer",
+      "Gore",
+      "Violent",
+      "Atmospheric",
+      "Great Soundtrack",
+      "Early Access"
+    ],
+    "appid": 1151340
+  },
+  "Fallout: New Vegas": {
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "Open World",
+      "RPG",
+      "Post-apocalyptic",
+      "Singleplayer",
+      "Moddable",
+      "Story Rich",
+      "Exploration",
+      "First-Person",
+      "Action",
+      "Adventure",
+      "FPS",
+      "Sci-fi",
+      "Western",
+      "Atmospheric",
+      "Action RPG",
+      "Character Customization",
+      "Survival",
+      "Sandbox",
+      "Shooter",
+      "Third Person"
+    ],
+    "appid": 22380
+  },
+  "Farmer Against Potatoes Idle": {
+    "genres": [],
+    "tags": [],
+    "appid": 1535560
+  },
+  "FireAlpaca SE": {
+    "genres": [
+      "Design & Illustration",
+      "Photo Editing"
+    ],
+    "tags": [
+      "Design & Illustration",
+      "Photo Editing",
+      "Software"
+    ],
+    "appid": 458750
+  },
+  "Football Manager 2013": {
+    "genres": [],
+    "tags": []
+  },
+  "Football, Tactics & Glory": {
+    "genres": [
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "tags": [
+      "Turn-Based Combat",
+      "Football (Soccer)",
+      "Management",
+      "Economy",
+      "Simulation",
+      "Strategy",
+      "Turn-Based",
+      "Resource Management",
+      "Sports",
+      "Moddable",
+      "Turn-Based Tactics",
+      "Local Multiplayer",
+      "Singleplayer",
+      "Turn-Based Strategy",
+      "Tactical",
+      "Multiplayer",
+      "Top-Down",
+      "PvP",
+      "Local Co-Op",
+      "Board Game"
+    ],
+    "appid": 375530
+  },
+  "Foundation": {
+    "genres": [
+      "Action",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Space Sim",
+      "Simulation",
+      "Sandbox",
+      "Economy",
+      "Space",
+      "Flight",
+      "Capitalism",
+      "Trading",
+      "Exploration",
+      "Base-Building",
+      "Grand Strategy",
+      "Open World",
+      "Strategy",
+      "3D",
+      "First-Person",
+      "Singleplayer",
+      "Procedural Generation",
+      "Management",
+      "Building",
+      "Immersive"
+    ],
+    "appid": 392160
+  },
+  "Frostpunk": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "City Builder",
+      "Survival",
+      "Resource Management",
+      "Post-apocalyptic",
+      "Simulation",
+      "Singleplayer",
+      "Steampunk",
+      "Sequel",
+      "Management",
+      "Atmospheric",
+      "Base-Building",
+      "Choices Matter",
+      "Political Sim",
+      "Great Soundtrack",
+      "Violent",
+      "Politics",
+      "Snow",
+      "Colony Sim",
+      "Psychological Horror"
+    ],
+    "appid": 1601580
+  },
+  "GUILTY GEAR -STRIVE-": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Fighting",
+      "2D Fighter",
+      "Great Soundtrack",
+      "Anime",
+      "PvP",
+      "2.5D",
+      "Arcade",
+      "Lore-Rich",
+      "Multiplayer",
+      "Action",
+      "2D",
+      "Story Rich",
+      "Local Multiplayer",
+      "3D",
+      "Combat",
+      "Fantasy",
+      "LGBTQ+",
+      "Cinematic",
+      "Drama",
+      "Casual"
+    ],
+    "appid": 1384160
+  },
+  "Garry's Mod": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "tags": [
+      "Sandbox",
+      "Moddable",
+      "Multiplayer",
+      "Physics",
+      "Building",
+      "Casual",
+      "Funny",
+      "First-Person",
+      "Singleplayer",
+      "FPS",
+      "Simulation",
+      "Comedy",
+      "Online Co-Op",
+      "Co-op",
+      "Shooter",
+      "Action",
+      "Indie",
+      "PvP",
+      "Realistic",
+      "Exploration"
+    ],
+    "appid": 4000
+  },
+  "Governor of Poker 2": {
+    "genres": [],
+    "tags": []
+  },
+  "Grand Theft Auto V Legacy": {
+    "genres": [],
+    "tags": []
+  },
+  "Grim Dawn": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Action RPG",
+      "Hack and Slash",
+      "Loot",
+      "Isometric",
+      "Dark Fantasy",
+      "RPG",
+      "Dungeon Crawler",
+      "Co-op",
+      "Singleplayer",
+      "Character Customization",
+      "Dark",
+      "Multiplayer",
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Atmospheric",
+      "Post-apocalyptic",
+      "Crafting",
+      "Moddable",
+      "Choices Matter"
+    ],
+    "appid": 219990
+  },
+  "Gunfire Reborn": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Rogue-lite",
+      "FPS",
+      "Rogue-like",
+      "Online Co-Op",
+      "Co-op",
+      "Multiplayer",
+      "Looter Shooter",
+      "Indie",
+      "Action",
+      "RPG",
+      "Adventure",
+      "Action Roguelike",
+      "Shooter",
+      "First-Person",
+      "Dungeon Crawler",
+      "Replay Value",
+      "Singleplayer",
+      "Fast-Paced",
+      "Early Access",
+      "Loot"
+    ],
+    "appid": 1217060
+  },
+  "HELLDIVERS™ 2": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Online Co-Op",
+      "PvE",
+      "Third-Person Shooter",
+      "Multiplayer",
+      "Action",
+      "Shooter",
+      "Co-op",
+      "Sci-fi",
+      "Capitalism",
+      "Space",
+      "Extraction Shooter",
+      "Third Person",
+      "Comedy",
+      "Gore",
+      "Violent",
+      "Great Soundtrack",
+      "Difficult",
+      "Psychological Horror",
+      "Singleplayer",
+      "Open World"
+    ],
+    "appid": 553850
+  },
+  "Hades": {
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG",
+      "Early Access"
+    ],
+    "tags": [
+      "Action",
+      "Rogue-like",
+      "Rogue-lite",
+      "Hack and Slash",
+      "RPG",
+      "Action Roguelike",
+      "Mythology",
+      "Dungeon Crawler",
+      "Action RPG",
+      "Isometric",
+      "Hand-drawn",
+      "Female Protagonist",
+      "Story Rich",
+      "Singleplayer",
+      "Atmospheric",
+      "Indie",
+      "Souls-like",
+      "Early Access",
+      "LGBTQ+",
+      "Perma Death"
+    ],
+    "appid": 1145350
+  },
+  "Halo: Spartan Assault": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Action",
+      "Top-Down Shooter",
+      "Sci-fi",
+      "Singleplayer",
+      "Top-Down",
+      "Shooter",
+      "Twin Stick Shooter",
+      "Strategy",
+      "Touch-Friendly",
+      "Arcade",
+      "Adventure",
+      "Great Soundtrack",
+      "Futuristic",
+      "Aliens",
+      "Multiplayer",
+      "Space",
+      "Isometric",
+      "Third Person",
+      "Third-Person Shooter",
+      "Co-op"
+    ],
+    "appid": 277430
+  },
+  "Halo: Spartan Strike": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Action",
+      "Top-Down Shooter",
+      "Sci-fi",
+      "Singleplayer",
+      "Aliens",
+      "Shooter",
+      "Strategy",
+      "Multiplayer",
+      "Great Soundtrack",
+      "Twin Stick Shooter",
+      "Futuristic",
+      "Adventure",
+      "Co-op",
+      "Third Person",
+      "Top-Down",
+      "Isometric",
+      "Touch-Friendly",
+      "Third-Person Shooter",
+      "RTS"
+    ],
+    "appid": 324570
+  },
+  "Halo: The Master Chief Collection": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Great Soundtrack",
+      "FPS",
+      "Classic",
+      "Multiplayer",
+      "Story Rich",
+      "Sci-fi",
+      "Co-op",
+      "First-Person",
+      "Epic",
+      "Shooter",
+      "Action",
+      "Singleplayer",
+      "Aliens",
+      "Lore-Rich",
+      "Beautiful",
+      "Space",
+      "Atmospheric",
+      "Adventure",
+      "Horror",
+      "Online Co-Op"
+    ],
+    "appid": 976730
+  },
+  "Hearts of Iron IV": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "World War II",
+      "Grand Strategy",
+      "War",
+      "Historical",
+      "Military",
+      "Alternate History",
+      "Multiplayer",
+      "Simulation",
+      "Tactical",
+      "Singleplayer",
+      "Real-Time with Pause",
+      "RTS",
+      "Diplomacy",
+      "Sandbox",
+      "Co-op",
+      "Strategy RPG",
+      "Open World",
+      "Competitive",
+      "Action"
+    ],
+    "appid": 394360
+  },
+  "Helltaker": {
+    "genres": [
+      "Adventure",
+      "Free To Play",
+      "Indie"
+    ],
+    "tags": [],
+    "appid": 1298590
+  },
+  "Hinterland": {
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "RPG",
+      "Strategy",
+      "Dwarf",
+      "Fantasy",
+      "City Builder",
+      "Action RPG",
+      "Action",
+      "Singleplayer",
+      "Management",
+      "Rogue-like"
+    ],
+    "appid": 17140
+  },
+  "Hollow Knight": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "tags": [
+      "Metroidvania",
+      "Souls-like",
+      "Platformer",
+      "Great Soundtrack",
+      "2D",
+      "Difficult",
+      "Indie",
+      "Singleplayer",
+      "Atmospheric",
+      "Exploration",
+      "Adventure",
+      "Story Rich",
+      "Hand-drawn",
+      "Multiple Endings",
+      "Action",
+      "Dark Fantasy",
+      "Open World",
+      "Cute",
+      "Controller",
+      "Side Scroller"
+    ],
+    "appid": 367520
+  },
+  "Hotline Miami": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "tags": [
+      "Great Soundtrack",
+      "Violent",
+      "Action",
+      "Indie",
+      "Pixel Graphics",
+      "Top-Down",
+      "Gore",
+      "1980s",
+      "Fast-Paced",
+      "Retro",
+      "Psychedelic",
+      "Difficult",
+      "Singleplayer",
+      "Surreal",
+      "2D",
+      "Shooter",
+      "Top-Down Shooter",
+      "Atmospheric",
+      "Addictive",
+      "Music"
+    ],
+    "appid": 219150
+  },
+  "Hunt: Showdown 1896": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Open World",
+      "Extraction Shooter",
+      "Multiplayer",
+      "Atmospheric",
+      "Tactical",
+      "FPS",
+      "Perma Death",
+      "Western",
+      "Shooter",
+      "PvP",
+      "Horror",
+      "Online Co-Op",
+      "Co-op",
+      "Survival Horror",
+      "Difficult",
+      "Battle Royale",
+      "Team-Based",
+      "Action",
+      "Gore",
+      "Zombies"
+    ],
+    "appid": 594650
+  },
+  "Hyper Light Drifter": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Pixel Graphics",
+      "Great Soundtrack",
+      "Atmospheric",
+      "Adventure",
+      "Indie",
+      "Difficult",
+      "Action",
+      "Hack and Slash",
+      "Singleplayer",
+      "Exploration",
+      "RPG",
+      "2D",
+      "Colorful",
+      "Top-Down",
+      "Post-apocalyptic",
+      "Action RPG",
+      "Metroidvania",
+      "Souls-like",
+      "Fantasy",
+      "Sci-fi"
+    ],
+    "appid": 257850
+  },
+  "Idle Champions of the Forgotten Realms": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Strategy",
+      "Free To Play"
+    ],
+    "tags": [
+      "Dungeons & Dragons",
+      "Free to Play",
+      "Idler",
+      "Strategy",
+      "Fantasy",
+      "Clicker",
+      "Adventure",
+      "Singleplayer",
+      "Management",
+      "Indie",
+      "RPG",
+      "Casual",
+      "Action",
+      "2D",
+      "Loot",
+      "Dungeon Crawler",
+      "Puzzle",
+      "Magic",
+      "Funny",
+      "Action-Adventure"
+    ],
+    "appid": 627690
+  },
+  "Idle Wizard": {
+    "genres": [
+      "Indie",
+      "Free To Play"
+    ],
+    "tags": [
+      "Idler",
+      "Free to Play",
+      "Clicker",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Magic"
+    ],
+    "appid": 992070
+  },
+  "IdleOn - The Idle RPG": {
+    "genres": [],
+    "tags": []
+  },
+  "Insurgency": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "FPS",
+      "Realistic",
+      "Shooter",
+      "Military",
+      "Tactical",
+      "Multiplayer",
+      "Action",
+      "First-Person",
+      "War",
+      "Online Co-Op",
+      "Co-op",
+      "Gore",
+      "Violent",
+      "Difficult",
+      "Atmospheric",
+      "Simulation",
+      "Open World",
+      "Massively Multiplayer",
+      "Indie",
+      "Choices Matter"
+    ],
+    "appid": 581320
+  },
+  "Into the Breach": {
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Turn-Based Strategy",
+      "Indie",
+      "Pixel Graphics",
+      "Turn-Based Tactics",
+      "Mechs",
+      "Rogue-like",
+      "Turn-Based",
+      "Puzzle",
+      "Rogue-lite",
+      "Sci-fi",
+      "Singleplayer",
+      "Turn-Based Combat",
+      "Tactical",
+      "Isometric",
+      "RPG",
+      "Replay Value",
+      "Simulation",
+      "Procedural Generation",
+      "Great Soundtrack"
+    ],
+    "appid": 590380
+  },
+  "Jagged Alliance 3": {
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Turn-Based Tactics",
+      "Tactical",
+      "Turn-Based Strategy",
+      "Turn-Based Combat",
+      "RPG",
+      "Tactical RPG",
+      "Singleplayer",
+      "Strategy RPG",
+      "Co-op Campaign",
+      "Isometric",
+      "Loot",
+      "Action",
+      "3D",
+      "Turn-Based",
+      "Military",
+      "Co-op",
+      "Classic",
+      "Online Co-Op",
+      "Sexual Content"
+    ],
+    "appid": 1084160
+  },
+  "Just Cause 2": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "tags": [
+      "Open World",
+      "Action",
+      "Sandbox",
+      "Third Person",
+      "Multiplayer",
+      "Adventure",
+      "Third-Person Shooter",
+      "Shooter",
+      "Singleplayer",
+      "Destruction",
+      "Exploration",
+      "Funny",
+      "Moddable",
+      "Co-op",
+      "Beautiful",
+      "Physics",
+      "Atmospheric",
+      "3D Vision",
+      "Comedy",
+      "FPS"
+    ],
+    "appid": 8190
+  },
+  "Just Cause 3": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "tags": [
+      "Open World",
+      "Action",
+      "Destruction",
+      "Third-Person Shooter",
+      "Multiplayer",
+      "Singleplayer",
+      "Shooter",
+      "Adventure",
+      "Sandbox",
+      "Third Person",
+      "Exploration",
+      "Physics",
+      "Funny",
+      "Atmospheric",
+      "Co-op",
+      "Parkour",
+      "Comedy",
+      "Great Soundtrack",
+      "Moddable",
+      "RPG"
+    ],
+    "appid": 225540
+  },
+  "KARDS - The WWII Card Game": {
+    "genres": [],
+    "tags": []
+  },
+  "Kenshi": {
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Open World",
+      "Sandbox",
+      "RPG",
+      "Survival",
+      "Strategy",
+      "Building",
+      "Base-Building",
+      "Singleplayer",
+      "Post-apocalyptic",
+      "Crafting",
+      "City Builder",
+      "Indie",
+      "Adventure",
+      "Simulation",
+      "Management",
+      "RTS",
+      "Character Customization",
+      "Ninja",
+      "Alternate History",
+      "Steampunk"
+    ],
+    "appid": 233860
+  },
+  "Kerbal Space Program": {
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "tags": [
+      "Space",
+      "Simulation",
+      "Sandbox",
+      "Physics",
+      "Science",
+      "Space Sim",
+      "Building",
+      "Moddable",
+      "Indie",
+      "Education",
+      "Open World",
+      "Singleplayer",
+      "Exploration",
+      "Funny",
+      "Sci-fi",
+      "Difficult",
+      "Adventure",
+      "Replay Value",
+      "Strategy",
+      "Comedy"
+    ],
+    "appid": 220200
+  },
+  "Killing Floor": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Zombies",
+      "Multiplayer",
+      "Online Co-Op",
+      "Gore",
+      "FPS",
+      "Post-apocalyptic",
+      "Hack and Slash",
+      "Horror",
+      "Shooter",
+      "Action",
+      "Moddable",
+      "First-Person",
+      "Survival",
+      "Co-op",
+      "Survival Horror",
+      "Team-Based",
+      "Atmospheric",
+      "PvE",
+      "Character Customization",
+      "Dark"
+    ],
+    "appid": 232090
+  },
+  "Killing Floor 2": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Zombies",
+      "Multiplayer",
+      "Online Co-Op",
+      "Gore",
+      "FPS",
+      "Post-apocalyptic",
+      "Hack and Slash",
+      "Horror",
+      "Shooter",
+      "Action",
+      "Moddable",
+      "First-Person",
+      "Survival",
+      "Co-op",
+      "Survival Horror",
+      "Team-Based",
+      "Atmospheric",
+      "PvE",
+      "Character Customization",
+      "Dark"
+    ],
+    "appid": 232090
+  },
+  "Kingdom Come: Deliverance": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Medieval",
+      "Open World",
+      "Singleplayer",
+      "Realistic",
+      "First-Person",
+      "Story Rich",
+      "Adventure",
+      "Action",
+      "Combat",
+      "Historical",
+      "Swordplay",
+      "Political",
+      "Immersive",
+      "Choices Matter",
+      "Atmospheric",
+      "Alternate History",
+      "LGBTQ+",
+      "Action-Adventure",
+      "3D"
+    ],
+    "appid": 1771300
+  },
+  "Kingdom: New Lands": {
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Tower Defense",
+      "Survival",
+      "Base-Building",
+      "Minimalist",
+      "Exploration",
+      "Rogue-lite",
+      "Rogue-like",
+      "Building",
+      "Strategy",
+      "Colony Sim",
+      "Atmospheric",
+      "Side Scroller",
+      "Singleplayer",
+      "Soundtrack",
+      "Pixel Graphics",
+      "Adventure",
+      "Fantasy",
+      "Medieval",
+      "Open World",
+      "Simulation"
+    ],
+    "appid": 496300
+  },
+  "Last Epoch": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Action RPG",
+      "Loot",
+      "Hack and Slash",
+      "RPG",
+      "Isometric",
+      "Multiplayer",
+      "Action",
+      "Co-op",
+      "Adventure",
+      "Top-Down",
+      "Dungeon Crawler",
+      "Indie",
+      "Singleplayer",
+      "Fantasy",
+      "Gore",
+      "MMORPG",
+      "Character Customization",
+      "Magic",
+      "Violent",
+      "Time Travel"
+    ],
+    "appid": 899770
+  },
+  "Leaf Blower Revolution - Idle Game": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "tags": [
+      "Idler",
+      "Clicker",
+      "Casual",
+      "Indie",
+      "Crafting",
+      "Pixel Graphics",
+      "Free to Play",
+      "Collectathon",
+      "Relaxing",
+      "Funny",
+      "2D",
+      "Exploration",
+      "Farming Sim",
+      "Top-Down",
+      "Colorful",
+      "Physics",
+      "Atmospheric",
+      "Multiplayer",
+      "Singleplayer",
+      "Great Soundtrack"
+    ],
+    "appid": 1468260
+  },
+  "Left 4 Dead": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Zombies",
+      "Co-op",
+      "FPS",
+      "Multiplayer",
+      "Shooter",
+      "Online Co-Op",
+      "Action",
+      "Survival",
+      "Horror",
+      "First-Person",
+      "Gore",
+      "Team-Based",
+      "Moddable",
+      "Survival Horror",
+      "Post-apocalyptic",
+      "Singleplayer",
+      "Adventure",
+      "Local Co-Op",
+      "Replay Value",
+      "Tactical"
+    ],
+    "appid": 550
+  },
+  "Left 4 Dead 2": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Zombies",
+      "Co-op",
+      "FPS",
+      "Multiplayer",
+      "Shooter",
+      "Online Co-Op",
+      "Action",
+      "Survival",
+      "Horror",
+      "First-Person",
+      "Gore",
+      "Team-Based",
+      "Moddable",
+      "Survival Horror",
+      "Post-apocalyptic",
+      "Singleplayer",
+      "Adventure",
+      "Local Co-Op",
+      "Replay Value",
+      "Tactical"
+    ],
+    "appid": 550
+  },
+  "Lethal Company": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Early Access"
+    ],
+    "tags": [
+      "Online Co-Op",
+      "Horror",
+      "First-Person",
+      "Co-op",
+      "Survival Horror",
+      "Exploration",
+      "Funny",
+      "Psychological Horror",
+      "Sci-fi",
+      "PvE",
+      "Atmospheric",
+      "Procedural Generation",
+      "Aliens",
+      "Time Management",
+      "Adventure",
+      "Dungeon Crawler",
+      "Action",
+      "Early Access",
+      "Action-Adventure",
+      "Perma Death"
+    ],
+    "appid": 1966720
+  },
+  "Life Forge - Reborn ORPG": {
+    "genres": [
+      "Casual",
+      "Free To Play",
+      "RPG"
+    ],
+    "tags": [
+      "Free to Play",
+      "RPG",
+      "Casual",
+      "Pixel Graphics",
+      "Multiplayer",
+      "2D",
+      "RPGMaker",
+      "Early Access",
+      "MMORPG"
+    ],
+    "appid": 600120
+  },
+  "Lords of Xulima": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Turn-Based",
+      "Indie",
+      "Fantasy",
+      "Singleplayer",
+      "Adventure",
+      "Strategy",
+      "Kickstarter",
+      "Isometric",
+      "CRPG",
+      "Party-Based RPG",
+      "Old School",
+      "Turn-Based Combat",
+      "Difficult"
+    ],
+    "appid": 296570
+  },
+  "Lost Ark": {
+    "genres": [],
+    "tags": [],
+    "appid": 3583650
+  },
+  "METAL GEAR SOLID V: THE PHANTOM PAIN": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "tags": [
+      "Stealth",
+      "Open World",
+      "Action",
+      "Story Rich",
+      "Tactical",
+      "Cinematic",
+      "Third Person",
+      "Great Soundtrack",
+      "Singleplayer",
+      "Atmospheric",
+      "Adventure",
+      "Horses",
+      "Third-Person Shooter",
+      "Multiplayer",
+      "Shooter",
+      "Replay Value",
+      "Sandbox",
+      "Dark",
+      "Sci-fi",
+      "Heist"
+    ],
+    "appid": 287700
+  },
+  "MORDHAU": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "tags": [
+      "Medieval",
+      "Multiplayer",
+      "First-Person",
+      "Swordplay",
+      "Gore",
+      "PvP",
+      "Online Co-Op",
+      "Action",
+      "Fighting",
+      "PvE",
+      "Character Customization",
+      "Hack and Slash",
+      "Third Person",
+      "Team-Based",
+      "Realistic",
+      "Competitive",
+      "Historical",
+      "Indie",
+      "FPS",
+      "Survival"
+    ],
+    "appid": 629760
+  },
+  "Mabinogi": {
+    "genres": [
+      "Adventure",
+      "Casual"
+    ],
+    "tags": [],
+    "appid": 509081
+  },
+  "Mad Games Tycoon": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Management",
+      "Economy",
+      "Game Development",
+      "Simulation",
+      "Strategy",
+      "City Builder",
+      "Trading",
+      "Building",
+      "Capitalism",
+      "Programming",
+      "Base-Building",
+      "Sandbox",
+      "Multiplayer",
+      "Character Customization",
+      "PvP",
+      "Crafting",
+      "3D",
+      "Casual",
+      "Cartoony",
+      "Cartoon"
+    ],
+    "appid": 1342330
+  },
+  "Magic Duels": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Card Game",
+      "Strategy",
+      "Trading Card Game",
+      "Turn-Based",
+      "Multiplayer",
+      "Fantasy",
+      "Singleplayer",
+      "Magic",
+      "Board Game",
+      "Co-op",
+      "Turn-Based Strategy",
+      "Masterpiece"
+    ],
+    "appid": 213870
+  },
+  "Magic Spellslingers": {
+    "genres": [],
+    "tags": []
+  },
+  "Marvel Rivals": {
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "tags": [
+      "Free to Play",
+      "Multiplayer",
+      "Hero Shooter",
+      "Third-Person Shooter",
+      "Superhero",
+      "PvP",
+      "Action",
+      "Team-Based",
+      "Competitive",
+      "Shooter",
+      "3D",
+      "Strategy",
+      "Online Co-Op",
+      "Co-op",
+      "Sexual Content",
+      "Sci-fi",
+      "Third Person",
+      "FPS",
+      "MOBA",
+      "Hentai"
+    ],
+    "appid": 2767030
+  },
+  "Marvel's Midnight Suns": {
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Superhero",
+      "Turn-Based Tactics",
+      "Deckbuilding",
+      "Turn-Based Strategy",
+      "Tactical RPG",
+      "Turn-Based Combat",
+      "Card Game",
+      "Character Customization",
+      "Strategy RPG",
+      "Tactical",
+      "RPG",
+      "Strategy",
+      "Card Battler",
+      "Adventure",
+      "Singleplayer",
+      "3D",
+      "Third Person",
+      "Supernatural",
+      "Magic",
+      "Fantasy"
+    ],
+    "appid": 368260
+  },
+  "Mass Effect (2007)": {
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Sci-fi",
+      "Story Rich",
+      "Action",
+      "Space",
+      "Third-Person Shooter",
+      "Singleplayer",
+      "Choices Matter",
+      "Great Soundtrack",
+      "Third Person",
+      "Character Customization",
+      "Shooter",
+      "Adventure",
+      "Female Protagonist",
+      "Romance",
+      "Atmospheric",
+      "Open World",
+      "Action RPG",
+      "Real-Time with Pause",
+      "Immersive"
+    ],
+    "appid": 17460
+  },
+  "Mass Effect 2 (2010)": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Action",
+      "Third-Person Shooter",
+      "Sci-fi",
+      "Space",
+      "Choices Matter",
+      "Story Rich",
+      "Singleplayer",
+      "Adventure",
+      "Cinematic",
+      "Romance",
+      "Third Person",
+      "Character Customization",
+      "Shooter",
+      "Atmospheric",
+      "Female Protagonist",
+      "Action RPG",
+      "Real-Time with Pause",
+      "Gore",
+      "Violent"
+    ],
+    "appid": 2362420
+  },
+  "Medieval Dynasty": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "tags": [
+      "Crafting",
+      "Building",
+      "Multiplayer",
+      "Co-op",
+      "Medieval",
+      "Survival",
+      "Open World",
+      "Immersive Sim",
+      "Sandbox",
+      "Base-Building",
+      "RPG",
+      "Singleplayer",
+      "Simulation",
+      "Atmospheric",
+      "Realistic",
+      "First-Person",
+      "Adventure",
+      "Historical",
+      "Management",
+      "Agriculture"
+    ],
+    "appid": 1129580
+  },
+  "Middle-earth™: Shadow of War™": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "tags": [
+      "Open World",
+      "Action",
+      "RPG",
+      "Singleplayer",
+      "Fantasy",
+      "Adventure",
+      "Third Person",
+      "Violent",
+      "Stealth",
+      "Gore",
+      "War",
+      "Story Rich",
+      "Hack and Slash",
+      "Action RPG",
+      "Medieval",
+      "Dark Fantasy",
+      "Magic",
+      "Atmospheric",
+      "Strategy",
+      "Multiplayer"
+    ],
+    "appid": 356190
+  },
+  "Mirage: Arcane Warfare": {
+    "genres": [],
+    "tags": []
+  },
+  "Monster Hunter Wilds": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "tags": [
+      "Hunting",
+      "Action",
+      "Multiplayer",
+      "Online Co-Op",
+      "Co-op",
+      "Dating Sim",
+      "Character Customization",
+      "Dragons",
+      "Open World",
+      "Third Person",
+      "Action RPG",
+      "Adventure",
+      "Fantasy",
+      "Cute",
+      "RPG",
+      "Singleplayer",
+      "Atmospheric",
+      "Great Soundtrack",
+      "Underwater",
+      "Souls-like"
+    ],
+    "appid": 2246340
+  },
+  "Monster Hunter: World": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Co-op",
+      "Multiplayer",
+      "Action",
+      "Open World",
+      "RPG",
+      "Character Customization",
+      "Third Person",
+      "Adventure",
+      "Fantasy",
+      "Action RPG",
+      "Difficult",
+      "Singleplayer",
+      "Exploration",
+      "Great Soundtrack",
+      "Replay Value",
+      "Atmospheric",
+      "Hack and Slash",
+      "JRPG",
+      "MMORPG",
+      "Souls-like"
+    ],
+    "appid": 582010
+  },
+  "Monster Train": {
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Card Game",
+      "Rogue-like",
+      "Turn-Based Strategy",
+      "Turn-Based Tactics",
+      "Demons",
+      "Fantasy",
+      "Trains",
+      "Singleplayer",
+      "PvP",
+      "Multiplayer",
+      "Deckbuilding",
+      "Colorful",
+      "Choices Matter",
+      "Indie",
+      "Difficult",
+      "Magic",
+      "Procedural Generation",
+      "Replay Value",
+      "Roguelike Deckbuilder"
+    ],
+    "appid": 2742830
+  },
+  "Mortal Online 2": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "tags": [
+      "MMORPG",
+      "Sandbox",
+      "Open World",
+      "PvP",
+      "Character Customization",
+      "RPG",
+      "First-Person",
+      "Exploration",
+      "Swordplay",
+      "Medieval",
+      "Fantasy",
+      "Magic",
+      "Crafting",
+      "Survival",
+      "Adventure",
+      "Massively Multiplayer",
+      "Old School",
+      "Multiplayer",
+      "Combat",
+      "Gore"
+    ],
+    "appid": 1170950
+  },
+  "Mount & Blade II: Bannerlord": {
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Medieval",
+      "Strategy",
+      "Open World",
+      "RPG",
+      "War",
+      "Sandbox",
+      "Multiplayer",
+      "Singleplayer",
+      "Action",
+      "Character Customization",
+      "Simulation",
+      "Moddable",
+      "Adventure",
+      "Horses",
+      "Realistic",
+      "Third Person",
+      "Historical",
+      "First-Person",
+      "Great Soundtrack",
+      "Early Access"
+    ],
+    "appid": 261550
+  },
+  "Mount & Blade: Warband": {
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Medieval",
+      "Strategy",
+      "Open World",
+      "RPG",
+      "War",
+      "Sandbox",
+      "Multiplayer",
+      "Singleplayer",
+      "Action",
+      "Character Customization",
+      "Simulation",
+      "Moddable",
+      "Adventure",
+      "Horses",
+      "Realistic",
+      "Third Person",
+      "Historical",
+      "First-Person",
+      "Great Soundtrack",
+      "Early Access"
+    ],
+    "appid": 261550
+  },
+  "Music Racer": {
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Racing"
+    ],
+    "tags": [
+      "Music",
+      "Rhythm",
+      "Indie",
+      "Music-Based Procedural Generation",
+      "Action",
+      "Retro",
+      "Casual",
+      "Singleplayer",
+      "Colorful",
+      "Arcade",
+      "Multiplayer",
+      "Difficult",
+      "Experimental",
+      "Clicker",
+      "3D",
+      "Spectacle fighter",
+      "Racing",
+      "3D Vision",
+      "3D Platformer",
+      "Runner"
+    ],
+    "appid": 893030
+  },
+  "NEKOPARA - Catboys Paradise": {
+    "genres": [],
+    "tags": [],
+    "appid": 1593310
+  },
+  "NGU IDLE": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Free To Play"
+    ],
+    "tags": [
+      "Free to Play",
+      "Idler",
+      "Indie",
+      "Clicker",
+      "Adventure",
+      "Funny",
+      "Simulation",
+      "Singleplayer",
+      "RPG",
+      "Casual",
+      "Psychological Horror",
+      "Story Rich"
+    ],
+    "appid": 1147690
+  },
+  "Neverwinter Nights: Enhanced Edition": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Dungeons & Dragons",
+      "Fantasy",
+      "Character Customization",
+      "CRPG",
+      "Multiplayer",
+      "Real-Time with Pause",
+      "Story Rich",
+      "Adventure",
+      "Magic",
+      "Moddable",
+      "Online Co-Op",
+      "Co-op",
+      "Retro",
+      "Atmospheric",
+      "Action RPG",
+      "Female Protagonist",
+      "Action",
+      "Singleplayer",
+      "Action-Adventure"
+    ],
+    "appid": 704450
+  },
+  "New World: Aeternum": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "tags": [
+      "Open World",
+      "Massively Multiplayer",
+      "MMORPG",
+      "RPG",
+      "Adventure",
+      "Action",
+      "PvP",
+      "PvE",
+      "Multiplayer",
+      "Fantasy",
+      "Character Customization",
+      "Walking Simulator",
+      "Crafting",
+      "Third Person",
+      "Co-op",
+      "Open World Survival Craft",
+      "Sandbox",
+      "Violent",
+      "Sexual Content",
+      "Singleplayer"
+    ],
+    "appid": 1063730
+  },
+  "No Man's Sky": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "tags": [
+      "Open World",
+      "Open World Survival Craft",
+      "Space",
+      "Exploration",
+      "Sci-fi",
+      "Survival",
+      "Procedural Generation",
+      "Adventure",
+      "First-Person",
+      "Multiplayer",
+      "Sandbox",
+      "Singleplayer",
+      "Atmospheric",
+      "Crafting",
+      "Space Sim",
+      "Indie",
+      "Action",
+      "Simulation",
+      "FPS",
+      "VR"
+    ],
+    "appid": 275850
+  },
+  "Noita": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "tags": [
+      "Physics",
+      "Rogue-like",
+      "Pixel Graphics",
+      "Difficult",
+      "Dungeon Crawler",
+      "Indie",
+      "Open World",
+      "Sandbox",
+      "2D",
+      "Perma Death",
+      "Action",
+      "Action Roguelike",
+      "Gun Customization",
+      "Rogue-lite",
+      "2D Platformer",
+      "RPG",
+      "Dark Humor",
+      "Mythology",
+      "Crafting",
+      "Action-Adventure"
+    ],
+    "appid": 881100
+  },
+  "Nordic Ashes": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Bullet Hell",
+      "Rogue-lite",
+      "Early Access",
+      "Arena Shooter",
+      "Top-Down Shooter",
+      "Top-Down",
+      "Casual",
+      "Action",
+      "Action RPG",
+      "2D",
+      "Exploration",
+      "Rogue-like",
+      "Hero Shooter",
+      "Hand-drawn",
+      "Procedural Generation",
+      "RPG",
+      "Strategy",
+      "Perma Death",
+      "Indie"
+    ],
+    "appid": 2068280
+  },
+  "OCTOPATH TRAVELER": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Turn-Based",
+      "JRPG",
+      "2.5D",
+      "Party-Based RPG",
+      "Story Rich",
+      "Open World",
+      "Pixel Graphics",
+      "Turn-Based Combat",
+      "Choices Matter",
+      "Cute",
+      "Strategy",
+      "Anime",
+      "Fantasy",
+      "Casual",
+      "Magic",
+      "Adventure",
+      "Atmospheric",
+      "Singleplayer",
+      "Emotional"
+    ],
+    "appid": 1971650
+  },
+  "OVR Advanced Settings": {
+    "genres": [
+      "Utilities"
+    ],
+    "tags": [
+      "VR",
+      "Utilities",
+      "Software",
+      "Indie"
+    ],
+    "appid": 1009850
+  },
+  "OVR Toolkit": {
+    "genres": [
+      "Utilities"
+    ],
+    "tags": [
+      "Utilities",
+      "VR",
+      "Software"
+    ],
+    "appid": 1068820
+  },
+  "Oldage": {
+    "genres": [],
+    "tags": []
+  },
+  "Omega Strikers": {
+    "genres": [],
+    "tags": [],
+    "appid": 1869590
+  },
+  "Outland": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Cute",
+      "City Builder",
+      "Building",
+      "Cozy",
+      "Strategy",
+      "3D",
+      "Atmospheric",
+      "Family Friendly",
+      "Simulation",
+      "Wholesome",
+      "Relaxing",
+      "Singleplayer",
+      "Controller",
+      "Colorful",
+      "Stylized",
+      "Management",
+      "Resource Management",
+      "Top-Down",
+      "Comedy",
+      "Casual"
+    ],
+    "appid": 1766720
+  },
+  "Overwatch® 2": {
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "tags": [],
+    "appid": 2357570
+  },
+  "Oxygen Not Included": {
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "tags": [
+      "Colony Sim",
+      "Base-Building",
+      "Survival",
+      "Resource Management",
+      "Building",
+      "Singleplayer",
+      "Management",
+      "2D",
+      "Simulation",
+      "Sandbox",
+      "Strategy",
+      "Space",
+      "Indie",
+      "Sci-fi",
+      "Difficult",
+      "Exploration",
+      "Open World",
+      "Multiplayer",
+      "Adventure",
+      "Space Sim"
+    ],
+    "appid": 457140
+  },
+  "PAYDAY 2": {
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "Co-op",
+      "Action",
+      "FPS",
+      "Heist",
+      "Multiplayer",
+      "Looter Shooter",
+      "Online Co-Op",
+      "Stealth",
+      "Crime",
+      "Shooter",
+      "Team-Based",
+      "First-Person",
+      "Great Soundtrack",
+      "Gun Customization",
+      "Tactical",
+      "PvE",
+      "Strategy",
+      "Singleplayer",
+      "Funny",
+      "Simulation"
+    ],
+    "appid": 218620
+  },
+  "PAYDAY: The Heist": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "FPS",
+      "Action",
+      "Co-op",
+      "Heist",
+      "Multiplayer",
+      "Crime",
+      "Online Co-Op",
+      "Shooter",
+      "First-Person",
+      "Great Soundtrack",
+      "Team-Based",
+      "Stealth",
+      "Difficult",
+      "Tactical",
+      "Strategy",
+      "Singleplayer",
+      "Simulation",
+      "RPG",
+      "Indie",
+      "Adventure"
+    ],
+    "appid": 24240
+  },
+  "PUBG: BATTLEGROUNDS": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "Free To Play"
+    ],
+    "tags": [
+      "Survival",
+      "Shooter",
+      "Battle Royale",
+      "Multiplayer",
+      "FPS",
+      "PvP",
+      "Third-Person Shooter",
+      "Action",
+      "Online Co-Op",
+      "Tactical",
+      "Co-op",
+      "First-Person",
+      "Strategy",
+      "Early Access",
+      "Competitive",
+      "Third Person",
+      "Team-Based",
+      "Difficult",
+      "Simulation",
+      "Stealth"
+    ],
+    "appid": 578080
+  },
+  "Paladins": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "Strategy",
+      "Free To Play"
+    ],
+    "tags": [
+      "Hero Shooter",
+      "Free to Play",
+      "Multiplayer",
+      "FPS",
+      "Shooter",
+      "Action",
+      "Team-Based",
+      "First-Person",
+      "PvP",
+      "MOBA",
+      "Online Co-Op",
+      "Fantasy",
+      "Controller",
+      "Strategy",
+      "Co-op",
+      "Character Customization",
+      "Massively Multiplayer",
+      "Colorful",
+      "Adventure",
+      "Funny"
+    ],
+    "appid": 444090
+  },
+  "Palworld": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Early Access"
+    ],
+    "tags": [
+      "Open World",
+      "Survival",
+      "Creature Collector",
+      "Multiplayer",
+      "Open World Survival Craft",
+      "Online Co-Op",
+      "Crafting",
+      "Co-op",
+      "Adventure",
+      "Base-Building",
+      "Sandbox",
+      "Building",
+      "Third-Person Shooter",
+      "Automation",
+      "Action",
+      "RPG",
+      "Anime",
+      "Early Access",
+      "Exploration",
+      "Farming"
+    ],
+    "appid": 1623730
+  },
+  "Path of Exile": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Early Access"
+    ],
+    "tags": [
+      "Action RPG",
+      "Hack and Slash",
+      "RPG",
+      "Souls-like",
+      "MMORPG",
+      "Dark Fantasy",
+      "Isometric",
+      "Action",
+      "Loot",
+      "Dungeon Crawler",
+      "Adventure",
+      "Multiplayer",
+      "Online Co-Op",
+      "Character Customization",
+      "Early Access",
+      "Inventory Management",
+      "Crafting",
+      "Horror",
+      "Dark",
+      "Free to Play"
+    ],
+    "appid": 2694490
+  },
+  "Path of Exile 2": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Early Access"
+    ],
+    "tags": [
+      "Action RPG",
+      "Hack and Slash",
+      "RPG",
+      "Souls-like",
+      "MMORPG",
+      "Dark Fantasy",
+      "Isometric",
+      "Action",
+      "Loot",
+      "Dungeon Crawler",
+      "Adventure",
+      "Multiplayer",
+      "Online Co-Op",
+      "Character Customization",
+      "Early Access",
+      "Inventory Management",
+      "Crafting",
+      "Horror",
+      "Dark",
+      "Free to Play"
+    ],
+    "appid": 2694490
+  },
+  "Pathfinder: Kingmaker": {
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Party-Based RPG",
+      "Fantasy",
+      "CRPG",
+      "Isometric",
+      "Character Customization",
+      "Strategy RPG",
+      "Choices Matter",
+      "Story Rich",
+      "Singleplayer",
+      "Real-Time with Pause",
+      "Dungeons & Dragons",
+      "Adventure",
+      "Strategy",
+      "Turn-Based",
+      "Sexual Content",
+      "Medieval",
+      "Open World",
+      "Turn-Based Strategy",
+      "Female Protagonist"
+    ],
+    "appid": 640820
+  },
+  "Pathfinder: Wrath of the Righteous - Enhanced Edition": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Action RPG",
+      "3D",
+      "Third Person",
+      "Lore-Rich",
+      "Adventure",
+      "Turn-Based Combat",
+      "Rogue-lite",
+      "RPG",
+      "Action",
+      "PvE",
+      "Open World",
+      "Party-Based RPG",
+      "Romance",
+      "Strategy",
+      "Turn-Based Strategy",
+      "Sexual Content",
+      "Story Rich",
+      "Fantasy",
+      "CRPG"
+    ],
+    "appid": 1184370
+  },
+  "Phasmophobia": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Early Access"
+    ],
+    "tags": [
+      "Horror",
+      "Online Co-Op",
+      "Multiplayer",
+      "Psychological Horror",
+      "Co-op",
+      "Supernatural",
+      "VR",
+      "First-Person",
+      "Investigation",
+      "Dark",
+      "Demons",
+      "Detective",
+      "Mystery",
+      "Thriller",
+      "3D",
+      "Early Access",
+      "Indie",
+      "Action",
+      "Tactical",
+      "Singleplayer"
+    ],
+    "appid": 739630
+  },
+  "Pillars of Eternity": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Isometric",
+      "Fantasy",
+      "Story Rich",
+      "Singleplayer",
+      "CRPG",
+      "Party-Based RPG",
+      "Real-Time with Pause",
+      "Adventure",
+      "Character Customization",
+      "Kickstarter",
+      "Atmospheric",
+      "Dark Fantasy",
+      "Open World",
+      "Exploration",
+      "Classic",
+      "Great Soundtrack",
+      "Strategy",
+      "Indie",
+      "Crowdfunded"
+    ],
+    "appid": 291650
+  },
+  "Planet Zoo": {
+    "genres": [
+      "Casual",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Management",
+      "Simulation",
+      "Building",
+      "Sandbox",
+      "Nature",
+      "City Builder",
+      "Economy",
+      "Realistic",
+      "Singleplayer",
+      "Family Friendly",
+      "Cute",
+      "Resource Management",
+      "Strategy",
+      "Great Soundtrack",
+      "Multiplayer",
+      "Relaxing",
+      "Open World",
+      "Casual",
+      "Funny",
+      "Horses"
+    ],
+    "appid": 703080
+  },
+  "Poker Quest": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Deckbuilding",
+      "Roguelike Deckbuilder",
+      "Card Battler",
+      "Card Game",
+      "Rogue-lite",
+      "Rogue-like",
+      "Turn-Based",
+      "Strategy",
+      "Replay Value",
+      "Singleplayer",
+      "Mouse only",
+      "Procedural Generation",
+      "Strategy RPG",
+      "Medieval",
+      "Difficult",
+      "Turn-Based Combat",
+      "2D",
+      "Dungeon Crawler",
+      "Indie",
+      "RPG"
+    ],
+    "appid": 1184820
+  },
+  "Portal 2": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "tags": [
+      "Platformer",
+      "Puzzle",
+      "First-Person",
+      "Dark Humor",
+      "Story Rich",
+      "Puzzle-Platformer",
+      "Funny",
+      "Female Protagonist",
+      "3D Platformer",
+      "Action-Adventure",
+      "Action",
+      "FPS",
+      "Co-op",
+      "Physics",
+      "Sci-fi",
+      "Level Editor",
+      "Science",
+      "Comedy",
+      "Atmospheric",
+      "Adventure"
+    ],
+    "appid": 620
+  },
+  "Prison Architect": {
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Simulation",
+      "Building",
+      "Sandbox",
+      "Base-Building",
+      "Colony Sim",
+      "Strategy",
+      "Management",
+      "City Builder",
+      "2D",
+      "Top-Down",
+      "Multiplayer",
+      "Resource Management",
+      "Economy",
+      "Singleplayer",
+      "Moddable",
+      "Capitalism",
+      "Funny",
+      "Replay Value",
+      "Indie",
+      "Casual"
+    ],
+    "appid": 233450
+  },
+  "Project Zomboid": {
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Early Access"
+    ],
+    "tags": [
+      "Survival",
+      "Zombies",
+      "Open World",
+      "Multiplayer",
+      "Open World Survival Craft",
+      "Sandbox",
+      "Post-apocalyptic",
+      "Co-op",
+      "Crafting",
+      "Building",
+      "Indie",
+      "Simulation",
+      "RPG",
+      "Survival Horror",
+      "Realistic",
+      "Isometric",
+      "Singleplayer",
+      "2D",
+      "Adventure",
+      "Early Access"
+    ],
+    "appid": 108600
+  },
+  "Puzzle Quest": {
+    "genres": [],
+    "tags": [],
+    "appid": 1380410
+  },
+  "R.E.P.O.": {
+    "genres": [
+      "Action",
+      "Early Access"
+    ],
+    "tags": [
+      "Horror",
+      "Online Co-Op",
+      "Multiplayer",
+      "Comedy",
+      "Co-op",
+      "Physics",
+      "3D",
+      "First-Person",
+      "Stealth",
+      "Action",
+      "Robots",
+      "Survival",
+      "Exploration",
+      "Action Roguelike",
+      "Procedural Generation",
+      "Post-apocalyptic",
+      "Perma Death",
+      "Sci-fi",
+      "Dystopian ",
+      "Early Access"
+    ],
+    "appid": 3241660
+  },
+  "Rain World": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "tags": [
+      "Difficult",
+      "Atmospheric",
+      "Survival",
+      "Exploration",
+      "Indie",
+      "Pixel Graphics",
+      "Platformer",
+      "2D",
+      "Post-apocalyptic",
+      "Open World",
+      "Adventure",
+      "2D Platformer",
+      "Cute",
+      "Survival Horror",
+      "Metroidvania",
+      "Physics",
+      "Singleplayer",
+      "Simulation",
+      "Souls-like",
+      "Action"
+    ],
+    "appid": 312520
+  },
+  "Realm Grinder": {
+    "genres": [
+      "Free To Play",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Free to Play",
+      "Clicker",
+      "Pixel Graphics",
+      "Strategy",
+      "City Builder",
+      "Singleplayer",
+      "Idler",
+      "RPG",
+      "2D",
+      "Casual",
+      "Building",
+      "Resource Management",
+      "Simulation",
+      "Indie",
+      "Multiplayer",
+      "Fantasy",
+      "Addictive",
+      "Base-Building",
+      "Point & Click",
+      "Adventure"
+    ],
+    "appid": 610080
+  },
+  "Realm of the Mad God Exalt": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "tags": [
+      "Pixel Graphics",
+      "MMORPG",
+      "Free to Play",
+      "Rogue-like",
+      "Perma Death",
+      "Action Roguelike",
+      "Bullet Hell",
+      "Difficult",
+      "Rogue-lite",
+      "Indie",
+      "2D",
+      "Massively Multiplayer",
+      "Action RPG",
+      "RPG",
+      "Action",
+      "Multiplayer",
+      "Adventure",
+      "Co-op",
+      "Online Co-Op",
+      "Fantasy"
+    ],
+    "appid": 200210
+  },
+  "Red Dead Redemption 2": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "tags": [
+      "Open World",
+      "Story Rich",
+      "Western",
+      "Adventure",
+      "Multiplayer",
+      "Action",
+      "Realistic",
+      "Singleplayer",
+      "Shooter",
+      "Atmospheric",
+      "Horses",
+      "Beautiful",
+      "Mature",
+      "Third-Person Shooter",
+      "Great Soundtrack",
+      "Third Person",
+      "Gore",
+      "Sandbox",
+      "First-Person",
+      "FPS"
+    ],
+    "appid": 1174180
+  },
+  "Renowned Explorers: International Society": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Adventure",
+      "RPG",
+      "Turn-Based",
+      "Indie",
+      "Turn-Based Strategy",
+      "Rogue-like",
+      "Singleplayer",
+      "Exploration",
+      "Tactical RPG",
+      "Replay Value",
+      "Economy",
+      "Rogue-lite",
+      "2D",
+      "Diplomacy",
+      "Funny",
+      "Turn-Based Combat",
+      "Turn-Based Tactics",
+      "Comedy",
+      "Casual"
+    ],
+    "appid": 296970
+  },
+  "Resident Evil 4": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "tags": [
+      "Horror",
+      "Action",
+      "Survival Horror",
+      "Third-Person Shooter",
+      "Singleplayer",
+      "Zombies",
+      "Story Rich",
+      "Survival",
+      "Cinematic",
+      "Dark",
+      "Remake",
+      "Realistic",
+      "Third Person",
+      "Gore",
+      "Resource Management",
+      "VR",
+      "Adventure",
+      "Violent",
+      "Action-Adventure",
+      "Psychological Horror"
+    ],
+    "appid": 2050650
+  },
+  "Resident Evil 5": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "tags": [
+      "Co-op",
+      "Action",
+      "Zombies",
+      "Co-op Campaign",
+      "Third-Person Shooter",
+      "Online Co-Op",
+      "Horror",
+      "Multiplayer",
+      "Adventure",
+      "Third Person",
+      "Survival Horror",
+      "Shooter",
+      "Local Co-Op",
+      "Singleplayer",
+      "Female Protagonist",
+      "Quick-Time Events",
+      "Survival",
+      "Gore",
+      "Split Screen",
+      "Atmospheric"
+    ],
+    "appid": 21690
+  },
+  "Reus 2": {
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "God Game",
+      "Colony Sim",
+      "Puzzle",
+      "City Builder",
+      "Base-Building",
+      "Management",
+      "Strategy",
+      "Resource Management",
+      "Sandbox",
+      "Nature",
+      "Turn-Based",
+      "Simulation",
+      "Relaxing",
+      "2D",
+      "Life Sim",
+      "Singleplayer",
+      "Building",
+      "Indie",
+      "Colorful",
+      "Exploration"
+    ],
+    "appid": 1875060
+  },
+  "RimWorld": {
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Colony Sim",
+      "Base-Building",
+      "Survival",
+      "Strategy",
+      "Sandbox",
+      "Management",
+      "Building",
+      "Simulation",
+      "Moddable",
+      "Singleplayer",
+      "City Builder",
+      "Open World",
+      "Procedural Generation",
+      "2D",
+      "Sci-fi",
+      "Indie",
+      "Space",
+      "Tactical RPG",
+      "Cartoony",
+      "Western"
+    ],
+    "appid": 294100
+  },
+  "Risk of Rain (2013)": {
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Rogue-like",
+      "Indie",
+      "Platformer",
+      "Action",
+      "Pixel Graphics",
+      "Great Soundtrack",
+      "Online Co-Op",
+      "Difficult",
+      "Perma Death",
+      "Co-op",
+      "2D",
+      "Local Co-Op",
+      "Rogue-lite",
+      "Multiplayer",
+      "Singleplayer",
+      "RPG",
+      "Addictive",
+      "Replay Value",
+      "Survival"
+    ],
+    "appid": 248820
+  },
+  "Risk of Rain 2": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "tags": [
+      "Third-Person Shooter",
+      "Action Roguelike",
+      "Multiplayer",
+      "Co-op",
+      "Action",
+      "Rogue-lite",
+      "Rogue-like",
+      "Looter Shooter",
+      "Loot",
+      "Online Co-Op",
+      "Shooter",
+      "Great Soundtrack",
+      "Difficult",
+      "Third Person",
+      "Indie",
+      "Survival",
+      "Singleplayer",
+      "Soundtrack",
+      "Early Access",
+      "Bullet Hell"
+    ],
+    "appid": 632360
+  },
+  "Roboquest": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "tags": [
+      "FPS",
+      "Action Roguelike",
+      "Rogue-lite",
+      "Shooter",
+      "Online Co-Op",
+      "Co-op",
+      "Fast-Paced",
+      "Looter Shooter",
+      "Bullet Hell",
+      "Action",
+      "Post-apocalyptic",
+      "Indie",
+      "Stylized",
+      "Sci-fi",
+      "Multiplayer",
+      "Perma Death",
+      "Rogue-like",
+      "First-Person",
+      "Colorful",
+      "Singleplayer"
+    ],
+    "appid": 692890
+  },
+  "Rocket League": {
+    "genres": [],
+    "tags": []
+  },
+  "Rotwood": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Early Access"
+    ],
+    "tags": [
+      "Early Access",
+      "Hack and Slash",
+      "Dungeon Crawler",
+      "Rogue-lite",
+      "Beat 'em up",
+      "PvE",
+      "Rogue-like",
+      "RPG",
+      "2D",
+      "Action",
+      "Family Friendly",
+      "Adventure",
+      "Co-op",
+      "Local Co-Op",
+      "Local Multiplayer",
+      "Multiplayer",
+      "Online Co-Op",
+      "Singleplayer",
+      "Replay Value",
+      "Fighting"
+    ],
+    "appid": 2015270
+  },
+  "Rust": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "tags": [
+      "Survival",
+      "Crafting",
+      "Multiplayer",
+      "Open World",
+      "Open World Survival Craft",
+      "Building",
+      "PvP",
+      "Sandbox",
+      "Adventure",
+      "First-Person",
+      "Action",
+      "Nudity",
+      "FPS",
+      "Shooter",
+      "Co-op",
+      "Online Co-Op",
+      "Indie",
+      "Post-apocalyptic",
+      "Early Access",
+      "Simulation"
+    ],
+    "appid": 252490
+  },
+  "S.T.A.L.K.E.R.: Shadow of Chernobyl": {
+    "genres": [],
+    "tags": []
+  },
+  "SCP: Secret Laboratory": {
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "tags": [
+      "Free to Play",
+      "Multiplayer",
+      "Horror",
+      "First-Person",
+      "Co-op",
+      "Survival Horror",
+      "Shooter",
+      "Online Co-Op",
+      "FPS",
+      "Action",
+      "Memes",
+      "Survival",
+      "Sci-fi",
+      "Psychological Horror",
+      "Atmospheric",
+      "Strategy",
+      "Difficult",
+      "Indie",
+      "Adventure",
+      "Fantasy"
+    ],
+    "appid": 700330
+  },
+  "SMITE": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Massively Multiplayer",
+      "RPG",
+      "Strategy",
+      "Free To Play",
+      "Early Access"
+    ],
+    "tags": [
+      "Early Access",
+      "Action",
+      "MOBA",
+      "Third Person",
+      "Strategy",
+      "Adventure",
+      "Mythology",
+      "Casual",
+      "Competitive",
+      "RPG",
+      "Multiplayer",
+      "Massively Multiplayer",
+      "Team-Based",
+      "PvP",
+      "Combat",
+      "Co-op",
+      "Online Co-Op",
+      "God Game",
+      "MMORPG",
+      "Action-Adventure"
+    ],
+    "appid": 2437170
+  },
+  "STAR WARS™ Empire at War: Gold Pack": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "RTS",
+      "Space",
+      "Sci-fi",
+      "Multiplayer",
+      "Singleplayer",
+      "Moddable",
+      "Mod",
+      "Tactical",
+      "War",
+      "Action",
+      "Classic",
+      "Grand Strategy",
+      "Great Soundtrack",
+      "Simulation",
+      "Co-op",
+      "4X",
+      "Adventure",
+      "Atmospheric",
+      "Epic"
+    ],
+    "appid": 32470
+  },
+  "Satisfactory": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Base-Building",
+      "Automation",
+      "Open World",
+      "Multiplayer",
+      "Crafting",
+      "Co-op",
+      "Building",
+      "Resource Management",
+      "Sandbox",
+      "Exploration",
+      "Adventure",
+      "Open World Survival Craft",
+      "Survival",
+      "First-Person",
+      "Simulation",
+      "Strategy",
+      "Sci-fi",
+      "Singleplayer",
+      "Early Access",
+      "Indie"
+    ],
+    "appid": 526870
+  },
+  "Sea of Thieves": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Open World",
+      "Adventure",
+      "Pirates",
+      "Co-op",
+      "Online Co-Op",
+      "PvP",
+      "Action",
+      "Sailing",
+      "First-Person",
+      "Exploration",
+      "Naval",
+      "PvE",
+      "Funny",
+      "Massively Multiplayer",
+      "FPS",
+      "Atmospheric",
+      "Swordplay",
+      "Great Soundtrack",
+      "Singleplayer"
+    ],
+    "appid": 1172620
+  },
+  "Sekiro™: Shadows Die Twice": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "tags": [
+      "Souls-like",
+      "Difficult",
+      "Action",
+      "Singleplayer",
+      "Ninja",
+      "Stealth",
+      "Adventure",
+      "Third Person",
+      "Open World",
+      "Story Rich",
+      "Violent",
+      "Atmospheric",
+      "Assassin",
+      "Dark Fantasy",
+      "Hack and Slash",
+      "RPG",
+      "Gore",
+      "Great Soundtrack",
+      "Rhythm",
+      "Dark"
+    ],
+    "appid": 814380
+  },
+  "ShareX": {
+    "genres": [
+      "Free To Play",
+      "Audio Production",
+      "Design & Illustration",
+      "Photo Editing",
+      "Utilities",
+      "Video Production",
+      "Web Publishing"
+    ],
+    "tags": [
+      "Photo Editing",
+      "Utilities",
+      "Free to Play",
+      "Video Production",
+      "Software",
+      "Design & Illustration",
+      "Web Publishing",
+      "Audio Production",
+      "Sexual Content"
+    ],
+    "appid": 400040
+  },
+  "Shop Heroes": {
+    "genres": [],
+    "tags": []
+  },
+  "Sid Meier's Civilization III: Complete": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Turn-Based Strategy",
+      "Turn-Based",
+      "Classic",
+      "4X",
+      "Historical",
+      "Singleplayer",
+      "Multiplayer",
+      "Replay Value",
+      "Grand Strategy",
+      "Simulation",
+      "Military",
+      "Exploration",
+      "Addictive",
+      "City Builder",
+      "Old School",
+      "War",
+      "Isometric",
+      "Diplomacy",
+      "Alternate History"
+    ],
+    "appid": 3910
+  },
+  "Sid Meier's Civilization V": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Turn-Based Strategy",
+      "Strategy",
+      "Turn-Based",
+      "Multiplayer",
+      "Historical",
+      "4X",
+      "Addictive",
+      "Singleplayer",
+      "Hex Grid",
+      "Grand Strategy",
+      "Replay Value",
+      "Co-op",
+      "Economy",
+      "Tactical",
+      "Diplomacy",
+      "Moddable",
+      "Simulation",
+      "Classic",
+      "Great Soundtrack",
+      "Touch-Friendly"
+    ],
+    "appid": 8930
+  },
+  "Sid Meier's Civilization VI": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Turn-Based Strategy",
+      "Multiplayer",
+      "Historical",
+      "Grand Strategy",
+      "Singleplayer",
+      "Turn-Based",
+      "4X",
+      "War",
+      "City Builder",
+      "Simulation",
+      "Tactical",
+      "Management",
+      "Building",
+      "Great Soundtrack",
+      "Online Co-Op",
+      "Moddable",
+      "Co-op",
+      "Hex Grid",
+      "Atmospheric"
+    ],
+    "appid": 289070
+  },
+  "Sid Meier's Civilization VII": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Grand Strategy",
+      "Historical",
+      "4X",
+      "Diplomacy",
+      "Military",
+      "Simulation",
+      "Multiplayer",
+      "Economy",
+      "War",
+      "Strategy",
+      "Turn-Based Tactics",
+      "City Builder",
+      "Tactical",
+      "Alternate History",
+      "Singleplayer",
+      "Hex Grid",
+      "Political Sim",
+      "Stylized",
+      "Turn-Based Strategy",
+      "PvP"
+    ],
+    "appid": 1295660
+  },
+  "Slay the Spire": {
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "tags": [
+      "Roguelike Deckbuilder",
+      "Card Game",
+      "Card Battler",
+      "Rogue-like",
+      "Deckbuilding",
+      "Turn-Based",
+      "Strategy",
+      "Singleplayer",
+      "Rogue-lite",
+      "Replay Value",
+      "Indie",
+      "Difficult",
+      "Dungeon Crawler",
+      "RPG",
+      "Mouse only",
+      "2D",
+      "Great Soundtrack",
+      "Procedural Generation",
+      "Fantasy",
+      "Casual"
+    ],
+    "appid": 646570
+  },
+  "Soccer Online: Ball 3D": {
+    "genres": [
+      "Sports"
+    ],
+    "tags": [
+      "Sports",
+      "Football (Soccer)",
+      "PvP",
+      "e-sports",
+      "Multiplayer",
+      "Simulation",
+      "Arcade",
+      "Online Co-Op",
+      "Immersive",
+      "Team-Based",
+      "Real Time Tactics",
+      "Character Customization",
+      "Third Person",
+      "Action",
+      "Competitive",
+      "3D",
+      "Colorful",
+      "Stylized",
+      "Difficult",
+      "Fast-Paced"
+    ],
+    "appid": 485610
+  },
+  "Solasta: Crown of the Magister": {
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "RPG",
+      "Co-op Campaign",
+      "Character Customization",
+      "Multiplayer",
+      "Turn-Based Combat",
+      "Dungeons & Dragons",
+      "Choices Matter",
+      "CRPG",
+      "Story Rich",
+      "Fantasy",
+      "Adventure",
+      "Strategy RPG",
+      "Combat",
+      "Strategy",
+      "Singleplayer",
+      "Class-Based",
+      "Controller",
+      "Party-Based RPG",
+      "Team-Based",
+      "Online Co-Op"
+    ],
+    "appid": 1096530
+  },
+  "Songs of Conquest": {
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Local Multiplayer",
+      "Turn-Based Tactics",
+      "4X",
+      "Tactical",
+      "Turn-Based Strategy",
+      "Turn-Based Combat",
+      "Fantasy",
+      "Strategy RPG",
+      "Strategy",
+      "Pixel Graphics",
+      "Magic",
+      "Atmospheric",
+      "Lore-Rich",
+      "Retro",
+      "Story Rich",
+      "Tactical RPG",
+      "2.5D",
+      "Old School",
+      "Controller",
+      "Co-op"
+    ],
+    "appid": 867210
+  },
+  "Soulstone Survivors": {
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG",
+      "Early Access"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Bullet Hell",
+      "Early Access",
+      "Rogue-lite",
+      "Action RPG",
+      "Rogue-like",
+      "Top-Down",
+      "Arcade",
+      "Action",
+      "Singleplayer",
+      "Procedural Generation",
+      "Colorful",
+      "Score Attack",
+      "Controller",
+      "RPG",
+      "Dark Fantasy",
+      "Twin Stick Shooter",
+      "Crafting",
+      "Hack and Slash",
+      "Character Customization"
+    ],
+    "appid": 2066020
+  },
+  "Soundpad": {
+    "genres": [
+      "Audio Production",
+      "Utilities"
+    ],
+    "tags": [
+      "Utilities",
+      "Audio Production",
+      "Music",
+      "Software",
+      "NSFW",
+      "Mature",
+      "Cold War",
+      "Psychological",
+      "Singleplayer",
+      "Atmospheric"
+    ],
+    "appid": 629520
+  },
+  "Source Filmmaker": {
+    "genres": [
+      "Animation & Modeling",
+      "Video Production"
+    ],
+    "tags": [
+      "Animation & Modeling",
+      "Free to Play",
+      "Video Production",
+      "Software",
+      "Movie",
+      "Difficult",
+      "Sandbox",
+      "Funny",
+      "Comedy",
+      "Singleplayer",
+      "Moddable",
+      "Character Customization",
+      "Memes",
+      "Survival Horror",
+      "Games Workshop",
+      "3D",
+      "Anime",
+      "Great Soundtrack",
+      "Souls-like",
+      "Family Friendly"
+    ],
+    "appid": 1840
+  },
+  "Space Engineers": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Space",
+      "Sandbox",
+      "Building",
+      "Open World Survival Craft",
+      "Multiplayer",
+      "Survival",
+      "Simulation",
+      "Open World",
+      "Physics",
+      "Crafting",
+      "Destruction",
+      "Co-op",
+      "Futuristic",
+      "Sci-fi",
+      "Indie",
+      "Singleplayer",
+      "Action",
+      "Strategy",
+      "Adventure",
+      "Early Access"
+    ],
+    "appid": 244850
+  },
+  "SpellForce: Conquest of Eo": {
+    "genres": [],
+    "tags": []
+  },
+  "Star Traders: Frontiers": {
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Sci-fi",
+      "Moddable",
+      "Simulation",
+      "Tactical RPG",
+      "Trading",
+      "Management",
+      "Procedural Generation",
+      "Sandbox",
+      "Turn-Based Combat",
+      "Space Sim",
+      "2D",
+      "Strategy",
+      "RPG",
+      "Rogue-lite",
+      "Replay Value",
+      "Perma Death",
+      "Difficult",
+      "Economy",
+      "Open World",
+      "Kickstarter"
+    ],
+    "appid": 335620
+  },
+  "Star Trek Online": {
+    "genres": [
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "tags": [
+      "Free to Play",
+      "Sci-fi",
+      "Massively Multiplayer",
+      "Space",
+      "MMORPG",
+      "RPG",
+      "Open World",
+      "Multiplayer",
+      "Character Customization",
+      "Action",
+      "Third Person",
+      "Adventure",
+      "Singleplayer",
+      "PvE",
+      "Online Co-Op",
+      "Co-op",
+      "PvP",
+      "Strategy",
+      "Action RPG",
+      "Tactical"
+    ],
+    "appid": 9900
+  },
+  "Starbound": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Open World Survival Craft",
+      "Sandbox",
+      "Survival",
+      "Space",
+      "Adventure",
+      "Crafting",
+      "Pixel Graphics",
+      "Online Co-Op",
+      "Multiplayer",
+      "Open World",
+      "Exploration",
+      "Relaxing",
+      "Indie",
+      "2D",
+      "Action",
+      "Building",
+      "Co-op",
+      "RPG",
+      "Atmospheric",
+      "Sci-fi"
+    ],
+    "appid": 211820
+  },
+  "Stardew Valley": {
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "tags": [
+      "Farming Sim",
+      "Pixel Graphics",
+      "Multiplayer",
+      "Life Sim",
+      "RPG",
+      "Relaxing",
+      "Agriculture",
+      "Simulation",
+      "Crafting",
+      "Sandbox",
+      "Indie",
+      "Building",
+      "Singleplayer",
+      "Casual",
+      "Open World",
+      "2D",
+      "Dating Sim",
+      "Cute",
+      "Great Soundtrack",
+      "Fishing"
+    ],
+    "appid": 413150
+  },
+  "Starfield": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Space",
+      "Singleplayer",
+      "Open World",
+      "RPG",
+      "Sci-fi",
+      "Exploration",
+      "First-Person",
+      "Character Customization",
+      "Story Rich",
+      "Action-Adventure",
+      "Third Person",
+      "Adventure",
+      "Action RPG",
+      "Atmospheric",
+      "Moddable",
+      "Space Sim",
+      "Action",
+      "Cinematic",
+      "Realistic",
+      "Great Soundtrack"
+    ],
+    "appid": 1716740
+  },
+  "Stellaris": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Space",
+      "Grand Strategy",
+      "Strategy",
+      "Sci-fi",
+      "4X",
+      "Exploration",
+      "Sandbox",
+      "Simulation",
+      "Multiplayer",
+      "Singleplayer",
+      "Real-Time with Pause",
+      "Moddable",
+      "Management",
+      "Diplomacy",
+      "Military",
+      "Futuristic",
+      "Replay Value",
+      "Great Soundtrack",
+      "Procedural Generation",
+      "Atmospheric"
+    ],
+    "appid": 281990
+  },
+  "Street Fighter V": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Fighting",
+      "Action",
+      "2D Fighter",
+      "Multiplayer",
+      "Competitive",
+      "Arcade",
+      "Local Multiplayer",
+      "e-sports",
+      "Controller",
+      "Anime",
+      "2.5D",
+      "Singleplayer",
+      "Great Soundtrack",
+      "Classic",
+      "2D",
+      "Nudity",
+      "Female Protagonist",
+      "Beat 'em up",
+      "Sexual Content",
+      "Funny"
+    ],
+    "appid": 310950
+  },
+  "Stronghold Crusader HD": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Military",
+      "City Builder",
+      "Real Time Tactics",
+      "Medieval",
+      "Colony Sim",
+      "Building",
+      "War",
+      "Base-Building",
+      "Strategy",
+      "Sandbox",
+      "Management",
+      "Real-Time",
+      "Resource Management",
+      "Isometric",
+      "RTS",
+      "Economy",
+      "Historical",
+      "2D",
+      "Tower Defense",
+      "Simulation"
+    ],
+    "appid": 40970
+  },
+  "Stronghold HD": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Real Time Tactics",
+      "City Builder",
+      "Colony Sim",
+      "Building",
+      "Sandbox",
+      "Medieval",
+      "Economy",
+      "Tower Defense",
+      "Base-Building",
+      "RTS",
+      "Strategy",
+      "2D",
+      "Isometric",
+      "Funny",
+      "Historical",
+      "Simulation",
+      "Open World",
+      "Atmospheric",
+      "Resource Management",
+      "Comedy"
+    ],
+    "appid": 40950
+  },
+  "Super Meat Boy": {
+    "genres": [
+      "Indie"
+    ],
+    "tags": [
+      "Precision Platformer",
+      "Platformer",
+      "Difficult",
+      "Indie",
+      "2D Platformer",
+      "Pixel Graphics",
+      "2D",
+      "Singleplayer",
+      "Great Soundtrack",
+      "Fast-Paced",
+      "Retro",
+      "Controller",
+      "Unforgiving",
+      "Gore",
+      "Action",
+      "Time Attack",
+      "Funny",
+      "Comedy",
+      "Side Scroller",
+      "Replay Value"
+    ],
+    "appid": 40800
+  },
+  "Supreme Commander: Forged Alliance": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "RTS",
+      "Sci-fi",
+      "Multiplayer",
+      "Singleplayer",
+      "Base-Building",
+      "Grand Strategy",
+      "Co-op",
+      "Moddable",
+      "Real-Time with Pause",
+      "Robots",
+      "Competitive",
+      "Real-Time",
+      "Action",
+      "Online Co-Op",
+      "Classic",
+      "War",
+      "Great Soundtrack",
+      "Space",
+      "Adventure"
+    ],
+    "appid": 9420
+  },
+  "Sword of the Stars: The Pit": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Rogue-like",
+      "Dungeon Crawler",
+      "Perma Death",
+      "Procedural Generation",
+      "Crafting",
+      "Turn-Based",
+      "Sci-fi",
+      "Aliens",
+      "Lore-Rich",
+      "RPG",
+      "Strategy",
+      "2D",
+      "Stylized",
+      "Loot",
+      "Zombies",
+      "Traditional Roguelike",
+      "Turn-Based Strategy",
+      "Supernatural",
+      "Survival",
+      "Adventure"
+    ],
+    "appid": 233700
+  },
+  "TEKKEN 7": {
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "tags": [
+      "Fighting",
+      "Action",
+      "Multiplayer",
+      "Competitive",
+      "Arcade",
+      "Local Multiplayer",
+      "Controller",
+      "3D Fighter",
+      "Great Soundtrack",
+      "Singleplayer",
+      "e-sports",
+      "Character Customization",
+      "Sports",
+      "Difficult",
+      "Anime",
+      "Story Rich",
+      "Beat 'em up",
+      "Third Person",
+      "Atmospheric",
+      "2D Fighter"
+    ],
+    "appid": 389730
+  },
+  "Tabletop Simulator": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Tabletop",
+      "Board Game",
+      "Simulation",
+      "Multiplayer",
+      "Sandbox",
+      "Card Game",
+      "VR",
+      "Trading Card Game",
+      "Physics",
+      "Moddable",
+      "3D",
+      "Strategy",
+      "Online Co-Op",
+      "Casual",
+      "Wargame",
+      "Co-op",
+      "RPG",
+      "Funny",
+      "First-Person",
+      "Indie"
+    ],
+    "appid": 286160
+  },
+  "Tactical Breach Wizards": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Turn-Based Tactics",
+      "Puzzle",
+      "Turn-Based Strategy",
+      "Story Rich",
+      "Turn-Based",
+      "Funny",
+      "Singleplayer",
+      "Tactical",
+      "Strategy RPG",
+      "Tactical RPG",
+      "RPG",
+      "Military",
+      "Adventure",
+      "Indie",
+      "Isometric",
+      "Comedy",
+      "Mystery",
+      "Fantasy",
+      "Strategy",
+      "Satire"
+    ],
+    "appid": 1043810
+  },
+  "Tactical Craft Online": {
+    "genres": [
+      "Free To Play",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Strategy",
+      "Early Access"
+    ],
+    "tags": [
+      "Free to Play",
+      "Open World Survival Craft",
+      "Crafting",
+      "Survival",
+      "Open World",
+      "Massively Multiplayer",
+      "Multiplayer",
+      "Strategy",
+      "Sandbox",
+      "RPG",
+      "Building",
+      "Indie",
+      "Early Access",
+      "Pixel Graphics",
+      "Singleplayer",
+      "Casual",
+      "Co-op"
+    ],
+    "appid": 415860
+  },
+  "Tales of Maj'Eyal": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Traditional Roguelike",
+      "Rogue-like",
+      "Turn-Based",
+      "Dungeon Crawler",
+      "Perma Death",
+      "Difficult",
+      "RPG",
+      "Procedural Generation",
+      "2D",
+      "Top-Down",
+      "Fantasy",
+      "Open World",
+      "Loot",
+      "Tactical",
+      "Moddable",
+      "Adventure",
+      "Singleplayer",
+      "Indie",
+      "Replay Value",
+      "Character Customization"
+    ],
+    "appid": 259680
+  },
+  "Talisman: Digital Classic Edition": {
+    "genres": [],
+    "tags": []
+  },
+  "Team Fortress 2": {
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "tags": [
+      "Free to Play",
+      "Hero Shooter",
+      "Multiplayer",
+      "FPS",
+      "Shooter",
+      "Action",
+      "Class-Based",
+      "Team-Based",
+      "Funny",
+      "First-Person",
+      "Online Co-Op",
+      "Competitive",
+      "Cartoony",
+      "Trading",
+      "Co-op",
+      "Comedy",
+      "Robots",
+      "Tactical",
+      "Cartoon",
+      "Crafting"
+    ],
+    "appid": 440
+  },
+  "Teeworlds": {
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Indie"
+    ],
+    "tags": [
+      "Free to Play",
+      "Multiplayer",
+      "2D",
+      "Action",
+      "Platformer",
+      "Shooter",
+      "Indie",
+      "Side Scroller",
+      "Co-op",
+      "Arena Shooter",
+      "Funny",
+      "Level Editor",
+      "Massively Multiplayer",
+      "PvP",
+      "Cute",
+      "Online Co-Op",
+      "Adventure",
+      "Team-Based",
+      "Strategy",
+      "Controller"
+    ],
+    "appid": 380840
+  },
+  "Terraformers": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Simulation",
+      "Procedural Generation",
+      "Survival",
+      "Atmospheric",
+      "Rogue-like",
+      "Sci-fi",
+      "Singleplayer",
+      "Space",
+      "Choices Matter",
+      "Science",
+      "Resource Management",
+      "Card Game",
+      "Turn-Based",
+      "Mars",
+      "Board Game",
+      "Exploration",
+      "Turn-Based Strategy",
+      "Management",
+      "Futuristic",
+      "Nonlinear"
+    ],
+    "appid": 1244800
+  },
+  "Terraforming Mars": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Board Game",
+      "Space",
+      "Tabletop",
+      "Turn-Based",
+      "Mars",
+      "Multiplayer",
+      "Sci-fi",
+      "Singleplayer",
+      "Management",
+      "Turn-Based Strategy",
+      "Base-Building",
+      "Hex Grid",
+      "PvP",
+      "Difficult",
+      "Local Multiplayer",
+      "Mature",
+      "Grand Strategy",
+      "2.5D",
+      "Beautiful"
+    ],
+    "appid": 800270
+  },
+  "Terraria": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Open World Survival Craft",
+      "Sandbox",
+      "Survival",
+      "2D",
+      "Multiplayer",
+      "Adventure",
+      "Pixel Graphics",
+      "Crafting",
+      "Building",
+      "Exploration",
+      "Co-op",
+      "Open World",
+      "Online Co-Op",
+      "Indie",
+      "Action",
+      "RPG",
+      "Singleplayer",
+      "Replay Value",
+      "Platformer",
+      "Atmospheric"
+    ],
+    "appid": 105600
+  },
+  "The Banner Saga": {
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "RPG",
+      "Turn-Based",
+      "Strategy",
+      "Indie",
+      "Tactical",
+      "Turn-Based Strategy",
+      "Story Rich",
+      "Fantasy",
+      "Great Soundtrack",
+      "Kickstarter",
+      "Tactical RPG",
+      "Choices Matter",
+      "Hand-drawn",
+      "Atmospheric",
+      "Singleplayer",
+      "2D",
+      "Strategy RPG",
+      "Crowdfunded",
+      "Adventure",
+      "Vikings"
+    ],
+    "appid": 237990
+  },
+  "The Binding of Isaac": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Rogue-like",
+      "Indie",
+      "Replay Value",
+      "Difficult",
+      "Pixel Graphics",
+      "Dungeon Crawler",
+      "Great Soundtrack",
+      "Singleplayer",
+      "Dark",
+      "2D",
+      "Local Co-Op",
+      "Remake",
+      "Gore",
+      "Procedural Generation",
+      "Rogue-lite",
+      "Atmospheric",
+      "Co-op",
+      "Action",
+      "Horror"
+    ],
+    "appid": 250900
+  },
+  "The Binding of Isaac: Rebirth": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Rogue-like",
+      "Indie",
+      "Replay Value",
+      "Difficult",
+      "Pixel Graphics",
+      "Dungeon Crawler",
+      "Great Soundtrack",
+      "Singleplayer",
+      "Dark",
+      "2D",
+      "Local Co-Op",
+      "Remake",
+      "Gore",
+      "Procedural Generation",
+      "Rogue-lite",
+      "Atmospheric",
+      "Co-op",
+      "Action",
+      "Horror"
+    ],
+    "appid": 250900
+  },
+  "The Elder Scrolls III: Morrowind": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Open World",
+      "Fantasy",
+      "Classic",
+      "Great Soundtrack",
+      "Moddable",
+      "Singleplayer",
+      "First-Person",
+      "Adventure",
+      "Cult Classic",
+      "Atmospheric",
+      "Magic",
+      "Exploration",
+      "Story Rich",
+      "Sandbox",
+      "Character Customization",
+      "Action RPG",
+      "Medieval",
+      "Action",
+      "Third Person"
+    ],
+    "appid": 22320
+  },
+  "The Elder Scrolls IV: Oblivion Game of the Year Edition (2009)": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Open World",
+      "Fantasy",
+      "Singleplayer",
+      "Moddable",
+      "First-Person",
+      "Adventure",
+      "Exploration",
+      "Great Soundtrack",
+      "Magic",
+      "Character Customization",
+      "Action",
+      "Story Rich",
+      "Atmospheric",
+      "Medieval",
+      "Sandbox",
+      "Classic",
+      "Action RPG",
+      "Third Person",
+      "Dark Fantasy"
+    ],
+    "appid": 22330
+  },
+  "The Elder Scrolls Online": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "MMORPG",
+      "Open World",
+      "Fantasy",
+      "Adventure",
+      "Multiplayer",
+      "Exploration",
+      "Singleplayer",
+      "Massively Multiplayer",
+      "Action",
+      "Character Customization",
+      "PvP",
+      "PvE",
+      "Lore-Rich",
+      "Story Rich",
+      "Choose Your Own Adventure",
+      "Class-Based",
+      "Magic",
+      "Action RPG",
+      "Atmospheric"
+    ],
+    "appid": 306130
+  },
+  "The Elder Scrolls V: Skyrim": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Open World",
+      "RPG",
+      "Adventure",
+      "Singleplayer",
+      "Fantasy",
+      "Character Customization",
+      "Moddable",
+      "Dragons",
+      "Story Rich",
+      "Magic",
+      "First-Person",
+      "Action",
+      "Atmospheric",
+      "Great Soundtrack",
+      "Third Person",
+      "Stealth",
+      "Classic",
+      "Remake",
+      "Female Protagonist",
+      "Walking Simulator"
+    ],
+    "appid": 489830
+  },
+  "The Elder Scrolls V: Skyrim Special Edition": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Open World",
+      "RPG",
+      "Adventure",
+      "Singleplayer",
+      "Fantasy",
+      "Character Customization",
+      "Moddable",
+      "Dragons",
+      "Story Rich",
+      "Magic",
+      "First-Person",
+      "Action",
+      "Atmospheric",
+      "Great Soundtrack",
+      "Third Person",
+      "Stealth",
+      "Classic",
+      "Remake",
+      "Female Protagonist",
+      "Walking Simulator"
+    ],
+    "appid": 489830
+  },
+  "The Elder Scrolls: Legends": {
+    "genres": [],
+    "tags": []
+  },
+  "The Guild II: Renaissance": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Simulation",
+      "Strategy",
+      "Colony Sim",
+      "Economy",
+      "Medieval",
+      "RPG",
+      "Trading",
+      "City Builder",
+      "Multiplayer",
+      "Politics",
+      "Singleplayer",
+      "Management",
+      "Resource Management",
+      "Sandbox",
+      "Political Sim",
+      "Historical",
+      "Life Sim",
+      "Building",
+      "Open World",
+      "Violent"
+    ],
+    "appid": 39680
+  },
+  "The Last Flame": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Rogue-like",
+      "Auto Battler",
+      "Strategy",
+      "Tactical",
+      "Turn-Based Strategy",
+      "Hex Grid",
+      "Adventure",
+      "RPG",
+      "Singleplayer",
+      "Turn-Based Tactics",
+      "Party-Based RPG",
+      "Fantasy",
+      "3D",
+      "Procedural Generation",
+      "Strategy RPG",
+      "Indie",
+      "Early Access",
+      "Turn-Based",
+      "Management",
+      "Survival"
+    ],
+    "appid": 1830970
+  },
+  "The Lord of the Rings Online™": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "tags": [
+      "Free to Play",
+      "MMORPG",
+      "Massively Multiplayer",
+      "Open World",
+      "Fantasy",
+      "RPG",
+      "Adventure",
+      "Multiplayer",
+      "Character Customization",
+      "Based On A Novel",
+      "Exploration",
+      "Action",
+      "Story Rich",
+      "Online Co-Op",
+      "Co-op",
+      "Survival",
+      "Third Person",
+      "Singleplayer",
+      "PvP",
+      "Dark Fantasy"
+    ],
+    "appid": 212500
+  },
+  "The Quest": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Dungeon Crawler",
+      "First-Person",
+      "Grid-Based Movement",
+      "Adventure",
+      "Indie",
+      "Open World",
+      "Retro",
+      "Fantasy",
+      "Singleplayer",
+      "Turn-Based",
+      "CRPG",
+      "Pixel Graphics",
+      "Old School"
+    ],
+    "appid": 428880
+  },
+  "The Survivalists": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "tags": [
+      "Crafting",
+      "Survival",
+      "Online Co-Op",
+      "Adventure",
+      "Multiplayer",
+      "Open World Survival Craft",
+      "Singleplayer",
+      "Base-Building",
+      "Open World",
+      "Pixel Graphics",
+      "Sandbox",
+      "Co-op",
+      "Exploration",
+      "2D",
+      "Casual",
+      "Character Customization",
+      "Hunting",
+      "Action",
+      "Top-Down",
+      "Procedural Generation"
+    ],
+    "appid": 897450
+  },
+  "The Talos Principle": {
+    "genres": [
+      "Adventure"
+    ],
+    "tags": [
+      "Puzzle",
+      "Philosophical",
+      "First-Person",
+      "Adventure",
+      "Atmospheric",
+      "Lore-Rich",
+      "Exploration",
+      "Post-apocalyptic",
+      "3D",
+      "FPS",
+      "Realistic",
+      "Third Person",
+      "Dystopian ",
+      "Futuristic",
+      "Investigation",
+      "Logic",
+      "Robots",
+      "Sci-fi",
+      "Artificial Intelligence",
+      "Controller"
+    ],
+    "appid": 2806640
+  },
+  "The Witcher 2: Assassins of Kings Enhanced Edition": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Fantasy",
+      "Mature",
+      "Story Rich",
+      "Choices Matter",
+      "Singleplayer",
+      "Third Person",
+      "Nudity",
+      "Adventure",
+      "Dark Fantasy",
+      "Multiple Endings",
+      "Open World",
+      "Action",
+      "Atmospheric",
+      "Based On A Novel",
+      "Well-Written",
+      "Difficult",
+      "Medieval",
+      "Magic",
+      "Dark"
+    ],
+    "appid": 20920
+  },
+  "The Witcher 3: Wild Hunt": {
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Open World",
+      "RPG",
+      "Story Rich",
+      "Atmospheric",
+      "Mature",
+      "Fantasy",
+      "Adventure",
+      "Singleplayer",
+      "Nudity",
+      "Choices Matter",
+      "Great Soundtrack",
+      "Third Person",
+      "Medieval",
+      "Action",
+      "Multiple Endings",
+      "Action RPG",
+      "Dark Fantasy",
+      "Magic",
+      "Dark",
+      "Sandbox"
+    ],
+    "appid": 292030
+  },
+  "Thea 2: The Shattering": {
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "RPG",
+      "Indie",
+      "Turn-Based Strategy",
+      "Survival",
+      "Card Battler",
+      "Crafting",
+      "4X",
+      "Story Rich",
+      "Dark Fantasy",
+      "Fantasy",
+      "Turn-Based",
+      "Card Game",
+      "Strategy RPG",
+      "Rogue-like",
+      "Online Co-Op",
+      "Co-op",
+      "Rogue-lite",
+      "Nudity",
+      "Dwarf"
+    ],
+    "appid": 606230
+  },
+  "Thea: The Awakening": {
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "RPG",
+      "Turn-Based",
+      "Survival",
+      "Turn-Based Strategy",
+      "Fantasy",
+      "Indie",
+      "Card Game",
+      "4X",
+      "Singleplayer",
+      "Crafting",
+      "Dark Fantasy",
+      "Hex Grid",
+      "Resource Management",
+      "Choices Matter",
+      "Replay Value",
+      "Rogue-like",
+      "Co-op",
+      "Nudity",
+      "Mythology"
+    ],
+    "appid": 378720
+  },
+  "Therian Saga": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Free to Play",
+      "RPG",
+      "Adventure",
+      "Massively Multiplayer",
+      "Strategy",
+      "Crafting",
+      "Multiplayer",
+      "MMORPG",
+      "Action",
+      "Open World",
+      "Exploration",
+      "Fantasy",
+      "Puzzle",
+      "Simulation",
+      "Resource Management",
+      "Asynchronous Multiplayer",
+      "Indie",
+      "RTS",
+      "Old School",
+      "PvP"
+    ],
+    "appid": 542480
+  },
+  "They Are Billions": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Base-Building",
+      "Colony Sim",
+      "Strategy",
+      "Zombies",
+      "Survival",
+      "RTS",
+      "Tower Defense",
+      "City Builder",
+      "Steampunk",
+      "Building",
+      "Post-apocalyptic",
+      "Singleplayer",
+      "Resource Management",
+      "Real-Time with Pause",
+      "Difficult",
+      "Tactical",
+      "Management",
+      "Indie",
+      "Isometric",
+      "Multiplayer"
+    ],
+    "appid": 644930
+  },
+  "This War of Mine": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "tags": [
+      "Survival",
+      "War",
+      "Atmospheric",
+      "Singleplayer",
+      "Strategy",
+      "Choices Matter",
+      "Simulation",
+      "Crafting",
+      "Base-Building",
+      "Resource Management",
+      "Post-apocalyptic",
+      "Management",
+      "Story Rich",
+      "Indie",
+      "Emotional",
+      "Realistic",
+      "2.5D",
+      "Psychological",
+      "Drama",
+      "Stealth"
+    ],
+    "appid": 282070
+  },
+  "Titan Quest Anniversary Edition": {
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Hack and Slash",
+      "Action RPG",
+      "Loot",
+      "Mythology",
+      "Multiplayer",
+      "Co-op",
+      "Singleplayer",
+      "Classic",
+      "Isometric",
+      "Adventure",
+      "Action",
+      "Fantasy",
+      "Top-Down",
+      "Open World",
+      "Atmospheric",
+      "Great Soundtrack",
+      "Story Rich",
+      "Dungeon Crawler",
+      "Level Editor"
+    ],
+    "appid": 475150
+  },
+  "Tom Clancy's Rainbow Six Siege": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "FPS",
+      "PvP",
+      "Multiplayer",
+      "Tactical",
+      "e-sports",
+      "Shooter",
+      "Competitive",
+      "Online Co-Op",
+      "Action",
+      "Hero Shooter",
+      "Team-Based",
+      "Military",
+      "Strategy",
+      "First-Person",
+      "Co-op",
+      "Realistic",
+      "War",
+      "Destruction",
+      "Difficult",
+      "3D"
+    ],
+    "appid": 359550
+  },
+  "Tomb Raider": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Action-Adventure",
+      "Platformer",
+      "Puzzle",
+      "3D Platformer",
+      "Third Person",
+      "Exploration",
+      "Precision Platformer",
+      "Puzzle-Platformer",
+      "Retro",
+      "Parkour",
+      "Third-Person Shooter",
+      "Atmospheric",
+      "3D",
+      "Stylized",
+      "Mystery",
+      "Drama",
+      "Old School",
+      "Female Protagonist"
+    ],
+    "appid": 2525380
+  },
+  "Torchlight II": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Action RPG",
+      "Hack and Slash",
+      "Loot",
+      "Dungeon Crawler",
+      "Co-op",
+      "Fantasy",
+      "Online Co-Op",
+      "Multiplayer",
+      "Action",
+      "Adventure",
+      "Singleplayer",
+      "Indie",
+      "Moddable",
+      "Character Customization",
+      "Isometric",
+      "Replay Value",
+      "Steampunk",
+      "Atmospheric",
+      "Cartoon"
+    ],
+    "appid": 200710
+  },
+  "Total War: ATTILA": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Historical",
+      "War",
+      "Turn-Based Strategy",
+      "Grand Strategy",
+      "RTS",
+      "Tactical",
+      "Rome",
+      "Multiplayer",
+      "Singleplayer",
+      "Real Time Tactics",
+      "Medieval",
+      "Co-op",
+      "Atmospheric",
+      "Action",
+      "Turn-Based",
+      "Open World",
+      "Survival",
+      "Simulation",
+      "Adventure"
+    ],
+    "appid": 325610
+  },
+  "Total War: EMPIRE - Definitive Edition": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Historical",
+      "Military",
+      "Grand Strategy",
+      "Turn-Based Strategy",
+      "War",
+      "Tactical",
+      "RTS",
+      "Multiplayer",
+      "Singleplayer",
+      "Turn-Based",
+      "Naval",
+      "America",
+      "Real Time Tactics",
+      "Action",
+      "Great Soundtrack",
+      "Turn-Based Tactics",
+      "Atmospheric",
+      "Classic",
+      "Adventure"
+    ],
+    "appid": 10500
+  },
+  "Total War: MEDIEVAL II - Definitive Edition": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Medieval",
+      "Historical",
+      "Turn-Based Strategy",
+      "Grand Strategy",
+      "War",
+      "RTS",
+      "Tactical",
+      "Multiplayer",
+      "Singleplayer",
+      "Moddable",
+      "Military",
+      "Turn-Based",
+      "Real Time Tactics",
+      "Classic",
+      "Simulation",
+      "Action",
+      "Sandbox",
+      "Great Soundtrack",
+      "4X"
+    ],
+    "appid": 4700
+  },
+  "Total War: ROME II - Emperor Edition": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Historical",
+      "Turn-Based Strategy",
+      "Grand Strategy",
+      "Rome",
+      "Tactical",
+      "War",
+      "Multiplayer",
+      "Real Time Tactics",
+      "RTS",
+      "Turn-Based",
+      "Singleplayer",
+      "Online Co-Op",
+      "Simulation",
+      "Co-op",
+      "Turn-Based Tactics",
+      "Moddable",
+      "Action",
+      "Atmospheric",
+      "Education"
+    ],
+    "appid": 214950
+  },
+  "Total War: ROME REMASTERED": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Grand Strategy",
+      "Turn-Based Strategy",
+      "Action",
+      "RTS",
+      "Rome",
+      "4X",
+      "Real Time Tactics",
+      "Wargame",
+      "Historical",
+      "Diplomacy",
+      "Tactical",
+      "War",
+      "Multiplayer",
+      "Singleplayer",
+      "Turn-Based Combat",
+      "Turn-Based Tactics",
+      "Remake",
+      "Medieval",
+      "Classic"
+    ],
+    "appid": 885970
+  },
+  "Total War: SHOGUN 2": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Historical",
+      "Turn-Based Strategy",
+      "RTS",
+      "Grand Strategy",
+      "Tactical",
+      "Singleplayer",
+      "Multiplayer",
+      "Real Time Tactics",
+      "Military",
+      "Diplomacy",
+      "Ninja",
+      "Co-op",
+      "Turn-Based",
+      "Medieval",
+      "Great Soundtrack",
+      "Moddable",
+      "Turn-Based Tactics",
+      "Action",
+      "Stylized"
+    ],
+    "appid": 201270
+  },
+  "Total War: THREE KINGDOMS": {
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Historical",
+      "War",
+      "Turn-Based Strategy",
+      "Grand Strategy",
+      "RTS",
+      "Military",
+      "Multiplayer",
+      "Tactical",
+      "Singleplayer",
+      "Real Time Tactics",
+      "Action",
+      "Turn-Based",
+      "Great Soundtrack",
+      "Co-op",
+      "Simulation",
+      "Sandbox",
+      "Violent",
+      "Fantasy",
+      "Destruction"
+    ],
+    "appid": 779340
+  },
+  "Total War: WARHAMMER II": {
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Fantasy",
+      "Turn-Based Strategy",
+      "RTS",
+      "Grand Strategy",
+      "War",
+      "Multiplayer",
+      "Games Workshop",
+      "Action",
+      "Turn-Based",
+      "Singleplayer",
+      "Dark Fantasy",
+      "Co-op",
+      "Tactical",
+      "Real Time Tactics",
+      "Story Rich",
+      "Atmospheric",
+      "Dwarf",
+      "Dinosaurs",
+      "Great Soundtrack"
+    ],
+    "appid": 594570
+  },
+  "Total War: WARHAMMER III": {
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Turn-Based Strategy",
+      "Grand Strategy",
+      "RTS",
+      "Fantasy",
+      "Real Time Tactics",
+      "War",
+      "Dark Fantasy",
+      "Action",
+      "Dwarf",
+      "Tactical",
+      "Games Workshop",
+      "Atmospheric",
+      "Multiplayer",
+      "Colorful",
+      "Co-op",
+      "PvP",
+      "Singleplayer",
+      "Warhammer 40K",
+      "Online Co-Op"
+    ],
+    "appid": 1142710
+  },
+  "Tower Unite": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Massively Multiplayer",
+      "Racing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Casual",
+      "Mini Golf",
+      "Character Customization",
+      "Massively Multiplayer",
+      "Early Access",
+      "Open World",
+      "Sandbox",
+      "Funny",
+      "Indie",
+      "Great Soundtrack",
+      "Action",
+      "Adventure",
+      "FPS",
+      "Racing",
+      "Memes",
+      "Zombies",
+      "Simulation",
+      "Third Person",
+      "Arcade"
+    ],
+    "appid": 394690
+  },
+  "Trove": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "tags": [
+      "Platformer",
+      "Pixel Graphics",
+      "Retro",
+      "Great Soundtrack",
+      "Indie",
+      "2D",
+      "Adventure",
+      "Action",
+      "Singleplayer",
+      "Difficult",
+      "Side Scroller",
+      "Kickstarter",
+      "Fantasy",
+      "Old School",
+      "Medieval",
+      "Funny",
+      "Arcade",
+      "Comedy",
+      "RPG",
+      "Local Co-Op"
+    ],
+    "appid": 250760
+  },
+  "Two Point Museum": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Simulation",
+      "Casual",
+      "Strategy",
+      "Building",
+      "City Builder",
+      "Life Sim",
+      "Sandbox",
+      "Exploration",
+      "Cartoony",
+      "Cute",
+      "Isometric",
+      "Economy",
+      "Comedy",
+      "Management",
+      "Family Friendly",
+      "Funny",
+      "Nature",
+      "Relaxing",
+      "Sci-fi",
+      "Singleplayer"
+    ],
+    "appid": 2185060
+  },
+  "Tyranny": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [],
+    "appid": 2183930
+  },
+  "Ultra Street Fighter IV": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Fighting",
+      "Arcade",
+      "Competitive",
+      "2D Fighter",
+      "Local Multiplayer",
+      "Action",
+      "Multiplayer",
+      "Controller",
+      "e-sports",
+      "Difficult",
+      "Classic",
+      "Anime",
+      "Great Soundtrack",
+      "2.5D",
+      "Singleplayer",
+      "2D",
+      "Beat 'em up",
+      "Local Co-Op",
+      "Adventure",
+      "3D Vision"
+    ],
+    "appid": 45760
+  },
+  "Underrail": {
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Post-apocalyptic",
+      "Isometric",
+      "Turn-Based",
+      "CRPG",
+      "Turn-Based Combat",
+      "Indie",
+      "Singleplayer",
+      "Sci-fi",
+      "Open World",
+      "Atmospheric",
+      "Crafting",
+      "Old School",
+      "Cyberpunk",
+      "Difficult",
+      "Pixel Graphics",
+      "Adventure",
+      "Exploration",
+      "2D",
+      "Sandbox"
+    ],
+    "appid": 250520
+  },
+  "Undertale": {
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Great Soundtrack",
+      "Story Rich",
+      "Choices Matter",
+      "Multiple Endings",
+      "Pixel Graphics",
+      "Funny",
+      "RPG",
+      "Singleplayer",
+      "Indie",
+      "2D",
+      "Comedy",
+      "Replay Value",
+      "Bullet Hell",
+      "Cute",
+      "Memes",
+      "Retro",
+      "Dark",
+      "Psychological Horror",
+      "Dating Sim",
+      "Horror"
+    ],
+    "appid": 391540
+  },
+  "Unturned": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "tags": [
+      "Free to Play",
+      "Survival",
+      "Zombies",
+      "Multiplayer",
+      "Open World",
+      "Co-op",
+      "Sandbox",
+      "Crafting",
+      "Shooter",
+      "Adventure",
+      "Post-apocalyptic",
+      "First-Person",
+      "Singleplayer",
+      "Looter Shooter",
+      "FPS",
+      "Action",
+      "Massively Multiplayer",
+      "Indie",
+      "Atmospheric",
+      "Casual"
+    ],
+    "appid": 304930
+  },
+  "Uprising 2: Lead and Destroy": {
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "tags": [
+      "Action",
+      "Strategy"
+    ],
+    "appid": 514050
+  },
+  "Urtuk: The Desolation": {
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Turn-Based Tactics",
+      "Hex Grid",
+      "Wargame",
+      "Dark",
+      "Tactical RPG",
+      "Difficult",
+      "Procedural Generation",
+      "Post-apocalyptic",
+      "Singleplayer",
+      "Dark Fantasy",
+      "Turn-Based Combat",
+      "Strategy",
+      "Tactical",
+      "Replay Value",
+      "Perma Death",
+      "Turn-Based Strategy",
+      "Turn-Based",
+      "2D",
+      "Fantasy",
+      "Strategy RPG"
+    ],
+    "appid": 1181830
+  },
+  "V Rising": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer"
+    ],
+    "tags": [
+      "Survival",
+      "Open World",
+      "Base-Building",
+      "Vampire",
+      "Multiplayer",
+      "Crafting",
+      "Online Co-Op",
+      "PvP",
+      "PvE",
+      "Building",
+      "Hack and Slash",
+      "Sandbox",
+      "Exploration",
+      "Massively Multiplayer",
+      "Dark Fantasy",
+      "Action-Adventure",
+      "Singleplayer",
+      "Action",
+      "Adventure",
+      "Co-op"
+    ],
+    "appid": 1604030
+  },
+  "VRChat": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Massively Multiplayer",
+      "Simulation",
+      "Sports",
+      "Free To Play",
+      "Early Access"
+    ],
+    "tags": [
+      "VR",
+      "Free to Play",
+      "Multiplayer",
+      "Anime",
+      "Memes",
+      "Funny",
+      "Massively Multiplayer",
+      "First-Person",
+      "Open World",
+      "Early Access",
+      "Simulation",
+      "Casual",
+      "Adventure",
+      "MMORPG",
+      "Comedy",
+      "Sandbox",
+      "Dating Sim",
+      "Survival Horror",
+      "Action",
+      "Atmospheric"
+    ],
+    "appid": 438100
+  },
+  "VTube Studio": {
+    "genres": [
+      "Indie",
+      "Animation & Modeling",
+      "Video Production"
+    ],
+    "tags": [
+      "Indie",
+      "Mature",
+      "Anime",
+      "Animation & Modeling",
+      "Free to Play",
+      "NSFW",
+      "Software",
+      "Cute",
+      "Video Production",
+      "Character Customization",
+      "2D",
+      "Utilities",
+      "Funny",
+      "Singleplayer",
+      "3D",
+      "Multiplayer",
+      "Co-op",
+      "Survival Horror",
+      "Souls-like"
+    ],
+    "appid": 1325860
+  },
+  "Valheim": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Early Access"
+    ],
+    "tags": [
+      "Open World Survival Craft",
+      "Survival",
+      "Online Co-Op",
+      "Open World",
+      "Multiplayer",
+      "Building",
+      "Crafting",
+      "Base-Building",
+      "Exploration",
+      "Co-op",
+      "Adventure",
+      "Difficult",
+      "Mythology",
+      "Sandbox",
+      "PvE",
+      "Third Person",
+      "Action",
+      "Singleplayer",
+      "Early Access",
+      "Indie"
+    ],
+    "appid": 892970
+  },
+  "Vampire Survivors": {
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Bullet Hell",
+      "Pixel Graphics",
+      "Rogue-lite",
+      "Vampire",
+      "2D",
+      "Indie",
+      "Singleplayer",
+      "Casual",
+      "Arcade",
+      "Action",
+      "Rogue-like",
+      "RPG",
+      "Controller",
+      "Retro",
+      "Score Attack",
+      "Local Co-Op",
+      "Dark Fantasy",
+      "Action RPG",
+      "1980s"
+    ],
+    "appid": 1794680
+  },
+  "Victoria II": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Grand Strategy",
+      "Strategy",
+      "Historical",
+      "Political Sim",
+      "Politics",
+      "Economy",
+      "Simulation",
+      "Real-Time with Pause",
+      "Military",
+      "World War I",
+      "War",
+      "Sandbox",
+      "Singleplayer",
+      "RTS",
+      "Management",
+      "Alternate History",
+      "Multiplayer",
+      "Moddable",
+      "Diplomacy",
+      "Great Soundtrack"
+    ],
+    "appid": 42960
+  },
+  "Volgarr the Viking": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "tags": [
+      "Platformer",
+      "Difficult",
+      "Action",
+      "Indie",
+      "Retro",
+      "2D",
+      "Adventure",
+      "Singleplayer",
+      "Arcade",
+      "Old School",
+      "Vikings",
+      "Pixel Graphics",
+      "Side Scroller",
+      "Fantasy",
+      "Gore",
+      "2D Platformer",
+      "Metroidvania"
+    ],
+    "appid": 247240
+  },
+  "Wallpaper Engine": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Animation & Modeling",
+      "Design & Illustration",
+      "Photo Editing",
+      "Utilities"
+    ],
+    "tags": [
+      "Mature",
+      "Utilities",
+      "Anime",
+      "Software",
+      "Design & Illustration",
+      "Animation & Modeling",
+      "First-Person",
+      "NSFW",
+      "Indie",
+      "Memes",
+      "Cute",
+      "Action",
+      "Singleplayer",
+      "Funny",
+      "Early Access",
+      "Photo Editing",
+      "Sandbox",
+      "Horror",
+      "Gaming",
+      "Game Development"
+    ],
+    "appid": 431960
+  },
+  "War Thunder": {
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "Simulation",
+      "Free To Play"
+    ],
+    "tags": [
+      "Free to Play",
+      "Simulation",
+      "Vehicular Combat",
+      "Combat",
+      "World War II",
+      "Flight",
+      "VR",
+      "War",
+      "Military",
+      "Tanks",
+      "Multiplayer",
+      "Naval Combat",
+      "Modern",
+      "Massively Multiplayer",
+      "Cold War",
+      "Realistic",
+      "Shooter",
+      "Action",
+      "Third Person",
+      "Third-Person Shooter"
+    ],
+    "appid": 236390
+  },
+  "Warface: Clutch": {
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "Free To Play"
+    ],
+    "tags": [
+      "Free to Play",
+      "FPS",
+      "Multiplayer",
+      "Shooter",
+      "Action",
+      "PvP",
+      "Co-op",
+      "Gun Customization",
+      "Character Customization",
+      "First-Person",
+      "Online Co-Op",
+      "Team-Based",
+      "Tactical",
+      "Realistic",
+      "Class-Based",
+      "Massively Multiplayer",
+      "Military",
+      "PvE",
+      "War",
+      "Competitive"
+    ],
+    "appid": 291480
+  },
+  "Warframe": {
+    "genres": [
+      "Action",
+      "RPG",
+      "Free To Play"
+    ],
+    "tags": [
+      "Free to Play",
+      "Action RPG",
+      "Looter Shooter",
+      "Third-Person Shooter",
+      "Action",
+      "RPG",
+      "Third Person",
+      "Character Customization",
+      "Massively Multiplayer",
+      "Online Co-Op",
+      "Co-op",
+      "PvE",
+      "Sci-fi",
+      "Singleplayer",
+      "Space",
+      "Shooter",
+      "Lore-Rich",
+      "Hack and Slash",
+      "Parkour",
+      "Ninja"
+    ],
+    "appid": 230410
+  },
+  "Warhammer 40,000: Dawn of War - Anniversary Edition ": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "RTS",
+      "Warhammer 40K",
+      "Base-Building",
+      "Sci-fi",
+      "Multiplayer",
+      "Real-Time",
+      "Games Workshop",
+      "Tactical",
+      "Singleplayer",
+      "War",
+      "Classic",
+      "Action",
+      "Gore",
+      "Epic",
+      "Great Soundtrack",
+      "Fantasy",
+      "Story Rich",
+      "Futuristic",
+      "Violent"
+    ],
+    "appid": 4570
+  },
+  "Warhammer 40,000: Dawn of War - Dark Crusade": {
+    "genres": [],
+    "tags": []
+  },
+  "Warhammer 40,000: Dawn of War - Soulstorm": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Warhammer 40K",
+      "Strategy",
+      "RTS",
+      "Base-Building",
+      "Sci-fi",
+      "Multiplayer",
+      "Real-Time",
+      "Games Workshop",
+      "Singleplayer",
+      "Futuristic",
+      "Classic",
+      "Masterpiece",
+      "Action",
+      "Atmospheric",
+      "Great Soundtrack",
+      "Gore",
+      "Moddable",
+      "Adventure",
+      "Fantasy",
+      "Memes"
+    ],
+    "appid": 9440
+  },
+  "Warhammer 40,000: Dawn of War - Winter Assault": {
+    "genres": [],
+    "tags": []
+  },
+  "Warhammer 40,000: Dawn of War II - Anniversary Edition": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Warhammer 40K",
+      "Strategy",
+      "RTS",
+      "Sci-fi",
+      "Multiplayer",
+      "Games Workshop",
+      "Tactical",
+      "Singleplayer",
+      "Co-op",
+      "Gore",
+      "Futuristic",
+      "Online Co-Op",
+      "RPG",
+      "Co-op Campaign",
+      "Real-Time",
+      "Action",
+      "Fantasy",
+      "Great Soundtrack",
+      "Atmospheric",
+      "Violent"
+    ],
+    "appid": 15620
+  },
+  "Warhammer 40,000: Dawn of War II - Chaos Rising": {
+    "genres": [],
+    "tags": []
+  },
+  "Warhammer 40,000: Dawn of War II - Retribution": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy"
+    ],
+    "appid": 378040
+  },
+  "Warhammer 40,000: Dawn of War III": {
+    "genres": [
+      "Action",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Warhammer 40K",
+      "Strategy",
+      "RTS",
+      "Sci-fi",
+      "Multiplayer",
+      "Action",
+      "Games Workshop",
+      "MOBA",
+      "Base-Building",
+      "Singleplayer",
+      "Gore",
+      "War",
+      "Atmospheric",
+      "Tactical",
+      "Co-op",
+      "Great Soundtrack",
+      "Story Rich",
+      "Classic",
+      "Violent",
+      "Casual"
+    ],
+    "appid": 285190
+  },
+  "Warhammer 40,000: Gladius - Relics of War": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Warhammer 40K",
+      "4X",
+      "Turn-Based Strategy",
+      "Turn-Based",
+      "Multiplayer",
+      "Hex Grid",
+      "Sci-fi",
+      "Turn-Based Tactics",
+      "Wargame",
+      "Co-op",
+      "Singleplayer",
+      "Tactical",
+      "Grand Strategy",
+      "War",
+      "Turn-Based Combat",
+      "Replay Value",
+      "Great Soundtrack",
+      "Military",
+      "Games Workshop"
+    ],
+    "appid": 489630
+  },
+  "Warhammer 40,000: Mechanicus": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Warhammer 40K",
+      "Strategy",
+      "Turn-Based Tactics",
+      "Games Workshop",
+      "Turn-Based Combat",
+      "Sci-fi",
+      "Great Soundtrack",
+      "Turn-Based",
+      "Atmospheric",
+      "Tactical",
+      "Singleplayer",
+      "Turn-Based Strategy",
+      "Robots",
+      "Indie",
+      "RPG",
+      "Dungeon Crawler",
+      "Character Customization",
+      "Difficult",
+      "Story Rich",
+      "Board Game"
+    ],
+    "appid": 673880
+  },
+  "Warhammer 40,000: Shootas, Blood & Teef": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "tags": [
+      "PvP",
+      "Adventure",
+      "Warhammer 40K",
+      "Side Scroller",
+      "2D Platformer",
+      "Shoot 'Em Up",
+      "Bullet Hell",
+      "Shooter",
+      "Twin Stick Shooter",
+      "Platformer",
+      "Beat 'em up",
+      "Arcade",
+      "2D",
+      "Action-Adventure",
+      "Funny",
+      "Co-op",
+      "Cartoony",
+      "Action",
+      "Hand-drawn",
+      "Local Co-Op"
+    ],
+    "appid": 1324530
+  },
+  "Warhammer 40,000: Space Marine - Anniversary Edition": {
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Warhammer 40K",
+      "Action",
+      "Third-Person Shooter",
+      "Sci-fi",
+      "Third Person",
+      "Multiplayer",
+      "Gore",
+      "Singleplayer",
+      "Shooter",
+      "Hack and Slash",
+      "Co-op",
+      "Games Workshop",
+      "Dystopian ",
+      "Atmospheric",
+      "Adventure",
+      "Futuristic",
+      "Story Rich",
+      "Online Co-Op",
+      "Controller",
+      "Violent"
+    ],
+    "appid": 55150
+  },
+  "Warhammer: Vermintide 2": {
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Co-op",
+      "Dark Fantasy",
+      "Games Workshop",
+      "Online Co-Op",
+      "Hack and Slash",
+      "Multiplayer",
+      "Dwarf",
+      "PvE",
+      "Gore",
+      "Fantasy",
+      "First-Person",
+      "RPG",
+      "Elf",
+      "Combat",
+      "Rogue-lite",
+      "Action RPG",
+      "Action",
+      "Atmospheric",
+      "FPS",
+      "Singleplayer"
+    ],
+    "appid": 552500
+  },
+  "Wartales": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "RPG",
+      "Open World",
+      "Turn-Based Strategy",
+      "Party-Based RPG",
+      "Medieval",
+      "Co-op",
+      "Adventure",
+      "Turn-Based Combat",
+      "Strategy",
+      "Multiplayer",
+      "Tactical RPG",
+      "Singleplayer",
+      "Sandbox",
+      "Exploration",
+      "Survival",
+      "Turn-Based",
+      "Online Co-Op",
+      "Story Rich",
+      "Violent",
+      "Indie"
+    ],
+    "appid": 1527950
+  },
+  "Wasteland 2": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "RPG",
+      "Post-apocalyptic",
+      "Turn-Based",
+      "Strategy",
+      "Tactical",
+      "Isometric",
+      "Adventure",
+      "CRPG",
+      "Singleplayer",
+      "Kickstarter",
+      "Open World",
+      "Indie",
+      "Turn-Based Strategy",
+      "Sci-fi",
+      "Survival",
+      "Crowdfunded",
+      "Atmospheric",
+      "Exploration",
+      "Old School",
+      "Action RPG"
+    ],
+    "appid": 240760
+  },
+  "Wasteland 2: Director's Cut": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "RPG",
+      "Post-apocalyptic",
+      "Turn-Based",
+      "Strategy",
+      "Tactical",
+      "Isometric",
+      "Adventure",
+      "CRPG",
+      "Singleplayer",
+      "Kickstarter",
+      "Open World",
+      "Indie",
+      "Turn-Based Strategy",
+      "Sci-fi",
+      "Survival",
+      "Crowdfunded",
+      "Atmospheric",
+      "Exploration",
+      "Old School",
+      "Action RPG"
+    ],
+    "appid": 240760
+  },
+  "Wildfrost": {
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "tags": [
+      "Card Battler",
+      "Difficult",
+      "Roguelike Deckbuilder",
+      "Card Game",
+      "Turn-Based Tactics",
+      "Rogue-lite",
+      "Deckbuilding",
+      "Rogue-like",
+      "Singleplayer",
+      "Turn-Based",
+      "Unforgiving",
+      "Perma Death",
+      "Turn-Based Strategy",
+      "Replay Value",
+      "Procedural Generation",
+      "Strategy",
+      "Colorful",
+      "Controller",
+      "Fantasy",
+      "Base-Building"
+    ],
+    "appid": 1811990
+  },
+  "WitchSpring R": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Cute",
+      "RPG",
+      "Funny",
+      "Female Protagonist",
+      "JRPG",
+      "Turn-Based Combat",
+      "Story Rich",
+      "Crafting",
+      "Exploration",
+      "Anime",
+      "Magic",
+      "Singleplayer",
+      "Choose Your Own Adventure",
+      "Turn-Based",
+      "3D",
+      "Fantasy",
+      "Indie",
+      "Character Customization",
+      "Turn-Based Strategy",
+      "Adventure"
+    ],
+    "appid": 1958220
+  },
+  "XCOM 2": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Isometric",
+      "Turn-Based Combat",
+      "Post-apocalyptic",
+      "Turn-Based Tactics",
+      "Military",
+      "PvE",
+      "Top-Down",
+      "Turn-Based",
+      "Sci-fi",
+      "Character Customization",
+      "Logic",
+      "War",
+      "Turn-Based Strategy",
+      "RPG",
+      "Grid-Based Movement",
+      "Alternate History",
+      "Tactical",
+      "Perma Death",
+      "Action",
+      "Singleplayer"
+    ],
+    "appid": 268500
+  },
+  "XCOM: Enemy Unknown": {
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Turn-Based Strategy",
+      "Tactical",
+      "Strategy",
+      "Sci-fi",
+      "Turn-Based",
+      "Aliens",
+      "Singleplayer",
+      "Base-Building",
+      "Turn-Based Tactics",
+      "Unforgiving",
+      "Replay Value",
+      "Addictive",
+      "Character Customization",
+      "Perma Death",
+      "Multiplayer",
+      "Difficult",
+      "RPG",
+      "Action",
+      "Atmospheric",
+      "Futuristic"
+    ],
+    "appid": 200510
+  },
+  "XSOverlay": {
+    "genres": [
+      "Utilities",
+      "Early Access"
+    ],
+    "tags": [
+      "Utilities",
+      "VR",
+      "Early Access",
+      "Software",
+      "Singleplayer",
+      "Casual"
+    ],
+    "appid": 1173510
+  },
+  "Xenonauts": {
+    "genres": [
+      "RPG",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "tags": [
+      "Strategy",
+      "Simulation",
+      "Turn-Based Strategy",
+      "Wargame",
+      "War",
+      "Turn-Based Tactics",
+      "Sci-fi",
+      "4X",
+      "Sandbox",
+      "Grand Strategy",
+      "Tactical",
+      "Military",
+      "Management",
+      "Singleplayer",
+      "Turn-Based",
+      "Turn-Based Combat",
+      "Moddable",
+      "RPG",
+      "Character Customization",
+      "Early Access"
+    ],
+    "appid": 538030
+  },
+  "Yakuza 0": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "tags": [
+      "Story Rich",
+      "Action",
+      "Beat 'em up",
+      "Great Soundtrack",
+      "Crime",
+      "Open World",
+      "Minigames",
+      "Funny",
+      "RPG",
+      "Singleplayer",
+      "Violent",
+      "Mature",
+      "Adventure",
+      "Comedy",
+      "Sexual Content",
+      "Third Person",
+      "Drama",
+      "Atmospheric",
+      "JRPG",
+      "Dating Sim"
+    ],
+    "appid": 638970
+  },
+  "ZEPHON": {
+    "genres": [
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Turn-Based",
+      "Tactical",
+      "4X",
+      "Multiplayer",
+      "Sandbox",
+      "Lovecraftian",
+      "Co-op",
+      "Procedural Generation",
+      "Sci-fi",
+      "RPG",
+      "Turn-Based Combat",
+      "Turn-Based Strategy",
+      "Turn-Based Tactics",
+      "Grand Strategy",
+      "Post-apocalyptic",
+      "Horror",
+      "Cyberpunk",
+      "Simulation",
+      "Base-Building"
+    ],
+    "appid": 1481170
+  },
+  "tModLoader": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free to Play",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [],
+    "appid": 1281930
+  },
+  "theHunter: Call of the Wild™": {
+    "genres": [],
+    "tags": []
+  },
+  "your wife": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "tags": [],
+    "appid": 3720340
+  }
+}
