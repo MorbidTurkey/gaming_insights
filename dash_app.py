@@ -35,7 +35,11 @@ app.layout = html.Div([
     ),
     dcc.Store(id="theme-store"),
     dcc.Store(id="selected-game-store", storage_type="session"),
-    dash.page_container
+    dbc.Container(
+        dash.page_container,
+        fluid=True,
+        style={"maxWidth": "1200px", "margin": "auto", "paddingBottom": "40px"}
+    )
 ])
 
 print("Registered callbacks:")
