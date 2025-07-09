@@ -9,15 +9,6 @@ __pycache__/
 .env
 *.env
 
-# Data folders (ignore all except sample files)
-game_data/*
-!game_data/Crusader_Kings_III_analysis.parquet
-!game_data/Crusader_Kings_III_analysis.xlsx
-
-game_data_cleaned/*
-!game_data_cleaned/Crusader_Kings_III_analysis.parquet
-
-
 # Allow all review parquet files to be committed
 reviews_data/*
 !reviews_data/*.parquet

@@ -1,0 +1,1001 @@
+steamid -> steamid
+Dota 2 -> Dota_2
+Counter-Strike 2 -> Counter_Strike_2
+Garry's Mod -> Garry_s_Mod
+Team Fortress 2 -> Team_Fortress_2
+War Thunder -> War_Thunder
+Grand Theft Auto V Legacy -> Grand_Theft_Auto_V_Legacy
+Rust -> Rust
+Warframe -> Warframe
+Terraria -> Terraria
+FINAL FANTASY XIV Online -> FINAL_FANTASY_XIV_Online
+Hearts of Iron IV -> Hearts_of_Iron_IV
+Dead by Daylight -> Dead_by_Daylight
+Fallout 4 -> Fallout_4
+PUBG: BATTLEGROUNDS -> PUBG_BATTLEGROUNDS
+Apex Legends -> Apex_Legends
+Frostpunk -> Frostpunk
+ELDEN RING -> ELDEN_RING
+RimWorld -> RimWorld
+Destiny 2 -> Destiny_2
+Sid Meier's Civilization VI -> Sid_Meier_s_Civilization_VI
+Source Filmmaker -> Source_Filmmaker
+ARK: Survival Evolved -> ARK_Survival_Evolved
+Tom Clancy's Rainbow Six® Siege X -> Tom_Clancy_s_Rainbow_Six_Siege_X
+The Witcher 3: Wild Hunt -> The_Witcher_3_Wild_Hunt
+VRChat -> VRChat
+Stellaris -> Stellaris
+The Elder Scrolls V: Skyrim Special Edition -> The_Elder_Scrolls_V_Skyrim_Special_Edition
+Baldur's Gate 3 -> Baldur_s_Gate_3
+PAYDAY 2 -> PAYDAY_2
+Wallpaper Engine -> Wallpaper_Engine
+ShareX -> ShareX
+Cyberpunk 2077 -> Cyberpunk_2077
+Red Dead Redemption 2 -> Red_Dead_Redemption_2
+Stardew Valley -> Stardew_Valley
+Monster Hunter: World -> Monster_Hunter_World
+Fallout: New Vegas -> Fallout_New_Vegas
+Project Zomboid -> Project_Zomboid
+Sid Meier's Civilization V -> Sid_Meier_s_Civilization_V
+EVGA Precision X1 -> EVGA_Precision_X1
+The Binding of Isaac: Rebirth -> The_Binding_of_Isaac_Rebirth
+Don't Starve Together -> Don_t_Starve_Together
+Left 4 Dead 2 -> Left_4_Dead_2
+Company of Heroes 2 -> Company_of_Heroes_2
+Rocket League -> Rocket_League
+Europa Universalis IV -> Europa_Universalis_IV
+DARK SOULS™ III -> DARK_SOULS_III
+DayZ -> DayZ
+Total War: WARHAMMER II -> Total_War_WARHAMMER_II
+HELLDIVERS™ 2 -> HELLDIVERS_2
+Blender -> Blender
+Arma 3 -> Arma_3
+Phasmophobia -> Phasmophobia
+Path of Exile -> Path_of_Exile
+Battlefield™ 1 -> Battlefield_1
+7 Days to Die -> _7_Days_to_Die
+Dying Light -> Dying_Light
+tModLoader -> tModLoader
+The Forest -> The_Forest
+Cities: Skylines -> Cities_Skylines
+Slay the Spire -> Slay_the_Spire
+Darkest Dungeon® -> Darkest_Dungeon
+War Selection -> War_Selection
+Satisfactory -> Satisfactory
+SMITE -> SMITE
+Hunt: Showdown 1896 -> Hunt_Showdown_1896
+Valheim -> Valheim
+Mount & Blade II: Bannerlord -> Mount_Blade_II_Bannerlord
+Tabletop Simulator -> Tabletop_Simulator
+Factorio -> Factorio
+The Elder Scrolls Online -> The_Elder_Scrolls_Online
+Divinity: Original Sin 2 -> Divinity_Original_Sin_2
+Warhammer 40,000: Darktide -> Warhammer_40_000_Darktide
+Hollow Knight -> Hollow_Knight
+The Elder Scrolls V: Skyrim -> The_Elder_Scrolls_V_Skyrim
+DC Universe Online -> DC_Universe_Online
+OVR Advanced Settings -> OVR_Advanced_Settings
+Hero's Land -> Hero_s_Land
+Deep Rock Galactic -> Deep_Rock_Galactic
+Black Desert -> Black_Desert
+Counter-Strike: Source -> Counter_Strike_Source
+NARUTO TO BORUTO: SHINOBI STRIKER -> NARUTO_TO_BORUTO_SHINOBI_STRIKER
+Euro Truck Simulator 2 -> Euro_Truck_Simulator_2
+SCP: Secret Laboratory -> SCP_Secret_Laboratory
+Unturned -> Unturned
+Kenshi -> Kenshi
+Kingdom Come: Deliverance -> Kingdom_Come_Deliverance
+Age of Empires IV: Anniversary Edition -> Age_of_Empires_IV_Anniversary_Edition
+OVR Toolkit -> OVR_Toolkit
+Aimlabs -> Aimlabs
+Total War: WARHAMMER III -> Total_War_WARHAMMER_III
+Call of Duty® -> Call_of_Duty
+Squad -> Squad
+Oxygen Not Included -> Oxygen_Not_Included
+Anno 1800 -> Anno_1800
+Sea of Thieves -> Sea_of_Thieves
+Mount & Blade: Warband -> Mount_Blade_Warband
+MONSTER HUNTER RISE -> MONSTER_HUNTER_RISE
+Battlefield™ 2042 -> Battlefield_2042
+Among Us -> Among_Us
+Crusader Kings II -> Crusader_Kings_II
+Palworld -> Palworld
+Lethal Company -> Lethal_Company
+Portal 2 -> Portal_2
+Borderlands 2 -> Borderlands_2
+The Lord of the Rings Online™ -> The_Lord_of_the_Rings_Online
+The Outlast Trials -> The_Outlast_Trials
+State of Decay 2 -> State_of_Decay_2
+NARAKA: BLADEPOINT -> NARAKA_BLADEPOINT
+Barotrauma -> Barotrauma
+Subnautica -> Subnautica
+Soundpad -> Soundpad
+No Man's Sky -> No_Man_s_Sky
+Sons Of The Forest -> Sons_Of_The_Forest
+Cookie Clicker -> Cookie_Clicker
+Far Cry 5 -> Far_Cry_5
+Risk of Rain 2 -> Risk_of_Rain_2
+Halo: The Master Chief Collection -> Halo_The_Master_Chief_Collection
+Total War: SHOGUN 2 -> Total_War_SHOGUN_2
+R.E.P.O. -> R_E_P_O
+World of Tanks Blitz -> World_of_Tanks_Blitz
+Hades -> Hades
+THE FINALS -> THE_FINALS
+Age of Empires® III (2007) -> Age_of_Empires_III_2007
+XCOM 2 -> XCOM_2
+DARK SOULS™: Prepare To Die Edition -> DARK_SOULS_Prepare_To_Die_Edition
+Battlefield™ V -> Battlefield_V
+Raft -> Raft
+Age of Empires II: Definitive Edition -> Age_of_Empires_II_Definitive_Edition
+Black Myth: Wukong -> Black_Myth_Wukong
+Goose Goose Duck -> Goose_Goose_Duck
+People Playground -> People_Playground
+Dying Light 2: Reloaded Edition -> Dying_Light_2_Reloaded_Edition
+Crusader Kings III -> Crusader_Kings_III
+New World: Aeternum -> New_World_Aeternum
+Total War: ROME II - Emperor Edition -> Total_War_ROME_II_Emperor_Edition
+Stream Avatars -> Stream_Avatars
+DARK SOULS™ II: Scholar of the First Sin -> DARK_SOULS_II_Scholar_of_the_First_Sin
+Company of Heroes  -> Company_of_Heroes
+The Sims™ 4 -> The_Sims_4
+Titanfall® 2 -> Titanfall_2
+Ready or Not -> Ready_or_Not
+Fallout 3 - Game of the Year Edition -> Fallout_3_Game_of_the_Year_Edition
+Sekiro™: Shadows Die Twice -> Sekiro_Shadows_Die_Twice
+Mashinky -> Mashinky
+Bloons TD 6 -> Bloons_TD_6
+Metro Exodus -> Metro_Exodus
+Marvel Rivals -> Marvel_Rivals
+Geometry Dash -> Geometry_Dash
+Assassin's Creed Odyssey -> Assassin_s_Creed_Odyssey
+Brawlhalla -> Brawlhalla
+DARK SOULS™ II -> DARK_SOULS_II
+ASTRONEER -> ASTRONEER
+METAL GEAR SOLID V: THE PHANTOM PAIN -> METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN
+For Honor -> For_Honor
+Disco Elysium -> Disco_Elysium
+Mordheim: City of the Damned -> Mordheim_City_of_the_Damned
+Grand Theft Auto IV: The Complete Edition -> Grand_Theft_Auto_IV_The_Complete_Edition
+The Long Dark -> The_Long_Dark
+Ring of Elysium -> Ring_of_Elysium
+Brotato -> Brotato
+Banana -> Banana
+Total War: ATTILA -> Total_War_ATTILA
+Persona 5 Royal -> Persona_5_Royal
+Total War: WARHAMMER -> Total_War_WARHAMMER
+Counter-Strike -> Counter_Strike
+Paladins -> Paladins
+Foxhole -> Foxhole
+Touhou Big Big Battle -> Touhou_Big_Big_Battle
+This War of Mine -> This_War_of_Mine
+Balatro -> Balatro
+Street Fighter™ 6 -> Street_Fighter_6
+The Sims™ 3 -> The_Sims_3
+Half-Life 2 -> Half_Life_2
+Elite Dangerous -> Elite_Dangerous
+TEKKEN 8 -> TEKKEN_8
+Assassin's Creed IV Black Flag -> Assassin_s_Creed_IV_Black_Flag
+Killing Floor 2 -> Killing_Floor_2
+Action! - Gameplay Recording and Streaming -> Action_Gameplay_Recording_and_Streaming
+Forza Horizon 4 -> Forza_Horizon_4
+The Witcher 2: Assassins of Kings Enhanced Edition -> The_Witcher_2_Assassins_of_Kings_Enhanced_Edition
+Cossacks 3 -> Cossacks_3
+Mass Effect™ Legendary Edition -> Mass_Effect_Legendary_Edition
+Path of Exile 2 -> Path_of_Exile_2
+Crosshair X -> Crosshair_X
+The Witcher: Enhanced Edition -> The_Witcher_Enhanced_Edition
+Warhammer: Vermintide 2 -> Warhammer_Vermintide_2
+Age of Empires II (2013) -> Age_of_Empires_II_2013
+Tomb Raider -> Tomb_Raider
+Kingdom Two Crowns -> Kingdom_Two_Crowns
+Life is Feudal: MMO -> Life_is_Feudal_MMO
+XCOM: Enemy Unknown -> XCOM_Enemy_Unknown
+Hogwarts Legacy -> Hogwarts_Legacy
+MechWarrior Online -> MechWarrior_Online
+Metro 2033 Redux -> Metro_2033_Redux
+Assassin's Creed Origins -> Assassin_s_Creed_Origins
+Middle-earth™: Shadow of Mordor™ -> Middle_earth_Shadow_of_Mordor
+Brick Rigs -> Brick_Rigs
+Plague Inc: Evolved -> Plague_Inc_Evolved
+Darkest Dungeon® II -> Darkest_Dungeon_II
+Timberborn -> Timberborn
+Lost Ark -> Lost_Ark
+Detroit: Become Human -> Detroit_Become_Human
+Soundpad Demo -> Soundpad_Demo
+ONE PIECE: PIRATE WARRIORS 4 -> ONE_PIECE_PIRATE_WARRIORS_4
+Far Cry® 3 -> Far_Cry_3
+Monster Hunter Wilds -> Monster_Hunter_Wilds
+The Elder Scrolls IV: Oblivion Game of the Year Edition (2009) -> The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_2009
+GUILTY GEAR -STRIVE- -> GUILTY_GEAR_STRIVE
+Kerbal Space Program -> Kerbal_Space_Program
+Temtem -> Temtem
+FTL: Faster Than Light -> FTL_Faster_Than_Light
+Devil May Cry 5 -> Devil_May_Cry_5
+Borderlands 3 -> Borderlands_3
+EVE Online -> EVE_Online
+Divinity: Original Sin Enhanced Edition -> Divinity_Original_Sin_Enhanced_Edition
+GTFO -> GTFO
+Vampire Survivors -> Vampire_Survivors
+MARVEL SNAP -> MARVEL_SNAP
+Melvor Idle -> Melvor_Idle
+Middle-earth™: Shadow of War™ -> Middle_earth_Shadow_of_War
+Dishonored 2 -> Dishonored_2
+Tropico 4 -> Tropico_4
+DAVE THE DIVER -> DAVE_THE_DIVER
+EA SPORTS™ FIFA 23 -> EA_SPORTS_FIFA_23
+DARK SOULS™: REMASTERED -> DARK_SOULS_REMASTERED
+Tom Clancy's Ghost Recon® Wildlands -> Tom_Clancy_s_Ghost_Recon_Wildlands
+Overwatch® 2 -> Overwatch_2
+SCUM -> SCUM
+Call of Duty: Black Ops III -> Call_of_Duty_Black_Ops_III
+V Rising -> V_Rising
+Fallout Shelter -> Fallout_Shelter
+BioShock Infinite -> BioShock_Infinite
+Medieval Dynasty -> Medieval_Dynasty
+Frostpunk 2 -> Frostpunk_2
+Black Mesa -> Black_Mesa
+DOOM -> DOOM
+Metro: Last Light Redux -> Metro_Last_Light_Redux
+Yu-Gi-Oh!  Master Duel -> Yu_Gi_Oh_Master_Duel
+SnowRunner -> SnowRunner
+Limbus Company -> Limbus_Company
+Human Fall Flat -> Human_Fall_Flat
+DEATH STRANDING -> DEATH_STRANDING
+Men of War: Assault Squad 2 -> Men_of_War_Assault_Squad_2
+Days Gone -> Days_Gone
+World of Warships -> World_of_Warships
+Victoria II -> Victoria_II
+House Flipper -> House_Flipper
+Starbound -> Starbound
+theHunter: Call of the Wild™ -> theHunter_Call_of_the_Wild
+Dragon Age: Origins - Ultimate Edition -> Dragon_Age_Origins_Ultimate_Edition
+Call of Duty: Modern Warfare 2 (2009) - Multiplayer -> Call_of_Duty_Modern_Warfare_2_2009_Multiplayer
+Fallout 76 -> Fallout_76
+Don't Starve -> Don_t_Starve
+Noita -> Noita
+Dead Cells -> Dead_Cells
+Resident Evil 4 -> Resident_Evil_4
+Watch_Dogs -> Watch_Dogs
+Far Cry 4 -> Far_Cry_4
+Deadlock -> Deadlock
+Motorsport Manager -> Motorsport_Manager
+My Time at Sandrock -> My_Time_at_Sandrock
+Tropico 5 -> Tropico_5
+Spore -> Spore
+They Are Billions -> They_Are_Billions
+Resident Evil 5 -> Resident_Evil_5
+Killing Floor -> Killing_Floor
+Inscryption -> Inscryption
+Undertale -> Undertale
+Batman™: Arkham Knight -> Batman_Arkham_Knight
+Tropico 6 -> Tropico_6
+Z1 Battle Royale -> Z1_Battle_Royale
+Assassin's Creed Unity -> Assassin_s_Creed_Unity
+Victoria 3 -> Victoria_3
+Rain World -> Rain_World
+Fall Guys -> Fall_Guys
+PAYDAY 3 -> PAYDAY_3
+Stronghold Crusader HD -> Stronghold_Crusader_HD
+Northgard -> Northgard
+Shadow Tactics: Blades of the Shogun -> Shadow_Tactics_Blades_of_the_Shogun
+Tom Clancy's The Division -> Tom_Clancy_s_The_Division
+Planet Zoo -> Planet_Zoo
+Friday the 13th: The Game -> Friday_the_13th_The_Game
+SpaceEngine -> SpaceEngine
+Pillars of Eternity -> Pillars_of_Eternity
+Mafia: Definitive Edition -> Mafia_Definitive_Edition
+Just Cause 3 -> Just_Cause_3
+Subnautica: Below Zero -> Subnautica_Below_Zero
+Mad Max -> Mad_Max
+Deadside -> Deadside
+Resident Evil 6 -> Resident_Evil_6
+Prison Architect -> Prison_Architect
+Slime Rancher -> Slime_Rancher
+Total War: EMPIRE - Definitive Edition -> Total_War_EMPIRE_Definitive_Edition
+Football Manager 2024 -> Football_Manager_2024
+Dishonored -> Dishonored
+Rising Storm/Red Orchestra 2 Multiplayer -> Rising_Storm_Red_Orchestra_2_Multiplayer
+Arma 2: Operation Arrowhead -> Arma_2_Operation_Arrowhead
+Conan Exiles -> Conan_Exiles
+Yakuza 0 -> Yakuza_0
+Assassin's Creed Syndicate -> Assassin_s_Creed_Syndicate
+No More Room in Hell -> No_More_Room_in_Hell
+DOOM Eternal -> DOOM_Eternal
+Anno 2070 -> Anno_2070
+Nioh 2 – The Complete Edition -> Nioh_2_The_Complete_Edition
+Thronebreaker: The Witcher Tales -> Thronebreaker_The_Witcher_Tales
+Half-Life -> Half_Life
+Risk of Rain (2013) -> Risk_of_Rain_2013
+Mortal Kombat 11 -> Mortal_Kombat_11
+Space Engineers -> Space_Engineers
+Jurassic World Evolution -> Jurassic_World_Evolution
+DEATH STRANDING DIRECTOR'S CUT -> DEATH_STRANDING_DIRECTOR_S_CUT
+Watch Dogs: Legion -> Watch_Dogs_Legion
+Robocraft -> Robocraft
+Scrap Mechanic -> Scrap_Mechanic
+Rise of the Tomb Raider -> Rise_of_the_Tomb_Raider
+Planet Coaster -> Planet_Coaster
+Surviving Mars -> Surviving_Mars
+Warhammer 40,000: Space Marine 2 -> Warhammer_40_000_Space_Marine_2
+Underrail -> Underrail
+Plants vs. Zombies: Game of the Year -> Plants_vs_Zombies_Game_of_the_Year
+FINAL FANTASY XV WINDOWS EDITION -> FINAL_FANTASY_XV_WINDOWS_EDITION
+Assassin's Creed II -> Assassin_s_Creed_II
+Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer -> Call_of_Duty_Modern_Warfare_3_2011_Multiplayer
+BioShock Remastered -> BioShock_Remastered
+Brave Nine -> Brave_Nine
+HITMAN™ 2 -> HITMAN_2
+Left 4 Dead -> Left_4_Dead
+Supreme Commander 2 -> Supreme_Commander_2
+Assassin's Creed® III -> Assassin_s_Creed_III
+Borderless Gaming -> Borderless_Gaming
+Batman: Arkham City GOTY -> Batman_Arkham_City_GOTY
+Just Cause 2 -> Just_Cause_2
+STALCRAFT: X -> STALCRAFT_X
+Starfield -> Starfield
+Battlefield 4™  -> Battlefield_4
+Sid Meier's Civilization: Beyond Earth -> Sid_Meier_s_Civilization_Beyond_Earth
+Enshrouded -> Enshrouded
+NieR:Automata™ -> NieR_Automata
+Kingdom Come: Deliverance II -> Kingdom_Come_Deliverance_II
+Metro Exodus Enhanced Edition -> Metro_Exodus_Enhanced_Edition
+Back 4 Blood -> Back_4_Blood
+Mirror -> Mirror
+Library Of Ruina -> Library_Of_Ruina
+Tom Clancy's The Division 2 -> Tom_Clancy_s_The_Division_2
+Assassin's Creed Brotherhood -> Assassin_s_Creed_Brotherhood
+The Elder Scrolls III: Morrowind -> The_Elder_Scrolls_III_Morrowind
+Graveyard Keeper -> Graveyard_Keeper
+MORDHAU -> MORDHAU
+ENDLESS™ Space 2 -> ENDLESS_Space_2
+Endzone - A World Apart -> Endzone_A_World_Apart
+The Planet Crafter -> The_Planet_Crafter
+Resident Evil 7 Biohazard -> Resident_Evil_7_Biohazard
+Cell to Singularity - Evolution Never Ends -> Cell_to_Singularity_Evolution_Never_Ends
+Rogue Company -> Rogue_Company
+Age of Empires III: Definitive Edition -> Age_of_Empires_III_Definitive_Edition
+LAST CLOUDIA -> LAST_CLOUDIA
+PC Building Simulator -> PC_Building_Simulator
+NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 -> NARUTO_SHIPPUDEN_Ultimate_Ninja_STORM_4
+The Binding of Isaac -> The_Binding_of_Isaac
+Hell Let Loose -> Hell_Let_Loose
+Fallout: New Vegas PCR -> Fallout_New_Vegas_PCR
+Torchlight II -> Torchlight_II
+NBA 2K20 -> NBA_2K20
+Cuphead -> Cuphead
+S.T.A.L.K.E.R.: Shadow of Chernobyl -> S_T_A_L_K_E_R_Shadow_of_Chernobyl
+Occupy Mars: The Game -> Occupy_Mars_The_Game
+Warhammer 40,000: Rogue Trader -> Warhammer_40_000_Rogue_Trader
+OMORI -> OMORI
+STAR WARS Jedi: Fallen Order™  -> STAR_WARS_Jedi_Fallen_Order
+Watch_Dogs 2 -> Watch_Dogs_2
+DSX -> DSX
+Celeste -> Celeste
+Jurassic World Evolution 2 -> Jurassic_World_Evolution_2
+Horizon Zero Dawn™ Complete Edition -> Horizon_Zero_Dawn_Complete_Edition
+Banished -> Banished
+Call of Duty: World at War -> Call_of_Duty_World_at_War
+Outlast -> Outlast
+Assassin's Creed III Remastered -> Assassin_s_Creed_III_Remastered
+Clicker Heroes -> Clicker_Heroes
+ACE COMBAT™7: SKIES UNKNOWN -> ACE_COMBAT_7_SKIES_UNKNOWN
+Command & Conquer™ Red Alert™ 3 -> Command_Conquer_Red_Alert_3
+Resident Evil 2 -> Resident_Evil_2
+Two Point Hospital -> Two_Point_Hospital
+HITMAN World of Assassination -> HITMAN_World_of_Assassination
+Halo Infinite -> Halo_Infinite
+God of War -> God_of_War
+State of Decay: Year-One -> State_of_Decay_Year_One
+Saints Row: The Third -> Saints_Row_The_Third
+ELDEN RING NIGHTREIGN -> ELDEN_RING_NIGHTREIGN
+Hotline Miami 2: Wrong Number -> Hotline_Miami_2_Wrong_Number
+Hades II -> Hades_II
+Assetto Corsa -> Assetto_Corsa
+Remnant: From the Ashes -> Remnant_From_the_Ashes
+Life is Feudal: Your Own -> Life_is_Feudal_Your_Own
+Blitzkrieg Anthology -> Blitzkrieg_Anthology
+Dota Underlords -> Dota_Underlords
+Castle Crashers -> Castle_Crashers
+Battlefield 3™  -> Battlefield_3
+Dragon's Dogma: Dark Arisen -> Dragon_s_Dogma_Dark_Arisen
+Borderlands: The Pre-Sequel -> Borderlands_The_Pre_Sequel
+Reverse: 1999 -> Reverse_1999
+Lobotomy Corporation -> Lobotomy_Corporation
+Anno 2205 -> Anno_2205
+Assassin's Creed Valhalla -> Assassin_s_Creed_Valhalla
+Sniper Elite 4 -> Sniper_Elite_4
+Spiritfarer®: Farewell Edition -> Spiritfarer_Farewell_Edition
+Call of Duty®: Black Ops Cold War -> Call_of_Duty_Black_Ops_Cold_War
+Sleeping Dogs: Definitive Edition -> Sleeping_Dogs_Definitive_Edition
+Manor Lords -> Manor_Lords
+Ori and the Will of the Wisps -> Ori_and_the_Will_of_the_Wisps
+Company of Heroes 3 -> Company_of_Heroes_3
+Content Warning -> Content_Warning
+Dragon Age™ Inquisition -> Dragon_Age_Inquisition
+The Walking Dead: The Telltale Definitive Series -> The_Walking_Dead_The_Telltale_Definitive_Series
+Papers, Please -> Papers_Please
+Age of Mythology: Extended Edition -> Age_of_Mythology_Extended_Edition
+Cats -> Cats
+BioShock 2 Remastered -> BioShock_2_Remastered
+Potion Craft: Alchemist Simulator -> Potion_Craft_Alchemist_Simulator
+Grand Theft Auto V Enhanced -> Grand_Theft_Auto_V_Enhanced
+Car Mechanic Simulator 2018 -> Car_Mechanic_Simulator_2018
+Green Hell -> Green_Hell
+Squad 44 -> Squad_44
+Albion Online -> Albion_Online
+BeamNG.drive -> BeamNG_drive
+Cult of the Lamb -> Cult_of_the_Lamb
+Stronghold 2 -> Stronghold_2
+Icarus -> Icarus
+Going Medieval -> Going_Medieval
+Schedule I -> Schedule_I
+Pillars of Eternity II: Deadfire -> Pillars_of_Eternity_II_Deadfire
+It Takes Two -> It_Takes_Two
+Portal -> Portal
+Prey -> Prey
+Ori and the Blind Forest: Definitive Edition -> Ori_and_the_Blind_Forest_Definitive_Edition
+Persona 4 Golden -> Persona_4_Golden
+Borderlands 2 RU -> Borderlands_2_RU
+Minion Masters -> Minion_Masters
+Hitman: Absolution -> Hitman_Absolution
+HITMAN™ -> HITMAN
+Craft The World -> Craft_The_World
+Assassin's Creed Rogue -> Assassin_s_Creed_Rogue
+Warhammer 40,000: Dawn of War II - Anniversary Edition -> Warhammer_40_000_Dawn_of_War_II_Anniversary_Edition
+Remnant II -> Remnant_II
+Chivalry: Medieval Warfare -> Chivalry_Medieval_Warfare
+Far Cry Primal -> Far_Cry_Primal
+MechWarrior 5: Mercenaries -> MechWarrior_5_Mercenaries
+BURIED STARS -> BURIED_STARS
+Need for Speed™ Heat  -> Need_for_Speed_Heat
+Assassin's Creed Revelations -> Assassin_s_Creed_Revelations
+Baldur's Gate: Enhanced Edition -> Baldur_s_Gate_Enhanced_Edition
+AdVenture Capitalist -> AdVenture_Capitalist
+Abiotic Factor -> Abiotic_Factor
+Star Wars: Battlefront 2 (Classic, 2005) -> Star_Wars_Battlefront_2_Classic_2005
+State of Decay -> State_of_Decay
+Escape the Backrooms -> Escape_the_Backrooms
+Borderlands GOTY Enhanced -> Borderlands_GOTY_Enhanced
+雀魂麻将(MahjongSoul) -> MahjongSoul
+Total War: NAPOLEON - Definitive Edition -> Total_War_NAPOLEON_Definitive_Edition
+Mr. Prepper -> Mr_Prepper
+Sniper Elite 3 -> Sniper_Elite_3
+CODE VEIN -> CODE_VEIN
+The Isle -> The_Isle
+Buckshot Roulette -> Buckshot_Roulette
+HUMANKIND™ -> HUMANKIND
+Metro: Last Light Complete Edition -> Metro_Last_Light_Complete_Edition
+Beholder -> Beholder
+Blade & Sorcery -> Blade_Sorcery
+Worms Armageddon -> Worms_Armageddon
+Battlefleet Gothic: Armada 2 -> Battlefleet_Gothic_Armada_2
+Resident Evil Village -> Resident_Evil_Village
+Darkwood -> Darkwood
+Bomber Crew -> Bomber_Crew
+Forza Horizon 5 -> Forza_Horizon_5
+Dragon Cliff 龙崖 -> Dragon_Cliff
+Insurgency -> Insurgency
+Mass Effect (2007) -> Mass_Effect_2007
+Grounded -> Grounded
+POSTAL 2 -> POSTAL_2
+ROMANCE OF THE THREE KINGDOMS XIV -> ROMANCE_OF_THE_THREE_KINGDOMS_XIV
+Romance of the Three Kingdoms XIII -> Romance_of_the_Three_Kingdoms_XIII
+Some Some Convenience Store -> Some_Some_Convenience_Store
+Everlasting Summer -> Everlasting_Summer
+Borderlands GOTY -> Borderlands_GOTY
+Once Human -> Once_Human
+Miracle Snack Shop -> Miracle_Snack_Shop
+South Park™: The Stick of Truth™ -> South_Park_The_Stick_of_Truth
+Mafia III: Definitive Edition -> Mafia_III_Definitive_Edition
+Love n War: Warlord by Chance -> Love_n_War_Warlord_by_Chance
+Against the Storm -> Against_the_Storm
+Wargame: European Escalation -> Wargame_European_Escalation
+Atomicrops -> Atomicrops
+Teardown -> Teardown
+Delta Force -> Delta_Force
+Totally Accurate Battle Simulator -> Totally_Accurate_Battle_Simulator
+Dwarf Fortress -> Dwarf_Fortress
+Far Cry New Dawn -> Far_Cry_New_Dawn
+Deus Ex: Human Revolution - Director's Cut -> Deus_Ex_Human_Revolution_Director_s_Cut
+Total War: THREE KINGDOMS -> Total_War_THREE_KINGDOMS
+Shop Titans -> Shop_Titans
+STAR WARS™ Knights of the Old Republic™ -> STAR_WARS_Knights_of_the_Old_Republic
+Dishonored RHCP -> Dishonored_RHCP
+American Truck Simulator -> American_Truck_Simulator
+Batman: Arkham Asylum GOTY Edition -> Batman_Arkham_Asylum_GOTY_Edition
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition -> Plants_vs_Zombies_Garden_Warfare_2_Deluxe_Edition
+Deceit -> Deceit
+Life is Strange™ -> Life_is_Strange
+Fallout -> Fallout
+Call to Arms - Gates of Hell: Ostfront -> Call_to_Arms_Gates_of_Hell_Ostfront
+Trove -> Trove
+Summoners War -> Summoners_War
+S.T.A.L.K.E.R.: Call of Pripyat -> S_T_A_L_K_E_R_Call_of_Pripyat
+Anno 1404 - History Edition -> Anno_1404_History_Edition
+Wolfenstein: The New Order -> Wolfenstein_The_New_Order
+Core Keeper -> Core_Keeper
+Generation Zero® -> Generation_Zero
+Control Ultimate Edition -> Control_Ultimate_Edition
+Game Dev Tycoon -> Game_Dev_Tycoon
+Awesomenauts -> Awesomenauts
+Alan Wake -> Alan_Wake
+Stonehearth -> Stonehearth
+S.T.A.L.K.E.R. 2: Heart of Chornobyl -> S_T_A_L_K_E_R_2_Heart_of_Chornobyl
+Saints Row IV -> Saints_Row_IV
+Dead Rising 3 -> Dead_Rising_3
+Pathfinder: Wrath of the Righteous - Enhanced Edition -> Pathfinder_Wrath_of_the_Righteous_Enhanced_Edition
+Assassin's Creed -> Assassin_s_Creed
+Mass Effect™: Andromeda Deluxe Edition -> Mass_Effect_Andromeda_Deluxe_Edition
+Crossout -> Crossout
+Baldur's Gate II: Enhanced Edition -> Baldur_s_Gate_II_Enhanced_Edition
+The Walking Dead -> The_Walking_Dead
+Hotline Miami -> Hotline_Miami
+Titan Quest Anniversary Edition -> Titan_Quest_Anniversary_Edition
+Mortal Kombat 1 -> Mortal_Kombat_1
+Thief Simulator -> Thief_Simulator
+ARMORED CORE™ VI FIRES OF RUBICON™ -> ARMORED_CORE_VI_FIRES_OF_RUBICON
+Day of Defeat: Source -> Day_of_Defeat_Source
+Mindustry -> Mindustry
+Wallpaper Alive -> Wallpaper_Alive
+Stronghold Crusader 2 -> Stronghold_Crusader_2
+Shadow of the Tomb Raider -> Shadow_of_the_Tomb_Raider
+Outlast 2 -> Outlast_2
+Sniper Elite V2 -> Sniper_Elite_V2
+Rise of Nations: Extended Edition -> Rise_of_Nations_Extended_Edition
+Grim Dawn -> Grim_Dawn
+Surviving the Aftermath -> Surviving_the_Aftermath
+Stumble Guys -> Stumble_Guys
+STAR WARS™ Empire at War: Gold Pack -> STAR_WARS_Empire_at_War_Gold_Pack
+Transformice -> Transformice
+Enter the Gungeon -> Enter_the_Gungeon
+RIFT -> RIFT
+Total War: MEDIEVAL II - Definitive Edition -> Total_War_MEDIEVAL_II_Definitive_Edition
+Nioh: Complete Edition -> Nioh_Complete_Edition
+Wuthering Waves -> Wuthering_Waves
+Call of Duty: Modern Warfare 2 (2009) -> Call_of_Duty_Modern_Warfare_2_2009
+Fishing Planet -> Fishing_Planet
+Dyson Sphere Program -> Dyson_Sphere_Program
+Magic: The Gathering Arena -> Magic_The_Gathering_Arena
+S.T.A.L.K.E.R.: Clear Sky -> S_T_A_L_K_E_R_Clear_Sky
+Dirty Bomb -> Dirty_Bomb
+The Elder Scrolls IV: Oblivion Remastered -> The_Elder_Scrolls_IV_Oblivion_Remastered
+SCARLET NEXUS -> SCARLET_NEXUS
+SpellForce: Platinum Edition -> SpellForce_Platinum_Edition
+Street Fighter V -> Street_Fighter_V
+Ghost of Tsushima DIRECTOR'S CUT -> Ghost_of_Tsushima_DIRECTOR_S_CUT
+Skul: The Hero Slayer -> Skul_The_Hero_Slayer
+Metro 2033 -> Metro_2033
+BattleBlock Theater -> BattleBlock_Theater
+UNO -> UNO
+ENDLESS™ Legend -> ENDLESS_Legend
+ONE PIECE PIRATE WARRIORS 3 -> ONE_PIECE_PIRATE_WARRIORS_3
+The Hundred Line -Last Defense Academy- -> The_Hundred_Line_Last_Defense_Academy
+This Is the Police -> This_Is_the_Police
+NBA 2K23 -> NBA_2K23
+Overcooked! 2 -> Overcooked_2
+Allods Online RU -> Allods_Online_RU
+Little Nightmares -> Little_Nightmares
+Inside the Backrooms -> Inside_the_Backrooms
+Viscera Cleanup Detail -> Viscera_Cleanup_Detail
+Ultra Street Fighter IV -> Ultra_Street_Fighter_IV
+Mass Effect 2 (2010) -> Mass_Effect_2_2010
+Clair Obscur: Expedition 33 -> Clair_Obscur_Expedition_33
+LEGO® Star Wars™: The Skywalker Saga -> LEGO_Star_Wars_The_Skywalker_Saga
+Mafia II: Definitive Edition -> Mafia_II_Definitive_Edition
+Wasteland 2: Director's Cut -> Wasteland_2_Director_s_Cut
+Desktop Mate -> Desktop_Mate
+NEBULOUS: Fleet Command -> NEBULOUS_Fleet_Command
+L.A. Noire -> L_A_Noire
+Mad Games Tycoon 2 -> Mad_Games_Tycoon_2
+Warhammer 40,000: Space Marine - Anniversary Edition -> Warhammer_40_000_Space_Marine_Anniversary_Edition
+Aliens: Dark Descent -> Aliens_Dark_Descent
+Divinity: Original Sin (Classic) -> Divinity_Original_Sin_Classic
+ShellShock Live -> ShellShock_Live
+Fallout 2 -> Fallout_2
+Lords of the Fallen -> Lords_of_the_Fallen
+Into the Breach -> Into_the_Breach
+Tyranny -> Tyranny
+Loop Hero -> Loop_Hero
+Ticket to Ride -> Ticket_to_Ride
+ZM Desktop Elf -> ZM_Desktop_Elf
+Tom Clancy’s Rainbow Six Extraction -> Tom_Clancy_s_Rainbow_Six_Extraction
+For The King -> For_The_King
+Heroes & Generals -> Heroes_Generals
+Planet Nomads -> Planet_Nomads
+Defiance -> Defiance
+HELLDIVERS™ -> HELLDIVERS
+Cities: Skylines II -> Cities_Skylines_II
+Digimon Story Cyber Sleuth: Complete Edition -> Digimon_Story_Cyber_Sleuth_Complete_Edition
+Call of Duty: Black Ops II -> Call_of_Duty_Black_Ops_II
+Osiris: New Dawn -> Osiris_New_Dawn
+Resident Evil 3 -> Resident_Evil_3
+Stronghold Legends -> Stronghold_Legends
+Strinova -> Strinova
+Stray -> Stray
+Beholder 2 -> Beholder_2
+Imperator: Rome -> Imperator_Rome
+Fish Idle 2: Underwater Mystery -> Fish_Idle_2_Underwater_Mystery
+FragPunk -> FragPunk
+Age of History II -> Age_of_History_II
+Aground -> Aground
+Mafia II (Classic) -> Mafia_II_Classic
+Phoenix Wright: Ace Attorney Trilogy -> Phoenix_Wright_Ace_Attorney_Trilogy
+Cry of Fear -> Cry_of_Fear
+Call of Duty: Black Ops II - Zombies -> Call_of_Duty_Black_Ops_II_Zombies
+Necromunda: Underhive Wars -> Necromunda_Underhive_Wars
+PlateUp! -> PlateUp
+FINAL FANTASY VII REMAKE INTERGRADE -> FINAL_FANTASY_VII_REMAKE_INTERGRADE
+The Evil Within -> The_Evil_Within
+Danganronpa 2: Goodbye Despair -> Danganronpa_2_Goodbye_Despair
+Blasphemous -> Blasphemous
+Contraband Police -> Contraband_Police
+Batman™: Arkham Origins -> Batman_Arkham_Origins
+Golf With Your Friends -> Golf_With_Your_Friends
+STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™ -> STAR_WARS_Knights_of_the_Old_Republic_II_The_Sith_Lords
+ARK: Survival Ascended -> ARK_Survival_Ascended
+Ghost Recon Breakpoint -> Ghost_Recon_Breakpoint
+Project Winter -> Project_Winter
+Mortal Kombat X -> Mortal_Kombat_X
+Forts -> Forts
+Eternal Return -> Eternal_Return
+Warhammer 40,000: Chaos Gate - Daemonhunters -> Warhammer_40_000_Chaos_Gate_Daemonhunters
+Dragon Age II: Ultimate Edition -> Dragon_Age_II_Ultimate_Edition
+Muse Dash -> Muse_Dash
+Dread Hunger -> Dread_Hunger
+STAR WARS™ Battlefront™ II -> STAR_WARS_Battlefront_II
+NBA 2K25 -> NBA_2K25
+Deus Ex: Mankind Divided™ -> Deus_Ex_Mankind_Divided
+Ultimate Admiral: Dreadnoughts -> Ultimate_Admiral_Dreadnoughts
+ULTRAKILL -> ULTRAKILL
+Digimon Survive -> Digimon_Survive
+Battlefield: Bad Company™ 2 -> Battlefield_Bad_Company_2
+Cultist Simulator -> Cultist_Simulator
+sheepChat -> sheepChat
+FIFA 22 -> FIFA_22
+Alien: Isolation -> Alien_Isolation
+GRID -> GRID
+Last Epoch -> Last_Epoch
+Space Rangers HD: A War Apart -> Space_Rangers_HD_A_War_Apart
+Marvel’s Spider-Man Remastered -> Marvel_s_Spider_Man_Remastered
+Anno 1404: Venice -> Anno_1404_Venice
+F1 2021 -> F1_2021
+Touhou Mystia's Izakaya -> Touhou_Mystia_s_Izakaya
+BATTLETECH -> BATTLETECH
+Neon Abyss -> Neon_Abyss
+PlanetSide 2 -> PlanetSide_2
+Life is Strange 2 -> Life_is_Strange_2
+Company of Heroes: Blitzkrieg Mod -> Company_of_Heroes_Blitzkrieg_Mod
+Call of Duty 4: Modern Warfare (2007) -> Call_of_Duty_4_Modern_Warfare_2007
+RPG Maker MV -> RPG_Maker_MV
+The Bureau: XCOM Declassified -> The_Bureau_XCOM_Declassified
+Pathfinder: Kingmaker -> Pathfinder_Kingmaker
+GoreBox -> GoreBox
+Dead Island Definitive Edition -> Dead_Island_Definitive_Edition
+The Escapists -> The_Escapists
+Warhammer 40,000: Dawn of War II - Retribution -> Warhammer_40_000_Dawn_of_War_II_Retribution
+The Crew 2 -> The_Crew_2
+Hot Dogs, Horseshoes & Hand Grenades -> Hot_Dogs_Horseshoes_Hand_Grenades
+Tiny Tina's Wonderlands -> Tiny_Tina_s_Wonderlands
+Wolfenstein II: The New Colossus -> Wolfenstein_II_The_New_Colossus
+Command & Conquer™ Remastered Collection -> Command_Conquer_Remastered_Collection
+Sven Co-op -> Sven_Co_op
+Serious Sam 3: BFE -> Serious_Sam_3_BFE
+Half-Life: Alyx -> Half_Life_Alyx
+Stranded: Alien Dawn -> Stranded_Alien_Dawn
+Space Haven -> Space_Haven
+Entropy : Zero 2 -> Entropy_Zero_2
+GUNS UP! -> GUNS_UP
+The Mighty Quest For Epic Loot -> The_Mighty_Quest_For_Epic_Loot
+ASKA -> ASKA
+Call of Duty®: Modern Warfare® 3 (2011) -> Call_of_Duty_Modern_Warfare_3_2011
+Nexomon: Extinction -> Nexomon_Extinction
+Avorion -> Avorion
+Danganronpa: Trigger Happy Havoc -> Danganronpa_Trigger_Happy_Havoc
+RISK: Global Domination -> RISK_Global_Domination
+PowerWash Simulator -> PowerWash_Simulator
+My Time at Portia -> My_Time_at_Portia
+Heroes of Might & Magic III - HD Edition -> Heroes_of_Might_Magic_III_HD_Edition
+Blue Prince -> Blue_Prince
+Call of Duty: WWII -> Call_of_Duty_WWII
+Enlisted -> Enlisted
+Yakuza Kiwami -> Yakuza_Kiwami
+Farlight 84 -> Farlight_84
+Aliens: Fireteam Elite -> Aliens_Fireteam_Elite
+Marvel's Midnight Suns -> Marvel_s_Midnight_Suns
+Dead Island -> Dead_Island
+Liar's Bar -> Liar_s_Bar
+Outer Wilds -> Outer_Wilds
+Sleeping Dogs™ -> Sleeping_Dogs
+Pummel Party -> Pummel_Party
+Rising Storm 2: Vietnam -> Rising_Storm_2_Vietnam
+Deep Rock Galactic: Survivor -> Deep_Rock_Galactic_Survivor
+Super Auto Pets -> Super_Auto_Pets
+SYNTHETIK -> SYNTHETIK
+Darksiders II Deathinitive Edition -> Darksiders_II_Deathinitive_Edition
+NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS -> NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS
+Darksiders Warmastered Edition -> Darksiders_Warmastered_Edition
+Draw & Guess -> Draw_Guess
+Call of Duty: Black Ops II - Multiplayer -> Call_of_Duty_Black_Ops_II_Multiplayer
+WWE 2K16 -> WWE_2K16
+Chillquarium -> Chillquarium
+Ropuka's Idle Island -> Ropuka_s_Idle_Island
+Beyond: Two Souls -> Beyond_Two_Souls
+Resident Evil 4 (2005) -> Resident_Evil_4_2005
+Max Payne 3 -> Max_Payne_3
+Warface: Clutch -> Warface_Clutch
+Party Animals -> Party_Animals
+Nine Sols -> Nine_Sols
+Palia -> Palia
+PAYDAY: The Heist -> PAYDAY_The_Heist
+Ori and the Blind Forest -> Ori_and_the_Blind_Forest
+Spec Ops: The Line -> Spec_Ops_The_Line
+Granblue Fantasy: Relink -> Granblue_Fantasy_Relink
+Wreckfest -> Wreckfest
+Dead Space (2008) -> Dead_Space_2008
+Root -> Root
+DRAGON BALL XENOVERSE 2 -> DRAGON_BALL_XENOVERSE_2
+CLANNAD -> CLANNAD
+Gold Mining Simulator -> Gold_Mining_Simulator
+Simply Chess -> Simply_Chess
+Company of Heroes: Opposing Fronts -> Company_of_Heroes_Opposing_Fronts
+A Way Out -> A_Way_Out
+Virtual Cottage -> Virtual_Cottage
+Besiege -> Besiege
+Diablo® IV -> Diablo_IV
+Call of Duty: Black Ops -> Call_of_Duty_Black_Ops
+Split Fiction -> Split_Fiction
+Empyrion - Galactic Survival -> Empyrion_Galactic_Survival
+GRID 2 -> GRID_2
+Stick Fight: The Game -> Stick_Fight_The_Game
+DRAGON BALL: Sparking! ZERO -> DRAGON_BALL_Sparking_ZERO
+TEKKEN 7 -> TEKKEN_7
+BLOCKPOST LEGACY -> BLOCKPOST_LEGACY
+Stardeus -> Stardeus
+You Need A Budget 4 (YNAB) -> You_Need_A_Budget_4_YNAB
+Risk of Rain Returns -> Risk_of_Rain_Returns
+The Elder Scrolls V: Skyrim VR -> The_Elder_Scrolls_V_Skyrim_VR
+Serious Sam 2 -> Serious_Sam_2
+OCTOPATH TRAVELER II -> OCTOPATH_TRAVELER_II
+Outward -> Outward
+FlatOut 2 -> FlatOut_2
+Griftlands -> Griftlands
+Just Cause 4 -> Just_Cause_4
+Democracy 4 -> Democracy_4
+Mansions of Madness -> Mansions_of_Madness
+Insurgency: Sandstorm -> Insurgency_Sandstorm
+Getting Over It with Bennett Foddy -> Getting_Over_It_with_Bennett_Foddy
+Worms W.M.D -> Worms_W_M_D
+MudRunner -> MudRunner
+The Wolf Among Us -> The_Wolf_Among_Us
+Starship Troopers: Terran Command -> Starship_Troopers_Terran_Command
+Talisman: Digital Classic Edition -> Talisman_Digital_Classic_Edition
+Vampire: The Masquerade - Bloodlines -> Vampire_The_Masquerade_Bloodlines
+PROTOTYPE 2 -> PROTOTYPE_2
+Zombie Panic! Source -> Zombie_Panic_Source
+Mount & Blade: With Fire and Sword -> Mount_Blade_With_Fire_and_Sword
+Dishonored®: Death of the Outsider™  -> Dishonored_Death_of_the_Outsider
+TheoTown -> TheoTown
+My Summer Car -> My_Summer_Car
+Snacko -> Snacko
+A Plague Tale: Innocence -> A_Plague_Tale_Innocence
+Soulstone Survivors -> Soulstone_Survivors
+Neverwinter -> Neverwinter
+Luma Island -> Luma_Island
+Forspoken -> Forspoken
+EARTH DEFENSE FORCE 5 -> EARTH_DEFENSE_FORCE_5
+Stacklands -> Stacklands
+Risen -> Risen
+DRAGON BALL XENOVERSE -> DRAGON_BALL_XENOVERSE
+No More Room in Hell 2 -> No_More_Room_in_Hell_2
+Kingdom: New Lands -> Kingdom_New_Lands
+Road 96 -> Road_96
+Realm Royale Reforged -> Realm_Royale_Reforged
+Neverwinter Nights: Enhanced Edition -> Neverwinter_Nights_Enhanced_Edition
+SpeedRunners -> SpeedRunners
+Dead Space 2 -> Dead_Space_2
+Steep -> Steep
+Quantum Break -> Quantum_Break
+Life is Strange: Before the Storm -> Life_is_Strange_Before_the_Storm
+WRC 7 -> WRC_7
+INSIDE -> INSIDE
+60 Seconds! Reatomized -> _60_Seconds_Reatomized
+STAR WARS™ Battlefront™ -> STAR_WARS_Battlefront
+Dome Keeper -> Dome_Keeper
+Tribes: Ascend -> Tribes_Ascend
+The Long Drive -> The_Long_Drive
+Magicka -> Magicka
+Thrive -> Thrive
+Business Tour - Online Multiplayer Board Game -> Business_Tour_Online_Multiplayer_Board_Game
+Psychonauts -> Psychonauts
+Mini Metro -> Mini_Metro
+Lies of P -> Lies_of_P
+Kingdoms and Castles -> Kingdoms_and_Castles
+Red Dead Online -> Red_Dead_Online
+112 Operator -> _112_Operator
+GreedFall -> GreedFall
+The Walking Dead: Season Two -> The_Walking_Dead_Season_Two
+暖雪 Warm Snow -> Warm_Snow
+Wartales -> Wartales
+Red Faction Guerrilla Re-Mars-tered -> Red_Faction_Guerrilla_Re_Mars_tered
+Warhammer 40,000: Gladius - Relics of War -> Warhammer_40_000_Gladius_Relics_of_War
+BattleBit Remastered -> BattleBit_Remastered
+Halo Wars: Definitive Edition -> Halo_Wars_Definitive_Edition
+World War Z -> World_War_Z
+Shadow Warrior 2 -> Shadow_Warrior_2
+WorldBox - God Simulator -> WorldBox_God_Simulator
+GameMaker: Studio -> GameMaker_Studio
+Offworld Trading Company -> Offworld_Trading_Company
+Company of Heroes - Legacy Edition -> Company_of_Heroes_Legacy_Edition
+DREDGE -> DREDGE
+Wasteland 3 -> Wasteland_3
+Super Robot Wars 30 -> Super_Robot_Wars_30
+World of Tanks -> World_of_Tanks
+RollerCoaster Tycoon Classic -> RollerCoaster_Tycoon_Classic
+Signal Simulator -> Signal_Simulator
+DiRT Rally -> DiRT_Rally
+STAR WARS™ Jedi Knight: Jedi Academy™ -> STAR_WARS_Jedi_Knight_Jedi_Academy
+Marvel's Avengers - The Definitive Edition -> Marvel_s_Avengers_The_Definitive_Edition
+Surviving the Abyss -> Surviving_the_Abyss
+Command: Modern Air / Naval Operations WOTY -> Command_Modern_Air_Naval_Operations_WOTY
+VA-11 Hall-A: Cyberpunk Bartender Action -> VA_11_Hall_A_Cyberpunk_Bartender_Action
+The Elder Scrolls: Legends -> The_Elder_Scrolls_Legends
+Stoneshard -> Stoneshard
+Firewatch -> Firewatch
+ATLAS -> ATLAS
+Resident Evil Revelations 2 -> Resident_Evil_Revelations_2
+ASTLIBRA ～生きた証～ Revision -> ASTLIBRA_Revision
+Pacific Drive -> Pacific_Drive
+Aseprite -> Aseprite
+It Takes Two Friend's Pass -> It_Takes_Two_Friend_s_Pass
+Mini Motorways -> Mini_Motorways
+Lords Of The Fallen -> Lords_Of_The_Fallen
+Fistful of Frags -> Fistful_of_Frags
+Project Wingman -> Project_Wingman
+Chained Together -> Chained_Together
+Ultimate Chicken Horse -> Ultimate_Chicken_Horse
+Stronghold: Definitive Edition -> Stronghold_Definitive_Edition
+Project Highrise -> Project_Highrise
+LEGO® Harry Potter: Years 1-4 -> LEGO_Harry_Potter_Years_1_4
+Super Animal Royale -> Super_Animal_Royale
+The Dark Pictures Anthology: Man of Medan -> The_Dark_Pictures_Anthology_Man_of_Medan
+STAR WARS™ Republic Commando -> STAR_WARS_Republic_Commando
+Infection Free Zone -> Infection_Free_Zone
+Obenseuer -> Obenseuer
+ENDLESS™ Space - Definitive Edition -> ENDLESS_Space_Definitive_Edition
+ROUNDS -> ROUNDS
+DRAGON BALL FighterZ -> DRAGON_BALL_FighterZ
+Warhammer: End Times - Vermintide -> Warhammer_End_Times_Vermintide
+To the Moon -> To_the_Moon
+Ballads of Hongye: REBORN -> Ballads_of_Hongye_REBORN
+Gotham Knights -> Gotham_Knights
+Tom Clancy's Splinter Cell Blacklist -> Tom_Clancy_s_Splinter_Cell_Blacklist
+Magicraft -> Magicraft
+Sid Meier's Civilization VII -> Sid_Meier_s_Civilization_VII
+Caves of Qud -> Caves_of_Qud
+LEGO® The Lord of the Rings™ -> LEGO_The_Lord_of_the_Rings
+Sunkenland -> Sunkenland
+MiSide -> MiSide
+Supermarket Simulator -> Supermarket_Simulator
+Sacred Gold -> Sacred_Gold
+Cities in Motion -> Cities_in_Motion
+Revolution Idle -> Revolution_Idle
+Quake Champions -> Quake_Champions
+Yakuza 5 Remastered -> Yakuza_5_Remastered
+WWE 2K17 -> WWE_2K17
+This Is the Police 2 -> This_Is_the_Police_2
+Vampire: The Masquerade - Bloodhunt -> Vampire_The_Masquerade_Bloodhunt
+Crosshair V2 -> Crosshair_V2
+Ghostrunner -> Ghostrunner
+EARTH DEFENSE FORCE 6 -> EARTH_DEFENSE_FORCE_6
+Ryse: Son of Rome -> Ryse_Son_of_Rome
+STAR WARS Jedi: Survivor™ -> STAR_WARS_Jedi_Survivor
+Life is Feudal: Forest Village -> Life_is_Feudal_Forest_Village
+Doki Doki Literature Club -> Doki_Doki_Literature_Club
+Alpha Protocol -> Alpha_Protocol
+Amnesia: The Dark Descent -> Amnesia_The_Dark_Descent
+The Guild II: Renaissance -> The_Guild_II_Renaissance
+The Last Campfire -> The_Last_Campfire
+Universe Sandbox -> Universe_Sandbox
+BIGFOOT -> BIGFOOT
+Ancestors Legacy -> Ancestors_Legacy
+Do Not Feed the Monkeys -> Do_Not_Feed_the_Monkeys
+WEBFISHING -> WEBFISHING
+Marvel's Spider-Man 2 -> Marvel_s_Spider_Man_2
+Suzerain -> Suzerain
+Bellwright -> Bellwright
+SNOWBREAK -> SNOWBREAK
+Realm Grinder -> Realm_Grinder
+Sins of a Solar Empire II -> Sins_of_a_Solar_Empire_II
+Broforce -> Broforce
+Kingdom: Classic -> Kingdom_Classic
+FATAL FURY: City of the Wolves -> FATAL_FURY_City_of_the_Wolves
+Driver Booster for Steam -> Driver_Booster_for_Steam
+Car Mechanic Simulator 2015 -> Car_Mechanic_Simulator_2015
+JUMP FORCE -> JUMP_FORCE
+Counter-Strike: Condition Zero -> Counter_Strike_Condition_Zero
+CRSED: Cuisine Royale -> CRSED_Cuisine_Royale
+Gothic II: Gold Classic -> Gothic_II_Gold_Classic
+Yakuza Kiwami 2 -> Yakuza_Kiwami_2
+City Car Driving -> City_Car_Driving
+Sunless Skies -> Sunless_Skies
+Devil May Cry HD Collection -> Devil_May_Cry_HD_Collection
+Coromon -> Coromon
+Madden NFL 24 -> Madden_NFL_24
+Stranded Deep -> Stranded_Deep
+Tannenberg -> Tannenberg
+Far Cry 2 -> Far_Cry_2
+Hardspace: Shipbreaker -> Hardspace_Shipbreaker
+Cyber Hunter -> Cyber_Hunter
+Ficket -> Ficket
+Dead Space -> Dead_Space
+Asphalt Legends Unite -> Asphalt_Legends_Unite
+KurtzPel -> KurtzPel
+Supermarket Together -> Supermarket_Together
+Phoenix Point -> Phoenix_Point
+LIMBO -> LIMBO
+NBA 2K19 -> NBA_2K19
+IXION -> IXION
+Just Cause -> Just_Cause
+Dungreed -> Dungreed
+Easy Red 2 -> Easy_Red_2
+Volcano Princess -> Volcano_Princess
+PGA TOUR 2K25 -> PGA_TOUR_2K25
+shapez -> shapez
+Blacklight: Retribution -> Blacklight_Retribution
+Terminator: Dark Fate - Defiance -> Terminator_Dark_Fate_Defiance
+Imperium Romanum: Gold Edition -> Imperium_Romanum_Gold_Edition
+METAL GEAR RISING: REVENGEANCE -> METAL_GEAR_RISING_REVENGEANCE
+鬼谷八荒 Tale of Immortal -> Tale_of_Immortal
+Yu-Gi-Oh! Duel Links -> Yu_Gi_Oh_Duel_Links
+Bang-On Balls: Chronicles -> Bang_On_Balls_Chronicles
+Rusted Warfare - RTS -> Rusted_Warfare_RTS
+Keep Talking and Nobody Explodes -> Keep_Talking_and_Nobody_Explodes
+Brütal Legend -> Br_tal_Legend
+RAID: World War II -> RAID_World_War_II
+Wasteland 2 -> Wasteland_2
+Dead Island Riptide -> Dead_Island_Riptide
+Railway Empire -> Railway_Empire
+Marvel's Spider-Man: Miles Morales -> Marvel_s_Spider_Man_Miles_Morales
+Contagion -> Contagion
+NieR Replicant ver.1.22474487139... -> NieR_Replicant_ver_1_22474487139
+FINAL FANTASY VII -> FINAL_FANTASY_VII
+FOUNDRY -> FOUNDRY
+Shadow Warrior -> Shadow_Warrior
+Horizon Forbidden West™ Complete Edition -> Horizon_Forbidden_West_Complete_Edition
+The Legend of Heroes: Trails of Cold Steel IV -> The_Legend_of_Heroes_Trails_of_Cold_Steel_IV
+Battlerite -> Battlerite
+Cube Racer -> Cube_Racer
+DELTARUNE -> DELTARUNE
+Fantasy Map Simulator -> Fantasy_Map_Simulator
+DRAGON BALL Z: KAKAROT -> DRAGON_BALL_Z_KAKAROT
+Game Migrated to Another Steam Page -> Game_Migrated_to_Another_Steam_Page
+Warhammer 40,000: Inquisitor - Martyr -> Warhammer_40_000_Inquisitor_Martyr
+LEGO® Star Wars™: The Complete Saga -> LEGO_Star_Wars_The_Complete_Saga
+Langrisser I & II -> Langrisser_I_II
+BioShock 2 -> BioShock_2
+Good Pizza, Great Pizza -> Good_Pizza_Great_Pizza
+Heads Will Roll: Reforged -> Heads_Will_Roll_Reforged
+World in Conflict: Soviet Assault -> World_in_Conflict_Soviet_Assault
+Lost Light -> Lost_Light
+Wolfenstein: The Old Blood  -> Wolfenstein_The_Old_Blood
+SAO Utils 2: Progressive -> SAO_Utils_2_Progressive
+Codename Gordon -> Codename_Gordon
+Death's Door -> Death_s_Door
+RAGE -> RAGE
+Warhammer 40,000: Dawn of War III -> Warhammer_40_000_Dawn_of_War_III
+Ultimate Custom Night -> Ultimate_Custom_Night
+DICEOMANCER -> DICEOMANCER
+Kena: Bridge of Spirits -> Kena_Bridge_of_Spirits
+Sultan's Game -> Sultan_s_Game
+Stronghold HD -> Stronghold_HD
+Hunting Simulator -> Hunting_Simulator
+Warhammer 40,000: Dawn of War - Soulstorm -> Warhammer_40_000_Dawn_of_War_Soulstorm
+Bridge Constructor Portal -> Bridge_Constructor_Portal
+Defense Grid: The Awakening -> Defense_Grid_The_Awakening
+Half-Life 2: Deathmatch -> Half_Life_2_Deathmatch
+Hellblade: Senua's Sacrifice -> Hellblade_Senua_s_Sacrifice
+Yakuza 4 Remastered -> Yakuza_4_Remastered
+Baba Is You -> Baba_Is_You
+OUTRIDERS -> OUTRIDERS
+Risen 2 - Dark Waters -> Risen_2_Dark_Waters
+Mortal Online 2 -> Mortal_Online_2
