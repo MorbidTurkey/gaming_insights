@@ -189,6 +189,7 @@ layout = html.Div([
                         'overflowX': 'auto',
                         'border': 'none',
                         'maxHeight': '500px',
+                        'minHeight': '200px',
                         'overflowY': 'auto',
                     },
                     style_cell={
